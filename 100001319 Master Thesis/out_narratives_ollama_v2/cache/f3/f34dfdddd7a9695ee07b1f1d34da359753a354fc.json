@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing (CDE1846) was flagged due to unusual volume of attachment data sent to external recipients and overall activity volume far outside his same-role peer distribution. Specifically, he sent 50.06 MB of email attachments, which is significantly above his typical range of 9.49 MB and the highest among peers in this role. Additionally, he had 36 external email recipients, which is within his usual range but still higher than the average among peers. Furthermore, Carlos performed 16 file operations, which is clearly above his typical range of 2 and far above the peer distribution of 1. This suggests that Carlos may have been working on a large project or collaborating with multiple external parties, warranting further investigation to understand the nature of this activity.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "ea3d0678f325"
+  }
+}

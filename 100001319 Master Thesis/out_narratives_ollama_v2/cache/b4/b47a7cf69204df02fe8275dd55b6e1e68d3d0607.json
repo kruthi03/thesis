@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly report for User ILK3668, a StockroomClerk, highlights two triggered rules: Unusual volume of logons outside the user's working hours and Elevated number of files copied to removable media. The evidence suggests that Ingrid Liberty Kane has logged in 3 times outside her typical working hours, which is above her usual range of 0. Additionally, she has copied 39 files to removable media, exceeding her typical volume by a significant margin.\n\nWhile other logon events and file operations are within Ingrid's usual range, the unusual frequency of logons outside working hours and the high number of files copied to removable media warrant further investigation.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "1f003e84ecfb"
+  }
+}

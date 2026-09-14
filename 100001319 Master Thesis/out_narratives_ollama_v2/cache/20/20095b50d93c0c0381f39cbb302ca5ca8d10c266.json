@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to unusual volume of attachment data sent to external recipients. The evidence for this anomaly is that ZCS0012 (Zenaida Carol Snow) sent 54.57 MB of email attachments, which is significantly higher than their typical volume of 23.37 MB and beyond the usual maximum of 45.10 MB. Additionally, they sent attachments to 61 external recipients, exceeding their recent typical range of 39 and this week's peer average of 44.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "e0daedcec5e8"
+  }
+}

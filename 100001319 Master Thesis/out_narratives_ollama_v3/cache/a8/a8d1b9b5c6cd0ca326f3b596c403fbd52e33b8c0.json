@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for User ILK3668, a StockroomClerk, has triggered two detection rules. The first evidence point, [F001], shows three logons outside the user's working hours, which is significantly above their typical range. The second evidence point, [F002], reveals 39 files copied to removable media, exceeding their usual range by a factor of two.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "1f003e84ecfb"
+  }
+}

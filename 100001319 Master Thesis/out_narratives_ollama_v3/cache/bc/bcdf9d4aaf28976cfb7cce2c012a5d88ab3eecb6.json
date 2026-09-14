@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The anomaly was triggered by an unusual volume of attachment data sent to external recipients. Specifically, Zenaida Carol Snow (ZCS0012) sent 54.57 MB of email attachments to 61 external recipients, which is significantly above their typical range of 23.37 MB. This is also within the range of their same-role peers, who averaged 15.75 MB this week. While the number of external recipients is within their typical range, the volume of attachments stands out.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "e0daedcec5e8"
+  }
+}

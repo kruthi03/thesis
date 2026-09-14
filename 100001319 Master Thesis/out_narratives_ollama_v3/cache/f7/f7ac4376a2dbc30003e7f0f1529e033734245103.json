@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for SCH3858, a Security Guard, has triggered detection rule R4 due to atypical browsing behavior. The evidence suggests that SCH3858 visited job-search sites 45 times, which is significantly above their usual range of 27.50 and far above the range of their peers in the same role (1). This anomaly is the primary reason for the week being flagged.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "ABP2917, a technician in the Regional Field Service team, has triggered a detection rule due to an elevated number of files copied to removable media. Specifically, 19 files were copied to removable media, which is significantly above their typical range of 6.5 files per week. This anomaly stands out as the user's overall removable device connections and file operations are within their usual range, suggesting that this increased activity is not part of their typical pattern.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

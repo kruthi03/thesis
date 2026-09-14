@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to CMP2946's unusually high number of visits to job-search sites, with 21 visits exceeding their typical behavior by a significant margin. This anomaly is evident in the evidence for rule R4, which shows a Z-score of 21.0, far beyond the typical range of 0-13.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "67ba247283ed"
+  }
+}

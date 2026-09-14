@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence for triggered rules R4 and R5. Specifically, Felix Dustin Fletcher (FDF2135) visited job-search sites 34 times, which is far outside their typical behavior and above the peer average. This is likely the primary reason for the alert, as it suggests a level of atypical interest in job searching that may warrant further investigation. Additionally, the overall activity volume was extremely high, with 129 file operations performed, well beyond both their recent typical behavior and the peer average.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "a0a7dc154e87"
+  }
+}

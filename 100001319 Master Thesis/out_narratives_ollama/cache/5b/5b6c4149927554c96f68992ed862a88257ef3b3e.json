@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, user FDF2135 (Felix Dustin Fletcher) as an Electrical Engineer in the TestAndEvaluation team exhibited atypical behavior. The most notable anomalies are their browsing activity volume and file operations. They visited job-search sites 34 times, which is far above their typical range of 0 to 7 visits and significantly higher than their same-role peers' average of 1 visit this week. Additionally, their file operations reached 129, exceeding their typical range by a significant margin (own recent typical: 78, max: 157) and deviating from the peer distribution (same-role peers this week: 1, n=313, z beyond the +-50 cap, far outside the peer range).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "a0a7dc154e87"
+  }
+}

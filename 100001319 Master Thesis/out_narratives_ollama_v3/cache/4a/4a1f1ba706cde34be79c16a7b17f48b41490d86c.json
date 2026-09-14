@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, was flagged for an anomaly in his overall activity volume, which far exceeded the typical range of his same-role peers. The evidence for this detection rule is based on file operations, which reached 8 this week, significantly higher than his usual range of 1.50. This week's value is also above the peer range of 1 across 366 peers in the same role.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "c649b67f9bdc"
+  }
+}

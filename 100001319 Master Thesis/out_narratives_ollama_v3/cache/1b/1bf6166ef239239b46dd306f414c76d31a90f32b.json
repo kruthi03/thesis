@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had a week (2011-W12) with significant file operations, 13 in total, which is far outside the typical range for his role. This is evident in both his own recent behavior and his peer group's activity this week, with an average of 1 file operation among same-role peers.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "d7021ac17ab1"
+  }
+}

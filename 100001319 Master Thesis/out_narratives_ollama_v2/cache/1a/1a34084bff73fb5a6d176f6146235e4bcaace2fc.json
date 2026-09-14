@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged Allen Cruz McCoy's (ACM2278) week for triggered rules. The main evidence is that he visited leak-publication sites three times, which is significantly above his usual range and even exceeds his highest count in the prior 12 weeks. This unusual behavior is consistent with job-search or leak-publication site browsing, a pattern atypical for his sales role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

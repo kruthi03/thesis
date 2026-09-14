@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for user HAG3196, a mathematician, was flagged due to evidence from triggered rules. The most significant evidence is the elevated number of files copied to removable media (68), which is significantly above their typical range and even exceeds their highest level in the prior 12 weeks. Additionally, the overall activity volume (167 file operations) and web requests (665) are far outside their usual range and that of same-role peers.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "6c2facc73bac"
+  }
+}

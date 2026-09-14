@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "Allen Cruz McCoy, a salesman in the Regional Sales team, had an unusual week flagged by the system. The primary reason is the sudden spike in visits to leak-publication sites, with 4 visits, which is a new behavior for this user in the past 12 weeks. This anomaly is particularly noteworthy since it is not characteristic of his role. While his overall browsing activity remains typical, with 55 distinct web domains visited and 11 visits to cloud-storage sites, this isolated incident merits further investigation to understand the motivations behind these unusual job-search site visits.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "107dcedee69e"
+  }
+}

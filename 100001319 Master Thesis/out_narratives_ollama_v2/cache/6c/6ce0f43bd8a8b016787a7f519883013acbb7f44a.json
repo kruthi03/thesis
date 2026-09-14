@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "PJC1252's anomalous behavior this week was flagged due to evidence from two triggered rules. The most significant indication is the unusually high number of files copied to removable media, with 15 instances, which is significantly above their typical range of 1 and the highest in the prior 12 weeks of 12. This suggests that PJC1252 may be trying to transfer a large amount of data or potentially hiding sensitive information.\n\nThe second indication is the atypical number of visits to job-search sites, with 12 instances, which is far above their typical range of 0 and the highest in the prior 12 weeks of 52. This suggests that PJC1252 may be searching for a new opportunity or seeking to leave their current role.\n\nNo other anomalous behavior was observed during this week, as all additional context values are within the usual ranges for PJC1252's activity.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "06ffa8b234ef"
+  }
+}

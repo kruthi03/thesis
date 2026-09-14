@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "PJC1252's activity in Week 2010-W12 appears to be anomalous due to elevated file copying to removable media and atypical browsing behavior. The system flagged this week because of two triggered rules, with the most significant evidence being [F001] files copied to removable media (15), which is significantly higher than their typical range (1-12) and beyond the expected z-score of 9.44. Additionally, there were 12 visits to job-search sites, which is well above their typical count of zero and exceeds the maximum observed value of 52 with a z-score of 12.0, making it an atypical behavior for someone in their role.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "06ffa8b234ef"
+  }
+}

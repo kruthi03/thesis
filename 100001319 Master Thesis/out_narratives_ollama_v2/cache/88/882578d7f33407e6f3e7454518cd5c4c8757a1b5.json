@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for Pamela Julie Case, a software developer, triggered two anomaly detection rules. The most significant evidence is the unusually high number of files copied to removable media (15), which is far above her typical range and even higher than the highest value seen in the prior 12 weeks. This indicates that she may have been preparing or transferring large amounts of data, which warrants further investigation. Additionally, her browsing activity shows an unusual spike in visits to job-search sites (12), exceeding both her personal average and the peer average by a significant margin.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "06ffa8b234ef"
+  }
+}

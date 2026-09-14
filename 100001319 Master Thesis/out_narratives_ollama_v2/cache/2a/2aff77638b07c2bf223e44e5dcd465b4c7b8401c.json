@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for Felix Dustin Fletcher (FDF2135) is flagged due to evidence from triggered rules. Most notable are the unusually high volume of file operations (129) and the significant increase in browsing to job-search sites (34), which is atypical for his role as an Electrical Engineer. While there was no unusual activity on leak-publication or cloud-storage sites, these findings suggest that Felix may be searching for new opportunities outside of his typical work activities.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "a0a7dc154e87"
+  }
+}

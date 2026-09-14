@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week was flagged due to unusual activity by Director Jason Amery Franco, who typically logs on only during working hours. Instead, they logged on outside those hours a total of 8 times, far exceeding their typical range of 2.50. Additionally, their overall activity volume is extremely high, with 1330 web requests, significantly above their usual 950 and the average among same-role peers this week (760).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

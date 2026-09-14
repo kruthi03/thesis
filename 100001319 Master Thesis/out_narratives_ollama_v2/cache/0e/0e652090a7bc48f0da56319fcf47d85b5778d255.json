@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system has flagged Pamela Julie Case, a Software Developer in the WebSoftware team, for unusual behavior. The evidence suggests that she copied an elevated number of files to removable media (15), which is above her typical range and significantly higher than in previous weeks. Additionally, she visited job-search sites atypical for her role 12 times this week, far exceeding her usual activity and significantly above the peer average.\n\nWhile some other contextual factors are present, such as increased file operations and distinct web domains visited, these do not appear to be directly related to the triggered rules.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "06ffa8b234ef"
+  }
+}

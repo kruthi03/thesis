@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "This week's activity for SCH3858 has triggered rule R4 due to atypical browsing behavior. The evidence suggests that Sebastian Cooper Hoffman visited job-search sites 45 times, which is significantly above their typical range (27.50 - max: 65) and well outside the norm compared to same-role peers this week (1 visit, n=91).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

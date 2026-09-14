@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The week of 2011-W02 has been flagged due to evidence from triggered rules. The most notable evidence is the unusually high volume of attachment data sent to external recipients, with 60.10 MB of attachments sent, which is well above the user's typical range of 23.15 MB and also above the peer distribution of 8.63 MB among 72 same-role peers. Additionally, the overall activity volume is far outside the peer distribution, with 51 file operations performed, which is significantly higher than the user's typical 13 and the peer average of 1.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "9cf542cc9e79"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Alice Britanney Pope (ABP2917) was flagged due to an elevated number of files copied to removable media. Specifically, 19 files were copied, which is significantly above their typical range of 6.5 files per week.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

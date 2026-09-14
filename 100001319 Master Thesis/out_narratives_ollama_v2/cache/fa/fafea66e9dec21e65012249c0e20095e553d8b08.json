@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence for triggered rules. The most significant anomaly is the elevated number of files copied to removable media, with a total of 68 files being transferred, which is above the user's typical range and highest in the prior 12 weeks. Additionally, the overall activity volume is far outside the peer distribution, with file operations reaching 167, web requests totalling 665, and visits to job-search sites reaching 31.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "6c2facc73bac"
+  }
+}

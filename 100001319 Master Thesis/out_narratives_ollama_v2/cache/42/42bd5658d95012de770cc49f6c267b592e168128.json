@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged CMP2946's activity for the week ending 2011-02-27 due to evidence from triggered rules. Specifically, it detected an unusual number of visits to job-search sites, with 7 instances this week compared to their typical range of 0 and a prior high of 21 in the past year. This is also significantly above the average for peers in the same role, with only 1 instance reported among 65 colleagues.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

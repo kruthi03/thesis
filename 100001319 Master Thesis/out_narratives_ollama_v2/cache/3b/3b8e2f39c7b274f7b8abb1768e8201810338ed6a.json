@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Sebastian Cooper Hoffman's browsing behavior is flagged as anomalous due to a significant increase in visits to job-search sites, which is atypical for his role as a Security Guard. Specifically, he visited job-search sites 45 times, which is well above his usual range of 27.50 and the highest in the prior 12 weeks. This activity is also far above the average for peers in the same role, suggesting that this may be an unusual behavior for him.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for JAF0209 (Jason Amery Franco) was flagged due to unusual volume of logons outside his working hours and overall activity volume far beyond that of same-role peers. Specifically, there were 8 logons outside typical working hours, which is a significant increase from the user's recent average of 2.5 logons per week with a maximum of 6. Additionally, there were 1330 web requests, which is more than double the user's recent typical volume and exceeds even the maximum observed in that timeframe by 190 requests. This surge in activity is particularly notable given that same-role peers averaged only 760 web requests this week.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

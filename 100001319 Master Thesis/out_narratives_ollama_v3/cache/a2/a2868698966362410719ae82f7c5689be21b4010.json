@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "MJA2380, Chief Engineer of Team 19 - Materials Engineering, had an unusual week. The triggered rules suggest that MJA2380's activity volume was far outside the norm for their role. Specifically, they sent an unusual volume of email attachments, with 60.10 MB of data sent, which is significantly above their typical range of 23.15 MB and well above the peer average of 8.63 MB. Additionally, the number of file operations, 51, is also well above their typical range of 13 and far above the peer average of 1.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "9cf542cc9e79"
+  }
+}

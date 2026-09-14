@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "CMP2946's browsing activity triggered a detection rule due to atypical visits to job-search sites. Specifically, they visited such sites 21 times this week, which is significantly above their recent typical behavior (0-13 visits) and even higher than same-role peers' average for the week (3). This unusual behavior suggests that CMP2946 may be exploring career opportunities outside of their usual sales and marketing role.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "67ba247283ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged CDE1846's (Carlos Dieter Ewing) week for review due to an unusual volume of file operations. According to the evidence, Carlos's file operations for the week (8) are significantly above his usual range (1.50) and also exceed the typical volume among his same-role peers (1). This anomaly is the primary reason for the triggered detection rules.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "c649b67f9bdc"
+  }
+}

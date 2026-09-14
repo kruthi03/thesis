@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for CMP2946, a salesman in the RegionalSales team, has been flagged due to atypical browsing behavior. Specifically, they visited job-search sites 21 times, which is far above their usual range and significantly higher than what peers in the same role typically visit (3 times this week). This anomaly suggests that CMP2946 may be searching for a new opportunity outside of their current sales role.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "67ba247283ed"
+  }
+}

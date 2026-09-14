@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer from Team 13- Electrical Engineering, had a flagged week (2011-W15). The anomaly was triggered by unusual activity volumes. Specifically, he sent a large volume of email attachments (50.06 MB) to external recipients (36), which is significantly above his typical range and far outside that of his same-role peers. Additionally, his overall file operations increased to 16, also exceeding his usual range and far beyond that of his peers.\n\nThese findings suggest that Carlos's attachment data and overall activity volume were unusually high this week, warranting further investigation to determine the cause and potential impact on his work or the organization.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "ea3d0678f325"
+  }
+}

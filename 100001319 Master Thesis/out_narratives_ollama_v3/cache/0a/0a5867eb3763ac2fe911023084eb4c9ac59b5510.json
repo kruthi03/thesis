@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, ChiefEngineer MJA2380's activity volume far exceeded that of their same-role peers, with 51 file operations, which is a significant departure from their typical 13 operations. This is the primary evidence for the triggered detection rules. Additionally, the volume of email attachment data sent to external recipients was unusually high, at 60.10 MB, which is well above their typical 23.15 MB and the peer range of 8.63 MB.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "9cf542cc9e79"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, triggered a detection rule this week due to an unusual volume of attachment data sent to external recipients. Specifically, he sent 57.08 MB of email attachments, which is significantly above his usual range of 9.49 MB and also above the typical range of 6.96 MB seen among his peers. Additionally, he sent attachments to 33 external recipients, which is also above his usual range and the peer range.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "a5957fc70bf9"
+  }
+}

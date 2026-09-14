@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user AGW1590, a salesman in the RegionalSales team, was flagged due to an elevated number of files copied to removable media and overall activity volume far outside the peer distribution. Specifically, 12 files were copied to removable media, which is significantly above their usual range of 3. Additionally, there were 34 file operations, which is also above their typical range of 14 and far above the peer range of 1 across 328 peers in this role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "d0dc80a513b1"
+  }
+}

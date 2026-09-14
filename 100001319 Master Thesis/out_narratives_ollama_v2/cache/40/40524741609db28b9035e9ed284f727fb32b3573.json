@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer from Team 13, had a week with significantly higher file operations than his peers. His own typical range was between 1 and 6, but he hit 13 this week, which is beyond what's expected even for his role. This anomaly triggered rule R5, indicating that his overall activity volume is far outside the same-role peer distribution.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "d7021ac17ab1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, CMP2946's browsing behavior is unusual for their role as a Salesman. Specifically, they visited job-search sites 7 times, which is significantly above their typical range of 0 visits. This is also higher than what peers in the same role experienced this week, with 1 visit on average among 65 peers. This anomaly is the primary evidence for the triggered rule R4.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user CDE1846, Carlos Dieter Ewing, was flagged due to an anomaly in their file operations. Specifically, the overall volume of file operations was significantly higher than what's typical for their role and peers. The file operations count of 8 is well above their usual range of 1.50, and also exceeds the average among same-role peers by a wide margin.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "c649b67f9bdc"
+  }
+}

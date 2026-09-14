@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week, user AGW1590's activity volume far exceeded that of their same-role peers, with a total of 34 file operations recorded. Additionally, they copied an elevated number of files to removable media, with 12 instances observed. While these values are above their typical range, the most notable aspect is the stark contrast between their activity and that of their peers, with a z-score of 22.26 for file operations and 5.35 for files copied to removable media.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "d0dc80a513b1"
+  }
+}

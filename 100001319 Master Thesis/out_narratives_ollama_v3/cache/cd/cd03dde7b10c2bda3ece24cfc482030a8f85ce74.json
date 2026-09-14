@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "Jason Amery Franco, a Director in the Research and Engineering department, had a week that triggered some alarm bells. The main concerns are the unusually high volume of logons outside his typical working hours and the extremely high overall activity volume compared to his peers. Specifically, he had 8 logons outside his usual hours, which is significantly above his typical 2.50 logons in that timeframe. Additionally, his web requests reached 1330, which is far beyond his usual 950 and even exceeds the typical range of 760 among same-role peers.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

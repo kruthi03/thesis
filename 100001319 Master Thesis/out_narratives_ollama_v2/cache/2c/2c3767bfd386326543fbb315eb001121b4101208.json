@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly was triggered due to ACM2278 (Allen Cruz Mccoy) visiting leak-publication sites atypical for his sales role. The evidence shows that he visited these sites 4 times, which is a significant increase from the prior 12 weeks where no such activity was observed.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "107dcedee69e"
+  }
+}

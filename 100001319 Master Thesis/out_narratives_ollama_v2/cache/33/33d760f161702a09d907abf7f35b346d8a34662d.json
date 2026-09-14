@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "The anomaly flagged for review this week was triggered by Allen Cruz Mccoy's atypical browsing behavior, specifically his visits to leak-publication sites. The evidence suggests that he visited such sites three times this week, which is clearly above his usual range of zero and even higher than the highest in the prior 12 weeks. This unusual activity is consistent with rule R4, which flags users who suddenly start visiting job-search or leak-publication sites.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

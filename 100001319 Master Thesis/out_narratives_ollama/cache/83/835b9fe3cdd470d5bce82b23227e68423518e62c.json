@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user ACM2278 (Allen Cruz Mccoy) has triggered rule R4 due to atypical browsing behavior. Specifically, there were 4 visits to leak-publication sites, which is a significant departure from his typical behavior over the past 12 weeks. This anomaly suggests that Allen may be searching for job information or seeking alternative sources of information outside of normal channels.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "107dcedee69e"
+  }
+}

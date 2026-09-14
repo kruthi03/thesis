@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, ACM2278's browsing activity triggered rule R4, indicating atypical visits to leak-publication sites. Specifically, there were 3 visits to such sites, which is clearly above their usual range of 0. This is the only unusual behavior observed, as their visits to job-search sites, cloud-storage sites, and overall web domains visited are within their typical range.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

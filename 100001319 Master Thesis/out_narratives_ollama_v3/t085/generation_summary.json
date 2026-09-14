@@ -1,0 +1,21 @@
+{
+  "model": "llama3:latest",
+  "prompt_version": "v3",
+  "k": 10,
+  "temperature": 0.7,
+  "temperature_supported": true,
+  "pooling": {
+    "method": "semantic",
+    "threshold": 0.85,
+    "embed_model": "nomic-embed-text:latest"
+  },
+  "seed": 20260816,
+  "effort": null,
+  "signals_requested": 20,
+  "signals_succeeded": 20,
+  "malicious_signals": 8,
+  "unique_sentences": 197,
+  "cache_hits": 200,
+  "cache_misses": 0,
+  "failures": []
+}

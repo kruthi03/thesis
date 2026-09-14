@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Chief Engineer Mercedes Josephine Ayala (MJA2380) had an unusual volume of activity. The most notable anomalies are the large amount of attachment data sent to external recipients (60.10 MB, significantly higher than her typical or peer average) and a high overall activity volume that exceeds same-role peer distribution by a wide margin.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "9cf542cc9e79"
+  }
+}

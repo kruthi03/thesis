@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "The week was flagged due to evidence for triggered rules. Specifically, Hall Aladdin Gardner (HAG3196) copied 68 files to removable media, which is significantly above their typical range of 43 files. Additionally, their file operations totalled 167, which is also far above their typical range of 126.50. Furthermore, they visited job-search sites 31 times, which is more than double their typical frequency of 10.50. Lastly, their overall activity volume, measured by web requests, was 665, which is also far above their typical range of 475.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "6c2facc73bac"
+  }
+}

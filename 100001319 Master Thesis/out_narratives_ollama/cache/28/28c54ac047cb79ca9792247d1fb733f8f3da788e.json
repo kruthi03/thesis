@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "Carlos Dieter Ewing's activity volume for file operations far exceeded that of his peers in Electrical Engineering, with a z-score of 8.09. This suggests that he had an unusually high level of file-related activity this week, which triggered rule R5 and flagged the week for review.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "d7021ac17ab1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "The UEBA system flagged this week for AVH0566 due to an unusual volume of logons outside their typical working hours. The evidence suggests that the number of logons outside working hours (4) is significantly higher than their recent typical range (1). This anomaly is the primary reason for the triggered detection rules.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "30e15748717a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged Carlos Dieter Ewing's (CDE1846) activity for review due to evidence of unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. Specifically, [F001] shows that Carlos sent a significant amount of email attachments this week, with 50.06 MB being well above their typical range (9.49 MB) and even higher than usual for his peers (9.00 MB). Additionally, [F003] indicates that Carlos performed an unusual number of file operations, with 16 operations being significantly higher than their recent average (2) and even more extreme compared to their peers (1).",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "ea3d0678f325"
+  }
+}

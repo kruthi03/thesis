@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The week in question, 2010-W52, was flagged due to unusual volume of logons outside the user's typical working hours and overall activity volume far outside the same-role peer distribution. Specifically, Jason Amery Franco (JAF0209) had 8 logons outside their usual working hours, which is significantly higher than their typical range of 2.50. Additionally, their total web requests for the week reached 1330, which is far above their typical range of 950 and even exceeds the typical range of 760 among same-role peers.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

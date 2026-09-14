@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "SCH3858's browsing behavior has triggered a detection rule due to an atypical number of visits to job-search sites. Specifically, they visited these sites 45 times this week, which is significantly higher than their typical usage (27.50) and beyond the maximum recorded frequency (65). This anomaly is even more pronounced when compared to same-role peers, who only averaged 1 visit to such sites this week.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

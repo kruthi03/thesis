@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "The anomaly was triggered by evidence that ACM2278, a salesman with normal browsing habits, visited leak-publication sites three times this week. This is unusual for their role, as they typically don't visit these types of sites at all (0 visits in the prior 12 weeks), and this week's three visits are clearly above their usual range.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

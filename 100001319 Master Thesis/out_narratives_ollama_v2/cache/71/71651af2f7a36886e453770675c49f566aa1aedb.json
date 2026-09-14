@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged this week for MJA2380, ChiefEngineer of Team 19 - MaterialsEngineering, due to unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. The evidence for this lies in the unusually high volume of attachment data sent, at 60.10 MB, which is well above their typical range and even higher than the highest volume in the prior 12 weeks. Additionally, the file operations total of 51 is also significantly higher than their typical range and far above the peer distribution.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "9cf542cc9e79"
+  }
+}

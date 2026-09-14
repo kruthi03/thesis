@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, user HAG3196's activity was flagged due to evidence for triggered rules. The most notable anomalies are the elevated number of files copied to removable media (68), which is far outside their typical range (43-54), and the overall volume of file operations (167) that is significantly higher than usual (126.50). Additionally, there were atypical visits to job-search sites (31), a significant increase from their typical 10.50. These findings are not isolated to a specific context, as other evidence suggests normal activity in terms of removable device connections, logon events, and workstation usage.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "6c2facc73bac"
+  }
+}

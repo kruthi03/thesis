@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing (CDE1846), an Electrical Engineer from Team 13, has triggered two anomaly detection rules for the week ending 2011-04-17. The primary concern is the unusual volume of attachment data sent to external recipients ([R3]), which is characterized by a significant increase in bytes of email attachments sent (50.06 MB) compared to his typical recent activity (9.49 MB). Additionally, the overall activity volume far exceeds that of same-role peers this week, with 16 file operations observed, whereas the peer group average is only 1.\n\nThese findings are likely driven by the unusually high number of external email recipients (36), which is more than three times his typical recent count (11.50). The large volume of attachment data sent to these external recipients suggests that Carlos may have been working on a project or collaborating with colleagues outside his team, potentially involving a significant amount of file sharing and exchange.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "ea3d0678f325"
+  }
+}

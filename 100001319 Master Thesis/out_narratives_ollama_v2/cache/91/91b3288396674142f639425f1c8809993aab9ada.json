@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Carlos Dieter Ewing's email activity was flagged due to an unusual volume of attachment data sent to external recipients. Specifically, he sent 57.08 MB of attachments, which is significantly above his typical range (9.49 MB) and even higher than the peer average (6.96 MB). This anomaly is supported by rule R3, which detects unexplained increases in attachment data sent to external recipients. While Carlos' overall email volume was within his usual range this week, the substantial increase in attachment size suggests that he may have been sharing large files with colleagues or collaborators outside of his team.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "a5957fc70bf9"
+  }
+}

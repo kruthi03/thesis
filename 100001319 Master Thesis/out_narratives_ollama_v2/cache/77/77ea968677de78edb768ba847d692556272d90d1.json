@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for SCH3858, a Security Guard, was flagged due to an unusual increase in browsing activity related to job-search sites. The evidence shows that they visited job-search sites 45 times, which is significantly above their typical range of 27.50 and even higher than their highest activity in the prior 12 weeks. This increase is also notable compared to their same-role peers, who visited job-search sites an average of 1 time this week.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

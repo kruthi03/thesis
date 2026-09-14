@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence that CMP2946, a salesman from the RegionalSales team, visited job-search sites atypical for their role. Specifically, they made 7 visits to job-search sites, which is clearly above their usual range and even higher than what peers in the same role visited this week (1 visit among 65 peers). This unusual behavior triggered rule R4.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

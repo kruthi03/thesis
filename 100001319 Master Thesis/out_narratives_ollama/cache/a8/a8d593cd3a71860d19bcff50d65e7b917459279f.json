@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user PJC1252, a Software Developer in the Research and Engineering team, has triggered two detection rules. The most significant evidence is the elevated number of files copied to removable media (15), which is 9 standard deviations away from their typical behavior. This is unusual even compared to other developers in the same role, who typically don't exceed 12 files copied in a week.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "06ffa8b234ef"
+  }
+}

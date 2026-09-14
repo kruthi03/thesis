@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "Ariel Venus Hooper, a Systems Engineer, had an unusual week in terms of logon activity. The triggered rule detected a significant increase in logons outside of their typical working hours. Specifically, there were 4 logons outside of their usual hours, which is well above their typical range of 1. This spike in activity is notable and warrants further review to determine the cause.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "30e15748717a"
+  }
+}

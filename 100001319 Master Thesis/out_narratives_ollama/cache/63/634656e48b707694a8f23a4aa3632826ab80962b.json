@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "ACM2278's (Allen Cruz McCoy) activity was flagged due to an unusual increase in visits to leak-publication sites, with a total of 4 such visits observed during the week. This is atypical for his role and has not been seen before in the past 12 weeks.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

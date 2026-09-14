@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user CMP2946 (Chandler Martin Page) triggered rule R4, indicating unusual browsing behavior. The evidence suggests that CMP2946 visited job-search sites 7 times, which is significantly above their typical usage and exceeds the maximum value observed in similar roles. This anomaly is notable given the lack of visits to leak-publication sites and the relatively normal usage patterns in other areas, such as cloud storage and web domains.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

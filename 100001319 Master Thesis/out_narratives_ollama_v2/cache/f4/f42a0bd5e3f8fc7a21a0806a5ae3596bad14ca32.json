@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "This week's activity for user HAG3196 shows a significant increase in file operations and web requests, with volumes far outside their typical range. The number of files copied to removable media is also elevated, at 68 compared to their recent average of 43 and maximum of 54. Additionally, the user visited job-search sites 31 times, which is well above their typical frequency of 10.5 and exceeds the same-role peer average by a significant margin.\n\nThese findings are most concerning, as they suggest that HAG3196's activity has deviated substantially from their expected behavior.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "6c2facc73bac"
+  }
+}

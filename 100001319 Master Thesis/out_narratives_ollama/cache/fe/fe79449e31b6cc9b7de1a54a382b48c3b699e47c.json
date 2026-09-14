@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Jason Amery Franco's (JAF0209) unusual volume of logons outside his working hours triggered rule R1. Specifically, he had 8 logons during non-working hours, which is significantly higher than his typical 2.5 logons and exceeds the maximum 6 logons recorded in recent history. Additionally, his overall activity volume far exceeded that of same-role peers, triggering rule R5.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

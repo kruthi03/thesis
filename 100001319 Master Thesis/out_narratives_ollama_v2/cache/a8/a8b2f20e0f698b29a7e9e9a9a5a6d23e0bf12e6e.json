@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "Ariel Venus Hooper's (AVH0566) activity during Week 2010-W42 appears unusual due to an unexplained increase in logons outside their typical working hours. Specifically, there were 4 such logons, which is significantly higher than their recent typical volume of 1-2 logons and exceeds the maximum recorded value by a factor of 3. This anomaly triggered rule R1, suggesting that AVH0566 may have been accessing systems or resources outside their usual work schedule.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "30e15748717a"
+  }
+}

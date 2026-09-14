@@ -1,0 +1,19 @@
+{
+  "key": [
+    "107dcedee69e",
+    "gemini-3.6-flash",
+    "v6",
+    "0.7000"
+  ],
+  "text": [
+    "User ACM2278 was flagged under rule R4 due to 4 visits to leak-publication sites during week 2010-W33, activity that was not observed for this user in the prior 12 weeks. This primary finding represents the sole anomaly as leak-site browsing is atypical for the role. In contrast, other web browsing context remained mostly baseline, including 25 visits to job-search sites and 11 visits to cloud-storage sites. User ACM2278 logged on across 6 days from 1 workstation, with earliest and latest logon hours of 2 and 21 respectively. Given that leak-site visits are rare, this warrants further review to check the intent behind visiting these domains.",
+    "The primary driver for this alert is 4 visits to leak-publication sites by user ACM2278 during week 2010-W33, which had not been recorded for this user over the previous 12 weeks. While this triggered rule R4, the evidence is relatively thin with only 4 visits recorded across the entire week. Supporting context shows standard routine behavior elsewhere, such as visiting 55 distinct web domains and 11 cloud-storage sites, both within usual ranges. User ACM2278 also logged 25 job-search site visits, matching the user's recent personal typical count. These 4 visits could reflect accidental navigation or routine web browsing rather than malicious activity.",
+    "During week 2010-W33, user ACM2278 logged 4 visits to leak-publication sites, generating a flag under rule R4 as no such visits occurred in the preceding 12 weeks. This stands out as the main finding of interest for security monitoring. Contextual data indicates user ACM2278 maintained activity across 6 days, utilizing 1 workstation and reaching 55 distinct web domains. User ACM2278 also visited job-search sites 25 times and cloud-storage sites 11 times during the same week. This pattern of leak-site visits combined with ongoing job-search interest could suggest an emerging flight risk or policy concern requiring verification.",
+    "User ACM2278 triggered rule R4 in week 2010-W33 specifically due to 4 visits to leak-publication sites, which constitutes the key evidence as zero visits were observed in the past 12 weeks. The volume of 4 visits is small, making the overall evidence fairly limited. Other contextual metrics reflect normal baseline behavior, including using 1 workstation, activity across 6 days, and earliest and latest logons at hours 2 and 21. User ACM2278 also visited 11 cloud-storage sites and 55 distinct web domains, both within historical expectations. It is plausible these 4 visits were prompted by news or general curiosity rather than intentional policy violations.",
+    "Rule R4 was triggered for user ACM2278 after recording 4 visits to leak-publication sites in week 2010-W33, a deviation from the previous 12 weeks where no such visits occurred. This small count of 4 visits matters most as the sole anomalous finding. The rest of the week's indicators remained consistent with normal activity, such as accessing 55 distinct web domains and 11 cloud-storage sites. User ACM2278 logged activity on 6 days using 1 workstation, with logon hours spanning from 2 to 21. Given the low number of events, these visits might represent ad redirects or misclassified domain traffic rather than deliberate actions by user ACM2278."
+  ],
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

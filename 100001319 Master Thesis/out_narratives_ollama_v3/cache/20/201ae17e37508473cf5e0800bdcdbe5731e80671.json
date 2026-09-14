@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for AFB3228, Adele Fiona Boone, an Electrical Engineer, has triggered two rules. The main evidence for this is the unusual volume of logons outside her working hours, with 4 instances, which is significantly above her typical range. Additionally, her browsing activity shows an atypical number of visits to job-search sites, with 70 visits, far exceeding her usual range of 36. This is also above the peer range of 8 visits among 366 peers in the same role.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

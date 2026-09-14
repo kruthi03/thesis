@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activities for user AFB3228 (Adele Fiona Boone) have triggered two detection rules. The most notable findings are the unusual volume of logons outside working hours and browsing to job-search sites atypical for her role. Specifically, there were four logons outside regular working hours, which is clearly above her usual range. Additionally, there were 70 visits to job-search sites, which is also significantly higher than her typical activity and even exceeds the average among peers in this role.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

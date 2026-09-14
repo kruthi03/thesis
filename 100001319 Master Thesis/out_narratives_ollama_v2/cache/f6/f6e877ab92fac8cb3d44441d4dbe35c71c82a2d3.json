@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "Carlos Dieter Ewing's email activity has triggered a security alert. The most concerning evidence is that he sent 57.08 MB of attachments to external recipients, which is significantly above his usual range and even higher than what his peers typically send this week. This anomaly suggests that Carlos may have shared unusually large or sensitive files with people outside his team.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "a5957fc70bf9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "Carlos Dieter Ewing's (CDE1846) activity volume this week is significantly higher than that of his same-role peers. Specifically, he performed 13 file operations, which is well outside the typical range for someone in his role and team. This unusual spike in file operations drove the overall activity volume anomaly that triggered detection rule R5.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "d7021ac17ab1"
+  }
+}

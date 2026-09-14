@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, was flagged for review due to evidence indicating an atypical week. The main concerns are the unusually high volume of activity and visits to job-search sites. The evidence for these triggered rules includes 34 visits to job-search sites, which is far above their usual range and significantly higher than what their peers in the same role experienced this week. Additionally, there were 129 file operations, which is also far above their usual range and outside the peer range.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "a0a7dc154e87"
+  }
+}

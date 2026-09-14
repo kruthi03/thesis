@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "SCH3858's behavior is flagged for review due to evidence that suggests an unusual increase in browsing to job-search sites, which is atypical for their role as a Security Guard. Specifically, their own recent typical behavior was 27.50 visits, but this week they visited job-search sites 45 times, with a z-score of 3.34 indicating a significant deviation from normalcy. This is even more pronounced compared to same-role peers, who averaged only 1 visit during the same period (z=29.68).",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

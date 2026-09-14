@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "This week's activity for user ACM2278 (Allen Cruz Mccoy) was flagged due to evidence that they visited leak-publication sites atypical for their role. Specifically, there were 4 visits to such sites, which is a significant departure from their typical behavior in the prior 12 weeks where this type of activity was not observed.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "107dcedee69e"
+  }
+}

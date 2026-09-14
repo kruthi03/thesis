@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "The week of 2011-W10 was flagged due to evidence for triggered rules. Notably, Hall Aladdin Gardner (HAG3196) demonstrated an elevated number of files copied to removable media, with 68 files copied, which is significantly above their typical range of 43 files. Additionally, their overall activity volume was far outside the same-role peer distribution, with 665 web requests, 167 file operations, and 31 visits to job-search sites, all of which are well above their typical ranges. These activity levels are also significantly higher than those of their peers in the same role.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "6c2facc73bac"
+  }
+}

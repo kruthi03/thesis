@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing (CDE1846), an Electrical Engineer from Team 13, had a significant spike in file operations this week. Normally, his weekly file operation count ranges from 1.50 to 13, but he performed 8 operations, which is far above the average for same-role peers and significantly exceeds his own recent typical activity. This unusual behavior triggered rule R5, indicating that his overall activity volume is outside the norm for his role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "c649b67f9bdc"
+  }
+}

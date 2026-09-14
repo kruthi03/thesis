@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "HAG3196, a mathematician in the Research and Engineering department, has triggered several anomaly detection rules this week. Specifically, the evidence suggests that HAG3196 has exhibited elevated file copying to removable media (68 files, significantly above their typical range of 43), as well as atypical browsing behavior, including visits to job-search sites (31, well above their typical 10.5) and overall activity volume that is far outside the peer distribution (file operations: 167, web requests: 665, both significantly above their typical ranges).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "6c2facc73bac"
+  }
+}

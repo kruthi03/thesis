@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "The user, HAG3196, was flagged for unusual activity this week. The most significant evidence points to [R2] Elevated number of files copied to removable media, with 68 files copied, significantly above their typical range of 43. Additionally, [R4] Browsing to job-search or leak-publication sites atypical for the role was triggered, with 31 visits to job-search sites, far above their usual 10.50 and exceeding the peer range. Finally, [R5] Overall activity volume far outside the same-role peer distribution was triggered, with 167 file operations, 665 web requests, and 31 visits to job-search sites, all significantly above their typical and peer ranges.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "6c2facc73bac"
+  }
+}

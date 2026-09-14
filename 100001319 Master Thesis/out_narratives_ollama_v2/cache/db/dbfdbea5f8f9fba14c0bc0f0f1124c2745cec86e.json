@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "CMP2946's (Chandler Martin Page) browsing activity has triggered a detection rule, indicating atypical behavior for their role. Specifically, they visited job-search sites 7 times this week, which is clearly above their usual range and even exceeds that of their peers in similar roles. This suggests that CMP2946 may be considering a career change or looking to leave their current position.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

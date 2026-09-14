@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "Pamela Julie Case, a software developer with Team 7-WebSoftware and Functional Unit 3-ResearchAndEngineering_Government_Domestic, had an anomalous week from March 22 to March 28. The UEBA system flagged it due to evidence for two triggered rules: elevated file copying to removable media and browsing to job-search or leak-publication sites atypical for her role.\n\nThe most notable finding is the significant increase in files copied to removable media, with 15 instances observed this week, which is well above her usual range. Additionally, her browsing activity indicates a high number of visits to job-search sites, with 12 occurrences this week, far exceeding her typical behavior and even surpassing that of her peers.\n\nWhile other context values suggest Pamela's overall activity was normal, these two findings are cause for further investigation to understand the motivations behind her unusual behavior.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "06ffa8b234ef"
+  }
+}

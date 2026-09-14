@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Chandler Martin Page, a salesman in the Regional Sales team, has been flagged for an anomaly in his browsing behavior. The triggered rule, R4, suggests that his visits to job-search sites are atypical for his role. This is particularly notable since his usual range is 0, and this week's count of 21 is far above his usual range. Additionally, his browsing activity is significantly higher than that of his peers in the same role. While it's possible that Page is simply looking for new job opportunities, this unusual behavior warrants further review to rule out any potential security concerns.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "67ba247283ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "SCH3858, a Security Guard, has exhibited unusual browsing behavior this week, visiting job-search sites 45 times, which is significantly above their typical range of 27.50. This is also far above the range of their peers, who averaged only 1 visit to job-search sites this week. This anomaly is likely indicative of a change in their job search habits or a desire to explore new job opportunities.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "Pamela Julie Case, a software developer in the Web Software team's Research and Engineering group, had an anomalous week. The evidence points to two main triggers that caught the system's attention. Firstly, she copied 15 files to removable media, which is significantly higher than her usual range of 1 file per week or less in the prior 12 weeks. This suggests that there may be some unusual activity related to data transfer or storage. Secondly, she visited job-search sites 12 times this week, which is far above her typical frequency of zero visits and even exceeds the peer average of one visit among 85 peers in the same role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "06ffa8b234ef"
+  }
+}

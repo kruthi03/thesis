@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ACM2278's activity for the week ending August 22nd due to unusual browsing behavior. Specifically, there were four visits to leak-publication sites, which is a rare occurrence for a salesman in this role. This anomaly was not seen in the prior 12 weeks, indicating that this behavior is out of character for Allen Cruz McCoy.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "107dcedee69e"
+  }
+}

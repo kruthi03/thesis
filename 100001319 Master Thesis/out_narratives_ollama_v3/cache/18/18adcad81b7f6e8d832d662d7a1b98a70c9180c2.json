@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Ingrid Liberty Kane's (ILK3668) activity was flagged for review due to unusual volume of logons outside her working hours and elevated number of files copied to removable media. Specifically, there were 3 logons outside working hours, which is above her usual range of 0. Additionally, 39 files were copied to removable media, significantly exceeding her typical range of 20.50.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "1f003e84ecfb"
+  }
+}

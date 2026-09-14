@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, CMP2946 (Chandler Martin Page) triggered rule R4, indicating atypical browsing behavior for their role. Specifically, they visited job-search sites 21 times, which is far above their usual range and significantly higher than what peers in the same role typically see. This suggests that CMP2946 may be using job-search sites for a purpose not typical of their role as a salesman.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "67ba247283ed"
+  }
+}

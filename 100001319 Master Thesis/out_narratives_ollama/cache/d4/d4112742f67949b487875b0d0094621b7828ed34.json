@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activities for Ingrid Liberty Kane, a StockroomClerk, triggered two anomaly detection rules. The most concerning evidence is the unusually high number of files copied to removable media (39), exceeding her recent typical volume by 19 files and beyond the maximum recorded value by 1 file. This suggests that Ingrid may have copied more files than usual or potentially shared them with others outside the organization.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "1f003e84ecfb"
+  }
+}

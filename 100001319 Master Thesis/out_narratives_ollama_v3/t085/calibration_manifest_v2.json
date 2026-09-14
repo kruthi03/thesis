@@ -1,0 +1,274 @@
+{
+  "n_rows": 567,
+  "n_unique_users": 55,
+  "calibration_set_size_note": "197-row calibration input is below docs/stage_4.md's 500-1000 practical floor; this run reports the bound as-is rather than scaling generation, per the 'report a wide bound and say so' path documented there.",
+  "generation_config": {
+    "generation_model": "llama3:latest",
+    "k": 10,
+    "temperature": 0.7,
+    "pooling_threshold": 0.85,
+    "rendering_version": "v3"
+  },
+  "manifests_by_loss_policy": {
+    "primary": {
+      "alpha_grid": [
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25
+      ],
+      "delta": 0.1,
+      "loss_policy": "primary",
+      "calibrate_fraction": 0.5,
+      "lambda_grid": [
+        1.0,
+        0.95,
+        0.9,
+        0.85,
+        0.8,
+        0.75,
+        0.7,
+        0.65,
+        0.6,
+        0.55,
+        0.5,
+        0.45,
+        0.4,
+        0.35,
+        0.3,
+        0.25,
+        0.2,
+        0.15,
+        0.1,
+        0.05,
+        0.0
+      ],
+      "pooling_threshold": 0.85,
+      "rendering_version": "v3",
+      "generation_model": "llama3:latest",
+      "k": 10,
+      "temperature": 0.7,
+      "seed": 42,
+      "ltt_results": [
+        {
+          "alpha": 0.05,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.009933774834437087,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 3.0,
+          "p_value": 0.00041007130922406684,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.1,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.009933774834437087,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 3.0,
+          "p_value": 2.818236649190853e-10,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.15,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.009933774834437087,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 3.0,
+          "p_value": 3.4769701749068125e-17,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.2,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.009933774834437087,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 3.0,
+          "p_value": 1.0872188147150525e-24,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.25,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.009933774834437087,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 3.0,
+          "p_value": 8.751197925151886e-33,
+          "status": "pass"
+        }
+      ],
+      "crc_results": [
+        {
+          "alpha": 14,
+          "lambda_hat": 0.0,
+          "achieved_loss": 3.0,
+          "n_selected": 302,
+          "n_wrong": 3.0
+        },
+        {
+          "alpha": 28,
+          "lambda_hat": 0.0,
+          "achieved_loss": 3.0,
+          "n_selected": 302,
+          "n_wrong": 3.0
+        },
+        {
+          "alpha": 43,
+          "lambda_hat": 0.0,
+          "achieved_loss": 3.0,
+          "n_selected": 302,
+          "n_wrong": 3.0
+        },
+        {
+          "alpha": 57,
+          "lambda_hat": 0.0,
+          "achieved_loss": 3.0,
+          "n_selected": 302,
+          "n_wrong": 3.0
+        },
+        {
+          "alpha": 71,
+          "lambda_hat": 0.0,
+          "achieved_loss": 3.0,
+          "n_selected": 302,
+          "n_wrong": 3.0
+        }
+      ]
+    },
+    "secondary": {
+      "alpha_grid": [
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25
+      ],
+      "delta": 0.1,
+      "loss_policy": "secondary",
+      "calibrate_fraction": 0.5,
+      "lambda_grid": [
+        1.0,
+        0.95,
+        0.9,
+        0.85,
+        0.8,
+        0.75,
+        0.7,
+        0.65,
+        0.6,
+        0.55,
+        0.5,
+        0.45,
+        0.4,
+        0.35,
+        0.3,
+        0.25,
+        0.2,
+        0.15,
+        0.1,
+        0.05,
+        0.0
+      ],
+      "pooling_threshold": 0.85,
+      "rendering_version": "v3",
+      "generation_model": "llama3:latest",
+      "k": 10,
+      "temperature": 0.7,
+      "seed": 42,
+      "ltt_results": [
+        {
+          "alpha": 0.05,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.006622516556291391,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 2.0,
+          "p_value": 7.270173024400399e-05,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.1,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.006622516556291391,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 2.0,
+          "p_value": 2.4577891992150142e-11,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.15,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.006622516556291391,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 2.0,
+          "p_value": 1.932171146451136e-18,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.2,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.006622516556291391,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 2.0,
+          "p_value": 4.289778788353276e-26,
+          "status": "pass"
+        },
+        {
+          "alpha": 0.25,
+          "lambda_hat": 0.0,
+          "achieved_risk": 0.006622516556291391,
+          "n_calibrate": 302,
+          "n_selected": 302,
+          "n_wrong": 2.0,
+          "p_value": 2.5986820561231125e-34,
+          "status": "pass"
+        }
+      ],
+      "crc_results": [
+        {
+          "alpha": 14,
+          "lambda_hat": 0.0,
+          "achieved_loss": 2.0,
+          "n_selected": 302,
+          "n_wrong": 2.0
+        },
+        {
+          "alpha": 28,
+          "lambda_hat": 0.0,
+          "achieved_loss": 2.0,
+          "n_selected": 302,
+          "n_wrong": 2.0
+        },
+        {
+          "alpha": 43,
+          "lambda_hat": 0.0,
+          "achieved_loss": 2.0,
+          "n_selected": 302,
+          "n_wrong": 2.0
+        },
+        {
+          "alpha": 57,
+          "lambda_hat": 0.0,
+          "achieved_loss": 2.0,
+          "n_selected": 302,
+          "n_wrong": 2.0
+        },
+        {
+          "alpha": 71,
+          "lambda_hat": 0.0,
+          "achieved_loss": 2.0,
+          "n_selected": 302,
+          "n_wrong": 2.0
+        }
+      ]
+    }
+  }
+}

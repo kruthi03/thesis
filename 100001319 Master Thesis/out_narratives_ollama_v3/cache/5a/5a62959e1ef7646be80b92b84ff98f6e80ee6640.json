@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Chandler Martin Page, a salesman in the Regional Sales team, had a week that triggered rule R4. The evidence is that he visited job-search sites 7 times, which is clearly above his typical range and also above the range of his peers.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

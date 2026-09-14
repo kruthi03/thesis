@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "The unusual volume of attachment data sent to external recipients, as seen in evidence F001, is the primary reason this week was flagged. This week's email attachments total 50.06 MB, significantly higher than Carlos Dieter Ewing's typical range of 9.49 MB and far above the peer distribution of 9.00 MB among same-role peers.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ea3d0678f325"
+  }
+}

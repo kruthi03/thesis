@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Jason Amery Franco's activity triggered two anomaly detection rules. The most notable evidence is the unusually high volume of web requests (1330) that far exceeds their typical behavior and even surpasses their peer group's average. Additionally, there were eight logons outside his working hours, which is significantly above his usual range.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

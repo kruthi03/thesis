@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "PJC1252, a software developer in Team 7-WebSoftware's ResearchAndEngineering_Government_Domestic functional unit, has triggered detection rules. The evidence suggests that this week was anomalous due to an elevated number of files copied to removable media (15, significantly above their usual range) and atypical browsing behavior, visiting job-search sites (12, far above their typical 0 and peer average of 1).",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "06ffa8b234ef"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for ZCS0012, VicePresident of PurchasingAndContracts, triggered rule R3 due to an unusual volume of attachment data sent to external recipients. Specifically, the 54.57 MB of email attachments sent this week is significantly above their typical range of 23.37 MB, which is also above the average among peers in the same role. However, it's worth noting that the number of external email recipients, 61, is within their usual range and similar to what peers in the same role have seen this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "e0daedcec5e8"
+  }
+}

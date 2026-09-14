@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, Vice President Zenaida Carol Snow's (ZCS0012) email activity triggered a rule due to an unusual volume of attachment data sent to external recipients. The evidence suggests that the total bytes of email attachments sent reached 54.57 MB, significantly above their usual range of 23.37 MB. Meanwhile, the number of external recipients remains within their typical range of 39. This anomaly is concerning, as it indicates that Vice President Snow may have sent a larger-than-usual amount of sensitive or confidential information to external parties.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "e0daedcec5e8"
+  }
+}

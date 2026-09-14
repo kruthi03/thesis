@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer in the Research and Engineering department, had a week (2011-W15) that triggered our anomaly detection rules. The main evidence points are that he sent 50.06 MB of email attachments, which is far above his typical range of 9.49 MB, and also above the range of his peers in the same role. Additionally, he performed 16 file operations, which is significantly higher than his typical 2 and far above the peer range of 1. This unusual activity volume, combined with the large volume of attachment data sent to external recipients, prompted the triggered detection rules.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ea3d0678f325"
+  }
+}

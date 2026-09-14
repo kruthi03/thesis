@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "User CDE1846 (Carlos Dieter Ewing) was flagged due to an unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. The most notable evidence is the 50.06 MB of email attachments sent, which is clearly above their usual range and that of same-role peers. Additionally, there were 16 file operations performed, which is also significantly higher than their typical and peer ranges.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ea3d0678f325"
+  }
+}

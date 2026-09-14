@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing, an Electrical Engineer in the Research and Engineering group, was flagged due to an unusual volume of file operations. Specifically, there were 8 file operations this week, which is significantly higher than his typical range of 1.50 and above the highest level seen in the prior 12 weeks. Moreover, this level of activity is far beyond what his same-role peers are doing, with only 1 file operation on average among 366 peers in this role.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "c649b67f9bdc"
+  }
+}

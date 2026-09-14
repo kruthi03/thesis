@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "Pamela Julie Case's activity as a Software Developer in the Web Software team has raised some flags this week. The UEBA system detected an elevated number of files copied to removable media, with 15 copies observed, which is significantly higher than her typical and maximum values. This anomaly is further supported by evidence from rule R2, indicating an unusual increase in file copying activity.\n\nAdditionally, the system flagged browsing activities that are atypical for her role, as she visited job-search sites 12 times this week, which exceeds her typical and maximum values. This anomaly is also supported by evidence from rule R4, showing a significant departure from normal behavior among same-role peers.\n\nWhile there isn't much else unusual about her activity this week, it's worth noting that she didn't connect any removable devices outside of working hours, and her file operations were generally within expected ranges.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "06ffa8b234ef"
+  }
+}

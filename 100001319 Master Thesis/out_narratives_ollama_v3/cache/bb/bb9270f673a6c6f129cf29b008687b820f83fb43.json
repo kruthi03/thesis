@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, user ABP2917's activity has triggered rule R2, indicating an elevated number of files copied to removable media. The evidence shows 19 files copied, which is significantly above their usual range of 6.50 files.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

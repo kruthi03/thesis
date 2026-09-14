@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Ingrid Liberty Kane's activity for the week of 2011-W14 due to evidence from triggered rules R1 and R2. The most notable anomalies are the unusually high number of logons outside her working hours (3) and files copied to removable media (39), which are both significantly above her typical range.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "1f003e84ecfb"
+  }
+}

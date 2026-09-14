@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Carlos Dieter Ewing's overall activity volume is significantly higher than his usual range, as well as that of his peers in the Electrical Engineering department. Specifically, his file operations this week total 13, which is well above his typical range of 1. This anomaly is the primary evidence for the triggered detection rule, and it suggests that Carlos's activity may warrant further investigation.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "d7021ac17ab1"
+  }
+}

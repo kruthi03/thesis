@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, user SCH3858 (Sebastian Cooper Hoffman) triggered rule R4 due to atypical browsing behavior. Specifically, they visited job-search sites 45 times, which is significantly above their usual range of 27.50 and far above the range of their peers (1). This suggests that Sebastian may be looking for a new job or is preparing to switch roles.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

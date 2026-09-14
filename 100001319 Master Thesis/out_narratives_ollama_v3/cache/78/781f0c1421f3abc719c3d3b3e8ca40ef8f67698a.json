@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The week of 2011-W15 was flagged due to unusual activity patterns. The primary evidence for this is the unusually high volume of attachment data sent to external recipients, with 50.06 MB of attachments sent, significantly above the user's typical range of 9.49 MB and the peer distribution of 9.00 MB. Additionally, the overall activity volume was far outside the same-role peer distribution, with 16 file operations performed, which is significantly higher than the user's typical 2 and the peer distribution of 1. This suggests that Carlos Dieter Ewing's activity was unusually intense and focused on external communication and file operations, warranting further review.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "ea3d0678f325"
+  }
+}

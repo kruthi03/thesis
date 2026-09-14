@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for user AGW1590 was flagged due to elevated file operations (34) and a significant increase in files copied to removable media (12), exceeding their typical volume by a factor of four. This is particularly noteworthy given that same-role peers averaged only one file operation this week, with 328 employees falling within the same peer distribution. While AGW1590's overall activity volume was not unusually high, their file operations were disproportionately focused on removable media, suggesting an unusual emphasis on copying files to these devices.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "d0dc80a513b1"
+  }
+}

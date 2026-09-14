@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from triggered rules R3 and R5. The most notable finding is that Carlos Dieter Ewing, an Electrical Engineer on Team 13, sent a unusually large volume of email attachments (50.06 MB) to external recipients (36), which is significantly higher than his typical activity (9.49 MB with 11.50 external recipients). This deviation from norms is statistically significant, with a z-score of 6.52 for attachment volume and 2.36 for the number of external recipients. Additionally, Carlos's overall activity volume was far outside the distribution of same-role peers this week, with 16 file operations compared to an average of 1 among his peers.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ea3d0678f325"
+  }
+}

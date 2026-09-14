@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "Adele Fiona Boone's activity from Week 2010-W42 has triggered some alarm bells. The most concerning evidence is that she logged on outside her typical working hours four times, which is a significant departure from her usual pattern (z=3.5). Additionally, she visited job-search sites an unusually high number of times - 70 - exceeding what's normal for someone in her role by a wide margin (z=4.17). While there are some other unusual aspects to her activity, such as the volume of logons and visits to certain types of websites, these two findings stand out as the most anomalous.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

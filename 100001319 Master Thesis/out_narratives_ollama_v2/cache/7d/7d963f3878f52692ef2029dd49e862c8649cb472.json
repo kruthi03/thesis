@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "SCH3858's activity has triggered a detection rule due to an unusual number of visits to job-search sites, with 45 visits exceeding their recent typical range by more than three standard deviations. This is particularly noteworthy given that same-role peers only recorded one visit to such sites this week. While SCH3858's overall browsing habits seem normal, with no anomalous activity on leak-publication or cloud-storage sites, and a typical number of distinct web domains visited and workstations used, the spike in job-search site visits warrants further investigation.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

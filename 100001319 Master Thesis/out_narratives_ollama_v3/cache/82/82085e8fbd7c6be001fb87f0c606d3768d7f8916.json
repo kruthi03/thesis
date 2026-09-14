@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, had an unusually active week. The most notable anomalies are their browsing behavior and overall activity volume. There were 34 visits to job-search sites, which is far above their usual range and significantly higher than what their peers in the same role typically experience. Additionally, there were 129 file operations, which is clearly above their usual range and also far outside the range of their peers.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "a0a7dc154e87"
+  }
+}

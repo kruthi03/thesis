@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged CDE1846's week due to evidence of overall activity volume far outside the same-role peer distribution. Specifically, the file operations for this week, at 13, are significantly higher than their typical range of 1 and exceed the peer average of 1 across 366 peers in this role. This suggests that CDE1846's activity this week was unusually high compared to their own recent behavior and that of their peers, which may warrant further investigation.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "d7021ac17ab1"
+  }
+}

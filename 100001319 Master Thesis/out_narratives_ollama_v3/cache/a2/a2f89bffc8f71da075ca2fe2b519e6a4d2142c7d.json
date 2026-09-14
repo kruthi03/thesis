@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, AFB3228's activity triggered two rules. First, their logon volume outside working hours is unusually high, with 4 logons, which is more than twice their typical range. Second, they visited job-search sites 70 times, which is more than twice their typical range and significantly above the average of their peers in the same role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

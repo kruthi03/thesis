@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Carlos Dieter Ewing's (CDE1846) overall activity volume was significantly higher than usual, with 8 file operations, which is far outside the typical range of his peers in the ElectricalEngineering team. This is the primary evidence for the triggered rule.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "c649b67f9bdc"
+  }
+}

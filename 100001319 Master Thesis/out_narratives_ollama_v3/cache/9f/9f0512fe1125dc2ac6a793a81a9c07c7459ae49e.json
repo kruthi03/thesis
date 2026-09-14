@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, ILK3668's (Ingrid Liberty Kane) behavior was flagged due to unusual volume of logons outside their working hours and elevated number of files copied to removable media. Specifically, they had 3 logons outside their typical working hours, which is significantly above their usual range. Additionally, they copied 39 files to removable media, which is also well above their typical volume of 20.50.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "1f003e84ecfb"
+  }
+}

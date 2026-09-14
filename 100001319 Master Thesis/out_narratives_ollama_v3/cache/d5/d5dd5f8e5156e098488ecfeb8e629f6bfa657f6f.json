@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "AVH0566's recent logon pattern suggests they have been consistently logging in within their typical working hours, with an average of 1 logon outside those hours. However, this week's unusual volume of logons outside working hours, specifically 4 occurrences, is a notable departure from their usual range. This anomaly is particularly interesting given the absence of any other unusual activity, such as logons at the weekend or on different workstations.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "30e15748717a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "This week's anomaly flag for ACM2278 (Allen Cruz Mccoy) was triggered by unusual browsing behavior, specifically visiting leak-publication sites four times. This is atypical for a salesman in his role and has not been observed in the past 12 weeks. Notably, Allen's job-search site visits are within their usual range of 25, which is also above the peer average of 1 among same-role peers.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "107dcedee69e"
+  }
+}

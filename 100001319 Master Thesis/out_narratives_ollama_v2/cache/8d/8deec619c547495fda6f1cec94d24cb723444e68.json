@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week, Zenaida Carol Snow's email activity was flagged due to an unusual volume of attachment data sent to external recipients. Specifically, 54.57 MB of attachment data was sent to 61 external recipients, which is above her usual range of 23.37 MB to 45.10 MB in the prior 12 weeks. While this is an anomaly, it's worth noting that her email volume and external recipient count are within the typical ranges for her role and peers.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "e0daedcec5e8"
+  }
+}

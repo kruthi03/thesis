@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, has triggered a detection rule due to an unusual volume of file operations. His file operations total 13, which is significantly higher than his typical range and also exceeds the range of his same-role peers. This suggests that Carlos has been working extensively with files, potentially indicating a project or task that requires a large amount of data processing or manipulation.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "d7021ac17ab1"
+  }
+}

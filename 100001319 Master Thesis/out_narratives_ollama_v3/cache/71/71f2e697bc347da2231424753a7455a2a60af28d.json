@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, User ILK3668's activity was flagged due to evidence from triggered rules. Specifically, there were 3 logons outside their typical working hours, indicating unusual volume of logons outside their normal schedule. Additionally, 39 files were copied to removable media, which is significantly above their usual range of 20.50 files per week. This elevated file copying to removable media suggests potential data exfiltration or unauthorized data transfer.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "1f003e84ecfb"
+  }
+}

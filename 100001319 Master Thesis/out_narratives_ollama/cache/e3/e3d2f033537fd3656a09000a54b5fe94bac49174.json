@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to unusual volume of logons outside ILK3668's working hours and elevated number of files copied to removable media. Specifically, there were 3 logons outside working hours, which is significantly higher than their recent typical (0) and maximum (2), indicating an anomaly. Additionally, 39 files were copied to removable media, which exceeds their recent typical (20.50) and maximum (38).",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "1f003e84ecfb"
+  }
+}

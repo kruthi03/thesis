@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ILK3668's (Ingrid Liberty Kane) week (2011-W14) due to triggered rules. The most concerning evidence is the unusual volume of logons outside Ingrid's working hours (3) and the elevated number of files copied to removable media (39). These values are clearly above Ingrid's usual range, indicating a potential anomaly that warrants further investigation.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "1f003e84ecfb"
+  }
+}

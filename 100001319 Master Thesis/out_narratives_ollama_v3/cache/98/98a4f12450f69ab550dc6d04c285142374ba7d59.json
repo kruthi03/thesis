@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "Chandler Martin Page, a Salesman in the RegionalSales team, had a flagged week. The main reason is that he visited job-search sites 21 times, which is far above his usual range and also exceeds the typical activity among peers in the same role. This is the most concerning evidence, and it's the main reason why his week was flagged.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "67ba247283ed"
+  }
+}

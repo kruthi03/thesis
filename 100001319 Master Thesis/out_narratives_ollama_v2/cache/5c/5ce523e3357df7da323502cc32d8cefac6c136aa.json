@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "Carlos Dieter Ewing's activity volume this week far exceeded what's typical for his role, with a total of 8 file operations. This is significant because not only was it above his own recent average of 1.5, but also beyond the highest volume he saw in the prior year. Furthermore, among peers who hold the same role as Carlos, this week's activity level of 1 is significantly higher than the typical 366 peers in his role saw during this period.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "c649b67f9bdc"
+  }
+}

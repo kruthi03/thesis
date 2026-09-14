@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged this week for MJA2380, ChiefEngineer in the MaterialsEngineering team, based on evidence from triggered rules. The most notable findings are the unusual volume of attachment data sent to external recipients, which is more than double their typical range, and the overall activity volume that is far outside the same-role peer distribution. The attachment data sent this week was a massive 60.10 MB, compared to their typical range of 23.15 MB, and even higher than their highest previous 12 weeks. Additionally, there were 44 external email recipients, which is within their typical range but still significant. Finally, the file operations this week were 51, a clear increase from their typical 13 and even higher than their highest previous 12 weeks.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "9cf542cc9e79"
+  }
+}

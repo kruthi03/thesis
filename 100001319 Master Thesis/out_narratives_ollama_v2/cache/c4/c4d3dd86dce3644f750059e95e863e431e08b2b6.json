@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer, has been flagged for unusual behavior in week 2010-W14. The UEBA system detected two triggered rules: browsing to job-search sites atypical for his role and overall activity volume far outside the peer distribution. Specifically, Felix visited job-search sites 34 times, which is significantly above his typical range of 0-7 visits and far above the peer average of 1 visit. Additionally, his file operations reached 129, a clear outlier compared to his typical range of 78 and the peer average. This unusual activity warrants further investigation to determine the cause and potential impact.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "a0a7dc154e87"
+  }
+}

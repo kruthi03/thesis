@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "SCH3858, a Security Guard with role SecurityGuard and team 12- BuildingSecurity, had an unusual week according to our anomaly detection rules. Specifically, their visits to job-search sites spiked significantly, with 45 visits, which is more than 3 standard deviations away from their typical activity (27.5) and even exceeds the maximum recorded for peers in the same role (65). This suggests that Sebastian Cooper Hoffman may be searching for a new job or seeking information outside of their normal duties as a Security Guard.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

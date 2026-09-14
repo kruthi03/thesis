@@ -1,0 +1,19 @@
+{
+  "key": [
+    "107dcedee69e",
+    "gemini-3.6-flash",
+    "v7",
+    "0.7000"
+  ],
+  "text": [
+    "User ACM2278 recorded 4 visits to leak-publication sites during week 2010-W33, which is notable because zero visits to leak-publication sites were observed for user ACM2278 in the prior 12 weeks. The count of 4 visits to leak-publication sites by user ACM2278 represents a low total volume, making the evidence against user ACM2278 relatively thin. During week 2010-W33, user ACM2278 recorded 25 visits to job-search sites, matching the recent typical volume of 25 visits to job-search sites for user ACM2278. User ACM2278 visited 11 cloud-storage sites during week 2010-W33, which remains within the usual range for user ACM2278 of 9.50 visits to cloud-storage sites. User ACM2278 operated normally across other web metrics during week 2010-W33, visiting 55 distinct web domains from 1 distinct workstation across 6 days with recorded activity.",
+    "User ACM2278 was flagged under detection rule R4 primarily due to 4 visits to leak-publication sites during week 2010-W33, an action not observed for user ACM2278 in the prior 12 weeks. The low count of 4 visits to leak-publication sites suggests user ACM2278 may have briefly navigated to leak-publication sites out of curiosity during week 2010-W33. User ACM2278 recorded 25 visits to job-search sites during week 2010-W33, which is within the recent typical baseline for user ACM2278. User ACM2278 accessed 55 distinct web domains from 1 distinct workstation during week 2010-W33, which aligns with the recent typical baseline of 53 distinct web domains for user ACM2278.",
+    "During week 2010-W33, user ACM2278 logged 4 visits to leak-publication sites, which matters most as no visits to leak-publication sites were observed for user ACM2278 in the prior 12 weeks. Because 4 visits to leak-publication sites is a minor count, user ACM2278 may have encountered leak-publication sites incidentally while browsing during week 2010-W33. User ACM2278 generated 11 visits to cloud-storage sites during week 2010-W33, which aligns with the recent typical baseline of 9.50 visits to cloud-storage sites for user ACM2278. User ACM2278 recorded activity across 6 days during week 2010-W33, with the hour of earliest logon in the week being 2 and the hour of latest logon being 21.",
+    "User ACM2278 triggered a detection rule in week 2010-W33 due to 4 visits to leak-publication sites, an activity not observed for user ACM2278 in the prior 12 weeks. The activity of 4 visits to leak-publication sites by user ACM2278 represents a limited number of events and makes the flagged evidence for user ACM2278 appear minor. User ACM2278 engaged in 25 visits to job-search sites during week 2010-W33, matching the recent typical baseline of 25 visits to job-search sites for user ACM2278. User ACM2278 conducted web browsing from 1 distinct workstation and visited 55 distinct web domains during week 2010-W33, which is within the usual range for user ACM2278.",
+    "The primary evidence for user ACM2278 in week 2010-W33 consists of 4 visits to leak-publication sites, a behavior not recorded for user ACM2278 during the prior 12 weeks. Given that 4 visits to leak-publication sites is a low event count, user ACM2278 may have accessed leak-publication sites due to misclassified links during week 2010-W33. User ACM2278 visited 11 cloud-storage sites during week 2010-W33, which is consistent with the recent typical baseline of 9.50 visits to cloud-storage sites for user ACM2278. Across week 2010-W33, user ACM2278 demonstrated typical baseline activity by utilizing 1 distinct workstation and recording activity across 6 days."
+  ],
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

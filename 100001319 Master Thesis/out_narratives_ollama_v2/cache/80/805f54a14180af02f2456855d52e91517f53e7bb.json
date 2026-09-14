@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged CMP2946's activity this week due to evidence that suggests browsing to job-search or leak-publication sites is atypical for his role. Specifically, he visited job-search sites 7 times, which is significantly above his typical range and more than what same-role peers reported this week.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

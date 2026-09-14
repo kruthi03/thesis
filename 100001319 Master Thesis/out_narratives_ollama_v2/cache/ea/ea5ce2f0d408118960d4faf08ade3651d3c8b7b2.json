@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "SCH3858, Sebastian Cooper Hoffman, a Security Guard in the Administration unit, has been flagged for an unusual increase in visits to job-search sites. Specifically, their browsing activity for job-search sites has jumped to 45, which is significantly above their typical range of 27.50 and even exceeds the highest level seen in the prior 12 weeks. This surge is also notable when compared to their peers in the same role, who averaged only 1 visit to job-search sites this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

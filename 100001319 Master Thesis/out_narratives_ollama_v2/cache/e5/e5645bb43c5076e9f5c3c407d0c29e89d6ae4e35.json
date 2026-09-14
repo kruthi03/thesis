@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, AVH0566's login activity outside their typical working hours exceeded their usual range. Normally, they log on only once or twice outside regular hours, but this week they logged on four times during those hours. This significant increase is likely worth investigating further to determine the cause and potential impact on their work and team.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "30e15748717a"
+  }
+}

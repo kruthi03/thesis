@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to unusual evidence for triggered rules. Specifically, Ingrid Liberty Kane (ILK3668), a Stockroom Clerk in Team 11-Stockroom, exhibited three logons outside her typical working hours and copied 39 files to removable media, which is significantly above her recent average of 20.50.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "1f003e84ecfb"
+  }
+}

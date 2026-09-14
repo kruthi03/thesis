@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged AVH0566's activity for Week 2010-W42 due to an unusual volume of logons outside their typical working hours. Specifically, there were 4 logons during this period, which is significantly higher than their recent average of 1-2 logons and exceeds the usual threshold by a factor of 3 (z=3.0). This anomaly suggests that AVH0566 may have been accessing systems or resources outside their normal working hours, warranting further investigation to determine the purpose and scope of this activity.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "30e15748717a"
+  }
+}

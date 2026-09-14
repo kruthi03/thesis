@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The week of 2011-W10 has been flagged due to evidence for triggered rules. The most notable anomalies are the elevated number of files copied to removable media, with 68 files copied, which is clearly above the user's typical range of 43. Additionally, the user's overall activity volume is far outside the same-role peer distribution, with file operations at 167, web requests at 665, and browsing to job-search or leak-publication sites atypical for the role, with 31 visits to job-search sites.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "6c2facc73bac"
+  }
+}

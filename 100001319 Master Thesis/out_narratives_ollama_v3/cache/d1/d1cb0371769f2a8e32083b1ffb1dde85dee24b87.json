@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "Adele Fiona Boone, an Electrical Engineer, had an unusual week flagged by the UEBA system. The primary evidence for this anomaly is the unusual volume of logons outside her typical working hours, with 4 logons detected, significantly above her usual range of 0.5. Additionally, she showed an atypical interest in job-search sites, with 70 visits, more than double her usual 36 visits. This is also above the typical range of her peers in the same role, who averaged 8 visits.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

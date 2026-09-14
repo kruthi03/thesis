@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to unusual volume of logons outside the user's working hours and overall activity volume far outside the same-role peer distribution. The evidence for triggered rules is the unusually high number of logons, 8, which is more than 3 standard deviations away from the user's typical behavior. Additionally, the web requests totalled 1330, which is more than 20 standard deviations away from the peer average and well above the user's recent typical volume.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

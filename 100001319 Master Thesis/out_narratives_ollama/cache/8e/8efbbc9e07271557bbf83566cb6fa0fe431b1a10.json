@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "PJC1252's activity for Week 2010-W12 has triggered two detection rules, indicating potential security concerns. The most notable anomaly is the elevated number of files copied to removable media (15), which is significantly above their recent typical behavior and maximum allowed value (z=9.44). This suggests that PJC1252 may be attempting to transfer or store sensitive information outside the usual channels.\n\nAdditionally, the unusual browsing activity on job-search sites (12 visits) atypical for their role is also concerning, particularly given the high number of visits relative to their peers (z=12.0).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "06ffa8b234ef"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Adele Fiona Boone's activity as an Electrical Engineer was flagged due to unusual evidence for triggered rules. The most notable finding is a significant increase in visits to job-search sites, with 70 logged visits, which is far above her typical behavior and even exceeds what same-role peers experienced this week. This suggests that AFB3228 may be actively searching for new opportunities or looking at job listings outside of normal working hours. Additionally, there were four logons outside of her typical working hours, which also contributed to the anomaly detection.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

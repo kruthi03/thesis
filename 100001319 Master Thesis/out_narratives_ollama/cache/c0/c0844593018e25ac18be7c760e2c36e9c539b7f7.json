@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged SCH3858's activity this week due to atypical browsing behavior, specifically visits to job-search sites. This anomaly is notable because Sebastian Cooper Hoffman's recent typical behavior was 27.5 visits to such sites, and his actual count of 45 visits is significantly higher (z=3.34). Meanwhile, same-role peers have an average of only 1 visit this week, making SCH3858's behavior even more remarkable.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

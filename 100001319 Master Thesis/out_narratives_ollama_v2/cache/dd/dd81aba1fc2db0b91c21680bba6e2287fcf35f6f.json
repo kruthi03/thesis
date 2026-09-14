@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged a high overall activity volume for user CDE1846, an Electrical Engineer in the Research and Engineering department. This is likely due to an unusual spike in file operations, with 13 events this week compared to their typical range of 1-6 events over the past 12 weeks. This week's count is also significantly higher than the average among peers in the same role (1 event), indicating that CDE1846's activity volume is truly outside the norm.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "d7021ac17ab1"
+  }
+}

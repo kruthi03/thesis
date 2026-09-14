@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "Sebastian Cooper Hoffman's activity was flagged for review due to atypical browsing behavior. Specifically, he visited job-search sites 45 times this week, which is significantly higher than his typical usage (27.50) and exceeds the maximum recorded value of 65. This unusual spike in job searching suggests that R4 may be triggered, indicating potential insider threat or data exfiltration concerns.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

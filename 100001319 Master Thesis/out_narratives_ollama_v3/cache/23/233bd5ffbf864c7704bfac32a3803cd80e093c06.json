@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had an unusual week in terms of email attachment data. He sent a significantly larger volume of attachments than usual, with 57.08 MB of attachments being sent to external recipients. This is well above his typical range of 9.49 MB and even exceeds the average among his peers. Additionally, he sent attachments to 33 external recipients, which is also above the average among his peers.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "a5957fc70bf9"
+  }
+}

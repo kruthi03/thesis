@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Adele Fiona Boone's (AFB3228) activity triggered two anomaly detection rules. Firstly, she exhibited an unusual volume of logons outside her typical working hours, with four occurrences flagged as beyond the z-score threshold (z=3.5). Secondly, she visited job-search sites atypical for her role in Electrical Engineering, with 70 visits exceeding her recent average by more than 1 standard deviation (z=4.17).",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

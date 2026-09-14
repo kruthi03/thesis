@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, CDE1846's activity triggered an unusual volume of attachment data sent to external recipients, which is a significant departure from their typical behavior. Normally, they only send about 9.49 MB of attachment data to external recipients, but this week's total of 57.08 MB is not only above their usual range but also exceeds the typical range for peers in their role. Additionally, the number of external recipients, 33, is also higher than their typical number of 15 and the peer range.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "a5957fc70bf9"
+  }
+}

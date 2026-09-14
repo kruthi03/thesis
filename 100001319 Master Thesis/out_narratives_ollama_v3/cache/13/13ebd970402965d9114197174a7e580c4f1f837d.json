@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "This week, user CDE1846 (Carlos Dieter Ewing) exhibited a significant spike in file operations, with a total of 8, far exceeding their typical range of 1.50. This activity volume is also significantly higher than that of their same-role peers, with only 1 file operation observed among the 366 peers in this role. This anomaly is the primary evidence for the triggered detection rules.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "c649b67f9bdc"
+  }
+}

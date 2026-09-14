@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user CDE1846 (Carlos Dieter Ewing) was flagged due to unusual evidence triggered by rules R3 and R5. The most notable evidence is the unusually high volume of attachment data sent, with 50.06 MB of email attachments sent, which is significantly above their typical range of 9.49 MB and far above the peer distribution of 9.00 MB. Additionally, the file operations count is unusually high, with 16 operations, which is also above their typical range of 2 and significantly above the peer distribution of 1.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "ea3d0678f325"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week, ACM2278's browsing activity was flagged due to atypical visits to leak-publication sites. Specifically, there were 3 visits to these sites, which is above their recent typical range of 0 and below the maximum of 4. The z-score for this behavior is 3.0, indicating a moderate anomaly. Notably, ACM2278's job-search site visits are actually lower than usual, with only 22 visits compared to their typical 25.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

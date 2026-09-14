@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user PJC1252 (Pamela Julie Case) was flagged due to evidence triggering two rules. Rule R2 was triggered due to an elevated number of files copied to removable media, with 15 files copied, which is clearly above their usual range of 1. This suggests that Pamela may be preparing or sharing materials outside of her typical workflow. Rule R4 was also triggered due to an atypical number of visits to job-search or leak-publication sites, with 12 visits, which is far above the range of 0 typical for her role. This could indicate that Pamela is exploring career opportunities or seeking information not typical for her role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "06ffa8b234ef"
+  }
+}

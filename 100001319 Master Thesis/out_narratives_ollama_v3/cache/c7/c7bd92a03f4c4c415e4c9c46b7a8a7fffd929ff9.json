@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for user ABP2917, Alice Britanney Pope, was flagged due to an elevated number of files copied to removable media. Specifically, 19 files were copied, which is significantly above their usual range of 6.50 files per week. This suggests that Alice may have been copying more files to removable media than usual, potentially indicating a change in her work habits or a need for additional data transfer.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

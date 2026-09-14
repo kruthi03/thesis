@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "CMP2946's browsing activity for Week 2011-W07 shows a significant anomaly, with 21 visits to job-search sites. This is far above their usual range and even exceeds the typical number of visits among same-role peers. While this might seem concerning, it's worth noting that CMP2946's visits to leak-publication sites remain normal, and their overall web domain activity and workstation usage are also within expected ranges.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "67ba247283ed"
+  }
+}

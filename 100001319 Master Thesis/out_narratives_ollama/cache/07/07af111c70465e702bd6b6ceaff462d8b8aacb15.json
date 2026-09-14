@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from rule R4, which detected atypical browsing behavior for a Salesman role. Specifically, CMP2946 visited job-search sites 7 times this week, which is significantly higher than their typical rate (0) and even higher than the maximum recorded rate (21). This unusual activity suggests that CMP2946 may be exploring potential new opportunities outside of their usual sales work.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

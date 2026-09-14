@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Alma Gloria Wolfe's activity for the week ending March 13th due to evidence from two triggered rules. The most significant evidence is the unusually high volume of file operations, with 34 events far exceeding her typical and peer averages (z=5.35). Additionally, there were 12 files copied to removable media, which is also above her recent typical range (3-13) and maximum value (z=5.2).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "d0dc80a513b1"
+  }
+}

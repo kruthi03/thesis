@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "Adele Fiona Boone's (AFB3228) week from October 18 to 24, 2010, was flagged due to unusual volume of logons outside her working hours and browsing to job-search or leak-publication sites atypical for her role. The evidence suggests that she logged on 4 times outside her typical hours, which is the highest in the past 12 weeks. Additionally, she visited job-search sites 70 times, exceeding her usual range and even surpassing the average among peers in this role (8 visits).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

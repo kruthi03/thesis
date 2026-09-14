@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for HAG3196, a mathematician in the Research and Engineering team, has triggered three detection rules. The most significant evidence comes from the elevated number of files copied to removable media, with 68 files copied, which is significantly above their typical range of 43. This is accompanied by an overall activity volume that is far outside the peer distribution, with 167 file operations and 665 web requests, both of which are significantly above their typical ranges. Additionally, browsing to job-search sites is atypical for this role, with 31 visits, which is clearly above their usual range of 10.50. These anomalies suggest that HAG3196's behavior this week may be unusual and warrants further investigation.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "6c2facc73bac"
+  }
+}

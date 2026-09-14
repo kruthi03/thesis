@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to an elevated number of files copied to removable media by Alice Britanney Pope, a technician from the SalesAndMarketing_Commercial team. The evidence for this is that she copied 19 files to removable media, which is significantly above her typical range of 6-17 files and has a z-score of 3.37.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

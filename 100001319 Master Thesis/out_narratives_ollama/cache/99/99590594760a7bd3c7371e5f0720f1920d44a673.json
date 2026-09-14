@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "The security analyst flagged HAG3196's activity for review due to evidence that triggered rules R2, R4, and R5. Specifically, Hall Aladdin Gardner copied a significantly higher number of files to removable media than usual (68 vs. typical 43), with a z-score of 3.07 indicating a notable increase. Additionally, their file operations volume was far outside the peer distribution (167 vs. typical 126.50), and they visited job-search sites atypical for their role (31 vs. typical 10.50), with a z-score of 3.07.\n\nThese anomalies suggest that HAG3196's activity may be unusual, warranting further investigation to determine the cause and potential impact.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "6c2facc73bac"
+  }
+}

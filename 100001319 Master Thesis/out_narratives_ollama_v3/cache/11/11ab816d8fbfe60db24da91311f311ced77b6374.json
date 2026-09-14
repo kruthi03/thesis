@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had an unusual week (2011-W14). The system flagged his activity due to an overall activity volume that far exceeded that of his same-role peers. Specifically, his file operations this week were 8, which is clearly above his usual range of 1.50 and even above the peer range of 1 across 366 peers in this role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "c649b67f9bdc"
+  }
+}

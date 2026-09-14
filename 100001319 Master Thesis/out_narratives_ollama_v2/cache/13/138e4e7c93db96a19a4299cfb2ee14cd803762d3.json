@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Alice Britanney Pope's activity for the week ending June 13th due to an elevated number of files copied to removable media. Specifically, she copied 19 files to removable media, which is significantly above her typical range of 6.5 (with a maximum of 17). This increase in file copying may warrant further investigation to determine if it's related to any unusual sales or marketing activities.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "ZCS0012, Vice President of PurchasingAndContracts, had an unusual week according to our system. The most notable finding is that they sent a large volume of attachment data to external recipients, with 54.57 MB being significantly higher than their recent typical (23.37 MB) and maximum (45.10 MB). This anomaly was triggered by the detection rule [R3] Unusual volume of attachment data sent to external recipients. The high number of recipients, at 61, also contributed to this finding.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "e0daedcec5e8"
+  }
+}

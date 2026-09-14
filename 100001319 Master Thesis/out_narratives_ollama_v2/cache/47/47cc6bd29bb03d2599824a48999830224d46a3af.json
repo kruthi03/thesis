@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged CDE1846's activity for review due to an unusual volume of attachment data sent to external recipients. Specifically, Carlos Dieter Ewing (CDE1846) sent 57.08 MB of email attachments, which is clearly above their usual range and even higher than the highest amount they sent in the prior 12 weeks. This excessive attachment volume, combined with a moderate number of external recipients (33), triggered rule R3.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "a5957fc70bf9"
+  }
+}

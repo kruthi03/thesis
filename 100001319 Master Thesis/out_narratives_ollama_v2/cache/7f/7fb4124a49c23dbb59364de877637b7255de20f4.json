@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, ILK3668's unusual activity triggered two rules. Firstly, there were three logons outside her typical working hours, which is a significant increase from her normal zero to two logons per week (z=3.0). Secondly, she copied 39 files to removable media, exceeding her typical volume of 20.50 by more than the maximum amount recorded (z=3.57).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "1f003e84ecfb"
+  }
+}

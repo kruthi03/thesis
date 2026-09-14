@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Pamela Julie Case's (PJC1252) activity triggered two detection rules. The main evidence for this comes from two triggered rules: [R2] Elevated number of files copied to removable media and [R4] Browsing to job-search or leak-publication sites atypical for the role. Specifically, [F001] shows 15 files copied to removable media, which is well above her usual range. Additionally, [F002] indicates 12 visits to job-search sites, which is not only above her typical activity but also above the range seen among her peers in the same role.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "06ffa8b234ef"
+  }
+}

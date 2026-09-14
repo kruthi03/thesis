@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "The week of 2011-W15 was flagged due to unusual activity patterns. Specifically, Carlos Dieter Ewing (CDE1846) sent 50.06 MB of email attachments, which is significantly above their typical range of 9.49 MB and far above the peer range of 9.00 MB. Additionally, Carlos sent 16 file operations, which is well above their typical range of 2 and far above the peer range of 1. This suggests that Carlos has had an unusually high volume of attachment data sent to external recipients and has been performing a large number of file operations, which triggered rule R3 and R5, respectively.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "ea3d0678f325"
+  }
+}

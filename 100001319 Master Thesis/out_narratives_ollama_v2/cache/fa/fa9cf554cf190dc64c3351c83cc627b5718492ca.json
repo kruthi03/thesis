@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Ingrid Liberty Kane's activity for review due to evidence from two triggered rules. Specifically, there were three logons outside her typical working hours and an elevated number of files copied to removable media (39) compared to her recent average (20.5).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "1f003e84ecfb"
+  }
+}

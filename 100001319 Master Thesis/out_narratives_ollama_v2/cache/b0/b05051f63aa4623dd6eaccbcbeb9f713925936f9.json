@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user HAG3196 was flagged due to elevated file copying to removable media, atypical browsing behavior, and an overall volume of activity that significantly exceeds their peer group. The user copied a total of 68 files to removable media, which is a notable increase from their recent typical range (43-54) and outside the maximum value of 54. Additionally, they visited job-search sites 31 times, which is more than triple their recent typical volume and far outside the average for same-role peers. The user's overall activity volume was also unusually high, with 665 web requests, exceeding their recent typical range by a significant margin.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "6c2facc73bac"
+  }
+}

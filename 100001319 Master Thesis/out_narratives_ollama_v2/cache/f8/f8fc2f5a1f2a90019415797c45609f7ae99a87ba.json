@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "Chandler Martin Page, a salesperson with a typical profile, had an unusual week in terms of their browsing behavior. The most notable finding is that they visited job-search sites seven times this week, which is significantly above their usual range and even above what's typical for peers in the same role. This suggests that something might be amiss, potentially unrelated to their actual job performance.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

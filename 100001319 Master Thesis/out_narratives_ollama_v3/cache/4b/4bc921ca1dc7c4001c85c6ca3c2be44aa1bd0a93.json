@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, HAG3196's activity was flagged due to evidence from triggered rules. The most notable anomalies are the elevated number of files copied to removable media (68, significantly above their usual range), browsing to job-search sites (31, far above their typical count), and overall activity volume (167 file operations and 665 web requests, both far outside their usual range and that of same-role peers).",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "6c2facc73bac"
+  }
+}

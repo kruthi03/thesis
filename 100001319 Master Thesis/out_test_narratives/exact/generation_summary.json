@@ -1,0 +1,23 @@
+{
+  "model": "stub-model",
+  "prompt_version": "v4",
+  "k": 5,
+  "temperature": 0.7,
+  "temperature_supported": true,
+  "pooling": {
+    "method": "exact",
+    "threshold": null,
+    "embed_model": null
+  },
+  "seed": 20260816,
+  "sampling": "stratified",
+  "excluded_narratives_source": null,
+  "effort": null,
+  "signals_requested": 1,
+  "signals_succeeded": 1,
+  "malicious_signals": 1,
+  "unique_sentences": 6,
+  "cache_hits": 1,
+  "cache_misses": 0,
+  "failures": []
+}

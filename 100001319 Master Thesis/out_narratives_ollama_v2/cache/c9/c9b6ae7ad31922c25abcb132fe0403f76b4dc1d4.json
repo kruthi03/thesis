@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's anomaly was triggered due to Chandler Martin Page's unusual browsing behavior on job-search sites, with 7 visits. While this is well above his typical activity (0 visits) and beyond what even same-role peers experienced this week (1 visit), it is worth noting that his overall browsing habits are not significantly different from those of his peers, as evidenced by the number of distinct web domains visited (41). Additionally, his workstation usage remains consistent with recent patterns.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

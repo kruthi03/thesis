@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly was triggered due to unusual volume of logons outside Ingrid Liberty Kane's working hours and elevated number of files copied to removable media. The logon events outside working hours were significantly higher than her recent typical, with 3 logons recorded (compared to a typical range of 0-2), indicating an unexplained increase in activity during non-work hours. Additionally, the number of files copied to removable media was unusually high, with 39 files copied (compared to a typical range of 20.5-38), suggesting potential data exfiltration or transfer to unauthorized devices.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "1f003e84ecfb"
+  }
+}

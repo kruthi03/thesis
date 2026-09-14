@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, CMP2946, a salesman in the RegionalSales team, has been flagged for anomalous browsing behavior. The triggered rule [R4] detected atypical browsing to job-search sites, with 7 visits this week. This is significantly above their usual range of 0 visits and even above the average of 1 visit among same-role peers.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

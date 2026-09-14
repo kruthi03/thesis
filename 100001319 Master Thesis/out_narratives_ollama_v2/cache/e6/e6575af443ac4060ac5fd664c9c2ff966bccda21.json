@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for user JAF0209, Jason Amery Franco, was flagged due to two triggered rules. The first rule detected an unusual volume of logons outside their typical working hours. Specifically, there were 8 logons during non-working hours, which is significantly above their usual range of 2.50. This increase is likely driven by the fact that this week's total logon count is also unusually high, with a total of 1330 web requests, exceeding their typical range and even the peer average.\n\nThe second triggered rule detected an overall activity volume far outside the same-role peer distribution. With 1330 web requests, Jason Amery Franco's activity is significantly higher than not only their own recent typical but also that of their peers in the ResearchAndEngineering_Government_Foreign team, who averaged 760 web requests this week.\n\nWhile there is some additional context that suggests Jason Amery Franco's overall logon events and file operations are within their usual range, it is the unusual volume of logons outside working hours and the extremely high activity volume that warrant further investigation.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged CDE1846's week for triggered rules due to an unusual volume of attachment data sent to external recipients. Specifically, 57.08 MB of email attachments were sent to 33 external recipients, which is significantly above their usual range of 9.49 MB and above the peer range of 6.96 MB.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "a5957fc70bf9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, CMP2946's browsing activity is flagged due to atypical visits to job-search sites, with 7 visits, significantly above their usual range and even above the peer range of 65 colleagues in the same role. This anomaly is the primary evidence for the triggered rule.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

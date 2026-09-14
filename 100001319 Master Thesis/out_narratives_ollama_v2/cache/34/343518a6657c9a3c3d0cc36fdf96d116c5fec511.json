@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for user ABP2917, Alice Britanney Pope, has triggered rule R2 due to an elevated number of files copied to removable media. The evidence suggests that 19 files were copied to removable media, which is significantly above their typical range of 6.50 and the highest in the prior 12 weeks. This anomaly stands out as there was no unusual activity on removable device connections or file operations beyond what's expected for this user.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

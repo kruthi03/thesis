@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week, MJA2380's activity volume and attachment data sent to external recipients are anomalous. The volume of email attachments sent is 60.10 MB, which is clearly above their usual range of 23.15 MB and significantly above the peer distribution of 8.63 MB. Additionally, the number of external email recipients is 44, which is within their usual range but still above the peer average of 25. The overall file operations volume is 51, which is clearly above their usual range of 13 and far above the peer range of 1. This suggests that MJA2380's activity is more intense than usual, particularly in terms of file operations.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "9cf542cc9e79"
+  }
+}

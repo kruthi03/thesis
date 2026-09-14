@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "The user ACM2278 (Allen Cruz Mccoy) was flagged due to evidence suggesting atypical browsing behavior. Specifically, there were three visits to leak-publication sites, which is a significant increase from their typical activity and beyond the maximum threshold. This is most notable as it deviates from what is expected for someone in a Salesman role like ACM2278.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer, has triggered an anomaly detection due to atypical browsing behavior and excessive activity volume. The evidence suggests that Felix visited job-search sites 34 times this week, which is far above their usual range and significantly higher than their peers in the same role. Additionally, Felix's file operations have increased to 129, also exceeding their usual range and peer distribution.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "a0a7dc154e87"
+  }
+}

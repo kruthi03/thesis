@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "SCH3858's browsing behavior is anomalous for their role, specifically with regards to job-search sites. The evidence suggests that they visited such sites 45 times this week, which is significantly higher than their typical usage (27.50) and even exceeds the maximum recorded value (65). In fact, a z-score of 3.34 indicates that this activity is more than three standard deviations away from what would be expected for someone in their role.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

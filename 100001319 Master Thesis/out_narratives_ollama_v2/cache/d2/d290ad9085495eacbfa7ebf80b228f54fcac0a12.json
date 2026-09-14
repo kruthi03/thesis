@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week, CMP2946's browsing activity suggests they may be looking for a new job opportunity outside their typical role as a Salesman. The evidence from triggered rule R4 is compelling, with 21 visits to job-search sites this week, far exceeding their usual range of 0-13. This is also significantly higher than the average among same-role peers, who visited job-search sites only 3 times this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "67ba247283ed"
+  }
+}

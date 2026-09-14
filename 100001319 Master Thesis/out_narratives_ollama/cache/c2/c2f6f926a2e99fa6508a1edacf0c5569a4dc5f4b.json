@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Carlos Dieter Ewing's activity volume far exceeded that of his same-role peers, with a total of 16 file operations. This is most likely due to evidence for triggered rule [R5], Overall activity volume far outside the same-role peer distribution. Additionally, an unusual volume of attachment data was sent to external recipients, with a total of 50.06 MB and 36 external email recipients. This is likely driven by evidence for triggered rule [R3], Unusual volume of attachment data sent to external recipients.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "ea3d0678f325"
+  }
+}

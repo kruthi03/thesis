@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for AVH0566, a Systems Engineer, was flagged due to unusual volume of logons outside their typical working hours. Specifically, they had 4 logons outside their usual hours, which is significantly above their recent typical range of 1 and the highest in the prior 12 weeks of 2.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "30e15748717a"
+  }
+}

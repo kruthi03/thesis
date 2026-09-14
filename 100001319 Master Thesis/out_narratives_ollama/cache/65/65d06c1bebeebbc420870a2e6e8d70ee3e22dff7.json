@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Ingrid Liberty Kane's week (2011-W14) has triggered an anomaly alert due to unusual evidence from two rules. The first rule detected three logons outside her typical working hours, which is a significant increase from her recent average of zero or at most two such events. This suggests that Ingrid may have been more available than usual during this period.\n\nThe second rule flagged an elevated number of files copied to removable media - 39 in total - exceeding her typical range by a factor of nearly two. This anomaly is particularly noteworthy given the normal volume of file operations (98) and the absence of any unusual activity outside working hours.\n\nWhile Ingrid's overall logon events, weekend logons, and days with recorded activity are unremarkable, it's worth noting that her peers in the same role have been more active than usual this week.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "1f003e84ecfb"
+  }
+}

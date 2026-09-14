@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "Carlos Dieter Ewing's week (2011-W14) was flagged due to evidence that his overall activity volume was far outside the same-role peer distribution. Specifically, he performed file operations totaling 8, which is significantly higher than his typical volume of 1.50 and even surpasses the maximum observed in this role. This anomaly is particularly notable given that his peers, who are also electrical engineers, only averaged 1 file operation during the same period.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "c649b67f9bdc"
+  }
+}

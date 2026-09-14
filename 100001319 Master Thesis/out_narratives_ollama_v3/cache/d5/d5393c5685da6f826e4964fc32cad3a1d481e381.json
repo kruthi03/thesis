@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, user ILK3668 (Ingrid Liberty Kane) triggered two anomaly detection rules. The most notable evidence is the unusual volume of logons outside their typical working hours, with 3 occurrences, which is significantly above their usual range of 0. Additionally, there is an elevated number of files copied to removable media, with 39 files copied, which is also above their usual range of 20.50.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "1f003e84ecfb"
+  }
+}

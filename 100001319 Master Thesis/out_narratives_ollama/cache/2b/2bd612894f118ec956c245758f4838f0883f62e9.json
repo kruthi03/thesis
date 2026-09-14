@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for ZCS0012 due to unusual volume of attachment data sent to external recipients. Specifically, [F001] shows that Zenaida Carol Snow sent 54.57 MB of email attachments, which is beyond her typical range (23.37-45.10 MB) and significantly more than same-role peers this week (15.75 MB). Additionally, [F002] reveals that she had 61 external recipients, exceeding her typical number (39) and the average for same-role peers this week (44).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "e0daedcec5e8"
+  }
+}

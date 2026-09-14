@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "ABP2917's activities this week warrant review due to an elevated number of files copied to removable media, with 19 instances observed. This is significantly above their typical range of 6.50 and even higher than their highest count in the prior 12 weeks at 17.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

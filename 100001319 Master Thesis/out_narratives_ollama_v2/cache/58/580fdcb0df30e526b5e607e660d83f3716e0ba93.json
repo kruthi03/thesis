@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for VicePresident Zenaida Carol Snow due to an unusual volume of attachment data sent to external recipients. Specifically, 54.57 MB of email attachments were sent, which is clearly above her usual range of 23.37 MB. This increase in attachment data is the primary evidence supporting the flagged week.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "e0daedcec5e8"
+  }
+}

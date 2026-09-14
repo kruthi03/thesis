@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week was flagged due to evidence of triggered rules R2 and R5. Specifically, Alma Gloria Wolfe (AGW1590) copied an elevated number of files to removable media, with 12 files moved compared to her typical activity of 3 files and a maximum of 13 files. Additionally, her overall file operations volume was significantly higher than that of same-role peers, with 34 file operations observed compared to the peer average of 1 and a maximum of 28 file operations.\n\nWhile some context suggests that Wolfe's removable device connections are not unusual, the sheer number of files copied to these devices is notable.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "d0dc80a513b1"
+  }
+}

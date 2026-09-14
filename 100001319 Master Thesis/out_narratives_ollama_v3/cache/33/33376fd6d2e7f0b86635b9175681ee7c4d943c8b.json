@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "Chandler Martin Page, a salesman in the Regional Sales team, was flagged for an unusual week. The primary reason is the significant increase in visits to job-search sites, with 21 visits this week, which is far above their typical range. This is also above the range seen among peers in the same role, indicating that this behavior is not typical for someone in his position.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "67ba247283ed"
+  }
+}

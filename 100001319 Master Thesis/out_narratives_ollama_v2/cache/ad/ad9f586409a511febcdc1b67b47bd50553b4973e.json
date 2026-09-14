@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "The security system flagged ACM2278's activity for review due to evidence that suggests browsing behavior typical of job-search or leak-publication sites, which is uncommon for a Salesman role like Allen Cruz McCoy. Specifically, there were 4 visits to leak-publication sites during this week, which is the first time in the past 12 weeks that such activity has been observed.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "107dcedee69e"
+  }
+}

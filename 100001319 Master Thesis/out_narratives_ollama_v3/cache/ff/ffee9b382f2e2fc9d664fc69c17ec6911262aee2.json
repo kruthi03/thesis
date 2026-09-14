@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for Jason Amery Franco, Director of ResearchAndEngineering_Government_Foreign, has been flagged due to evidence from triggered rules. Specifically, there were 8 logons outside his usual working hours, which is a significant increase from his typical 2.50 logons in that timeframe. Additionally, his overall activity volume of 1330 web requests is far above his typical 950 requests and exceeds the peer range of 760 requests among 23 peers in the same role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

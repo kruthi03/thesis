@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged ACM2278's week due to atypical browsing behavior, specifically three visits to leak-publication sites, which is clearly above their usual range.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

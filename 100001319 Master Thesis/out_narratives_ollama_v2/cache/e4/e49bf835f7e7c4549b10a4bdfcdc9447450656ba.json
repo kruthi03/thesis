@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week was flagged due to CMP2946 (Chandler Martin Page) visiting job-search sites at an unusual frequency. Specifically, they visited job-search sites 21 times, which is far above their usual range and also significantly higher than what peers in the same role are doing this week. This unusual activity is likely driving the detection of rule R4.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "67ba247283ed"
+  }
+}

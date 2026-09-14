@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had a week flagged by the UEBA system due to evidence of unusual volume of attachment data sent to external recipients. Specifically, 57.08 MB of email attachments were sent, which is clearly above his usual range of 9.49 MB and even above the range of his peers in the same role. Additionally, he sent attachments to 33 external recipients, which is also above his typical range of 15 and the peer range.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "a5957fc70bf9"
+  }
+}

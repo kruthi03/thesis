@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Alma Gloria Wolfe's activity from Week 2011-W10 has been flagged due to elevated file copying and overall volume. The evidence shows that she copied 12 files to removable media, which is a significant increase from her typical range (3-13) and outside the norm for same-role peers. Additionally, her total file operations reached 34, far exceeding her typical volume (14) and even surpassing the maximum value recorded. This spike in activity suggests that Wolfe may have been working on a project or handling an unusual workload during this period.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "d0dc80a513b1"
+  }
+}

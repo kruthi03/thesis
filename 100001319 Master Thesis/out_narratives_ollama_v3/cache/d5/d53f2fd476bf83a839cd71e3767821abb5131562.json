@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for ILK3668, Ingrid Liberty Kane, due to evidence of unusual volume of logons outside her working hours and elevated number of files copied to removable media. Specifically, there were 3 logons outside her typical working hours, a significant increase from her usual range. Additionally, 39 files were copied to removable media, exceeding her typical weekly total of 20.50 by a wide margin.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "1f003e84ecfb"
+  }
+}

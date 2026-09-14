@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for AFB3228 (Adele Fiona Boone) due to evidence triggering rules R1 and R4. The main anomaly is that Adele logged on outside her typical working hours, with a volume of 4 logons compared to her usual range of 0.50. Additionally, she visited job-search sites at an unusual rate, with 70 visits this week compared to her typical rate of 36 and above the peer range of 8.\n\nIt's worth noting that Adele's overall activity level remains within a normal range, with no other anomalies in logon events, weekend logons, or days with recorded activity.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ILK3668's (Ingrid Liberty Kane) activity for review due to evidence that triggered rules R1 and R2. Specifically, there were three logons outside her usual working hours, which is a significant increase from her typical zero or one in the prior 12 weeks. Additionally, 39 files were copied to removable media, exceeding her recent typical of 20.5 and highest previous total of 38 by a notable margin.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "1f003e84ecfb"
+  }
+}

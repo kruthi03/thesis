@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, has been flagged for review due to an unusual week of activity. The main evidence for this flag is the significant increase in browsing to job-search sites, with 34 visits, which is far above their typical range of 0 visits and even above the peer distribution of 1 visit among 313 same-role peers. This is accompanied by an overall activity volume that is also far outside the same-role peer distribution, with 129 file operations, which is clearly above their usual range and the peer range.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "a0a7dc154e87"
+  }
+}

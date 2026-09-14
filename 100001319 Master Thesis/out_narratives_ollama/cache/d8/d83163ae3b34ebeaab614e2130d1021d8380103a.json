@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Ariel Venus Hooper's user account was flagged for unusual activity due to an unexplained surge in logons outside their typical working hours. Specifically, there were four logons during this period that fall outside their usual pattern of one to two logons per week. This increase is statistically significant, with a z-score of 3.0. While Ariel's overall logon frequency was normal this week, with nine events in total, it's the unusual timing of these additional logons that warrants further investigation.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "30e15748717a"
+  }
+}

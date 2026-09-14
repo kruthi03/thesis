@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week, SecurityGuard Sebastian Cooper Hoffman (SCH3858) was flagged due to atypical browsing behavior. Specifically, they visited job-search sites 45 times, which is significantly above their usual range of 27.50 and even higher than the highest they've reached in the prior 12 weeks (65). This excessive activity is also far beyond the average among peers in the same role, making it a concerning anomaly.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

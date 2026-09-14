@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for Pamela Julie Case (PJC1252) due to evidence from two triggered rules. The first rule, Elevated number of files copied to removable media ([R2]), was triggered because PJC1252 copied 15 files to removable media, which is significantly above her typical range and even exceeds the maximum value. This anomaly is notable given that she only connects removable devices six times this week, all within working hours, which does not suggest an unusual amount of external data transfer.\n\nThe second rule, Browsing to job-search or leak-publication sites atypical for the role ([R4]), was triggered because PJC1252 visited 12 job-search sites, which is far above her typical behavior and even exceeds the maximum value. This anomaly is also notable given that only one same-role peer visited a job-search site this week, suggesting that this activity is uncommon among peers.\n\nOverall, these two anomalies suggest that PJC1252 may be preparing for a career change or exploring alternative opportunities outside of her usual work activities.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "06ffa8b234ef"
+  }
+}

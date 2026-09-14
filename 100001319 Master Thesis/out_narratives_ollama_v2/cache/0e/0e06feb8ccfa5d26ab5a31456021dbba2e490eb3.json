@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "MJA2380's activity has triggered a detection rule due to unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. Specifically, MJA2380 sent 60.10 MB of email attachments, which is significantly higher than their recent typical (23.15 MB) and maximum (34.04 MB). Additionally, they sent files to 44 external recipients, which is also above their recent typical and well beyond what same-role peers reported this week. Furthermore, MJA2380 performed a large number of file operations (51), which is an extreme outlier compared to both their own recent activity and same-role peer distribution.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "9cf542cc9e79"
+  }
+}

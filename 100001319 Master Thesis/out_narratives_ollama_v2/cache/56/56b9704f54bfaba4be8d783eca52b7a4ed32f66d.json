@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system has flagged Carlos Dieter Ewing's activity for review due to unusual volume of attachment data sent to external recipients. Specifically, this week he sent 57.08 MB of email attachments to 33 external recipients, which is significantly higher than his typical range and exceeds the maximum value by a notable margin. This anomaly is further emphasized by comparing him to same-role peers, who have averaged only 6.96 MB of attachment data sent to 13 external recipients this week.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "a5957fc70bf9"
+  }
+}

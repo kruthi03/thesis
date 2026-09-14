@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week, AGW1590's activity was flagged due to the triggered detection rules [R2] and [R5]. The evidence suggests that AGW1590's file copying to removable media was significantly higher than their typical range, with 12 files copied, whereas their usual range is 3 files. Additionally, their file operations volume was far outside the peer distribution, with 34 file operations, whereas their typical volume is 14, and the peer average is only 1.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "d0dc80a513b1"
+  }
+}

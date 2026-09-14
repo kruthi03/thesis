@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "CMP2946's activity this week raised flags due to an unusual number of visits to job-search sites, with 21 visits exceeding their typical range by a significant margin. This is particularly notable given that CMP2946's same-role peers only averaged 3 visits to such sites during the same period.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "67ba247283ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged AGW1590's activity for the week ending March 13th due to evidence from triggered rules R2 and R5. Specifically, [F001] shows that AGW1590 copied 12 files to removable media, which is significantly higher than their typical activity (3) and beyond the maximum value of 13. This suggests that AGW1590 may have been preparing a large amount of data for transfer or storage. Additionally, [F002] indicates that AGW1590 performed 34 file operations, which is far outside the normal range for someone in their role and team (14).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "d0dc80a513b1"
+  }
+}

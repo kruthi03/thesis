@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged AGW1590's week (2011-W10) due to evidence from triggered rules. The main anomaly is the unusually high volume of file operations (34), which is significantly above AGW1590's typical range (14) and far outside the peer distribution for same-role peers (1 among 328). Additionally, a notable number of files were copied to removable media (12), exceeding AGW1590's usual range (3).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "d0dc80a513b1"
+  }
+}

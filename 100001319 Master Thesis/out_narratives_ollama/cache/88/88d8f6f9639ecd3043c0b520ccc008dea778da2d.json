@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "Adele Fiona Boone's (AFB3228) activity was flagged due to an unusual volume of logons outside her typical working hours and browsing to job-search sites atypical for her role. Specifically, she had 4 logons during non-working hours, which is a significant increase from the norm (0.5), and visited job-search sites 70 times, far exceeding her typical behavior (36) and that of same-role peers (8).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

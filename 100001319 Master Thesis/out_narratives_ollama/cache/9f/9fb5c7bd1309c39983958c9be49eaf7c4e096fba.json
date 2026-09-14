@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week, user AVH0566's activity triggered rule R1 due to an unusual volume of logons outside their typical working hours. Specifically, there were 4 logons during non-work hours (z=3.0), which is a significant departure from their recent typical pattern of 1-2 logons in this timeframe. This anomaly stands out, as the overall number of logon events was still within normal limits (9 total logons, z=1.22).",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "30e15748717a"
+  }
+}

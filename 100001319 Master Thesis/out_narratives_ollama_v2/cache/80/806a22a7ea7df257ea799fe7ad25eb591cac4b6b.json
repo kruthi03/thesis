@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence for triggered rules. The most significant anomaly is the unusually high number of logons outside working hours (4) compared to the user's typical range, indicating a departure from their usual behavior. Additionally, there were atypically frequent visits to job-search sites (70), exceeding not only the user's own usual frequency but also that of peers in the same role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "Pamela Julie Case, a software developer in the Research and Engineering department, had a flagged week. The UEBA system detected two anomalies that triggered rules: an elevated number of files copied to removable media and browsing to job-search or leak-publication sites atypical for her role. Specifically, she copied 15 files to removable media, which is far above her usual range, and visited job-search sites 12 times, significantly more than her typical 0 visits and above the peer range of 1 visit among 85 peers in her role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "06ffa8b234ef"
+  }
+}

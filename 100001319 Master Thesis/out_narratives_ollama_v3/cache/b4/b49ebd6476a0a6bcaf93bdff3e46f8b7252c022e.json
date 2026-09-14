@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "Felix Dustin Fletcher's activity this week was flagged due to two triggered rules. The first rule detected that Felix visited job-search sites 34 times, which is far above their typical range and also exceeds the typical range for their peers in the same role. This is unusual behavior for an Electrical Engineer, as job-search sites are not typical for someone in this role. The second rule detected that Felix performed 129 file operations, which is also far above their typical range and the peer range. This suggests that Felix's activity volume is significantly higher than usual, and may be indicative of some kind of data transfer or storage.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "a0a7dc154e87"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "The user ACM2278, a salesman in the RegionalSales team, was flagged for an anomaly in their browsing behavior. The evidence that triggered this detection is their unusual visit to leak-publication sites, with four visits observed during this week, which is atypical for their role and hasn't been seen in the prior 12 weeks. This suggests that Allen Cruz McCoy may be searching for information or resources not typical of his sales-focused work.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "107dcedee69e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged a week for Carlos Dieter Ewing (CDE1846) due to unusual volume of attachment data sent to external recipients and overall activity volume far outside his peer distribution. Specifically, he sent 50.06 MB of email attachments, which is significantly higher than his recent typical volume of 9.49 MB and exceeds the maximum volume of 21.08 MB. Additionally, he sent attachments to an unusually large number of external recipients (36), more than double his typical number of 11.5.\n\nFurthermore, his overall file operations were also anomalous, with a total of 16 operations, which is far above his recent typical range and exceeds the maximum volume of 13. These findings are supported by evidence from triggered rules [R3] and [R5].",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ea3d0678f325"
+  }
+}

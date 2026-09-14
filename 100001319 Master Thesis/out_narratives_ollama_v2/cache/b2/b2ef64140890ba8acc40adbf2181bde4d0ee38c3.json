@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "Jason Amery Franco's activity has been flagged for review due to unusual volume of logons outside their working hours and overall activity volume far outside the peer distribution. Specifically, there were 8 logons outside working hours (typically around 2-6), which is clearly above their usual range. Additionally, Jason had a total of 1330 web requests this week, significantly higher than his typical range of 950 and even higher than the highest in the prior 12 weeks. This is also far above the average among same-role peers, who typically have around 760 requests per week.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

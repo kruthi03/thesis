@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, ILK3668 (Ingrid Liberty Kane) triggered two anomaly detection rules. The primary evidence for this comes from two unusual events: [F001] logons outside working hours, which occurred three times, and [F002] files copied to removable media, which reached 39, significantly above their typical range of 20.50. The elevated file copying is the most concerning aspect, as it suggests Ingrid may have been preparing or transferring a large amount of data.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "1f003e84ecfb"
+  }
+}

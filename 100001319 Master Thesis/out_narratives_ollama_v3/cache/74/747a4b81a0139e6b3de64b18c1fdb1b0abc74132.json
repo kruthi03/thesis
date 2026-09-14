@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Hall Aladdin Gardner's (HAG3196) activity this week is flagged due to elevated file copying to removable media, atypical browsing behavior, and an overall activity volume that far exceeds their same-role peers. Specifically, 68 files were copied to removable media, which is significantly above their typical range of 43. Additionally, 167 file operations were performed, which is also well above their typical range of 126.50. Furthermore, HAG3196 visited job-search sites 31 times, which is more than double their typical frequency of 10.50.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "6c2facc73bac"
+  }
+}

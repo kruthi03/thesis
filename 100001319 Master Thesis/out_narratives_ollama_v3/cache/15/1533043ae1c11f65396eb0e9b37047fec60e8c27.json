@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "Adele Fiona Boone, an Electrical Engineer, had an unusual week. Evidence suggests that she triggered two detection rules: Unusual volume of logons outside her working hours and Browsing to job-search or leak-publication sites atypical for her role. The most significant evidence is the 70 visits to job-search sites, which is clearly above her usual range and even above the typical range for her peers in the same role. Additionally, her logon volume outside working hours was 4, which is also above her usual range.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

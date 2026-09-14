@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to CMP2946's (Chandler Martin Page) unusual browsing behavior, specifically their visits to job-search sites. With 21 visits this week, which is far above their usual range of 0-13 and also significantly higher than their peers' average of 3, it suggests that CMP2946 may be searching for new job opportunities outside of their typical sales and marketing role.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "67ba247283ed"
+  }
+}

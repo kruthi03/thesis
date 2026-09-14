@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "Carlos Dieter Ewing's activity volume this week far exceeded what's typical for his role and peers. Specifically, he performed 13 file operations, which is significantly higher than his usual range of 1-6 and above the peer average of 1. This suggests that there was an unusual spike in his overall activity, prompting the system to flag it as anomalous.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "d7021ac17ab1"
+  }
+}

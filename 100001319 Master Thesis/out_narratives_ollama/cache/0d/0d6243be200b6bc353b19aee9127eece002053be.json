@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "SCH3858's browsing activity triggered rule R4 this week due to a significant increase in visits to job-search sites. Specifically, Sebastian Cooper Hoffman visited job-search sites 45 times, which is beyond his typical range and significantly different from what same-role peers did (1 visit out of 91). This anomaly stands out as the most notable evidence for the triggered rule.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

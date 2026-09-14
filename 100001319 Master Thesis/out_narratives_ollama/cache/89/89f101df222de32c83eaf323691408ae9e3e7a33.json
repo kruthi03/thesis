@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for CDE1846 (Carlos Dieter Ewing) triggered two detection rules, indicating unusual behavior. The most significant evidence comes from rule R3, which flags an unusually high volume of attachment data sent to external recipients. Carlos exceeded his typical average by a factor of 5.4, sending 50.06 MB of attachments compared to his usual 9.49 MB. This is also significantly higher than the same-role peers' average this week (9.00 MB). The large number of external email recipients (36) further supports this finding.\n\nAdditionally, rule R5 detected an unusual volume of file operations, with Carlos performing 16 operations, which is more than 7 times his typical activity and exceeds the same-role peer's average by a factor of 10.12.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "ea3d0678f325"
+  }
+}

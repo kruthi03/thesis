@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Alice Britanney Pope's (ABP2917) activity for the week of 2010-W23 due to an elevated number of files copied to removable media. Specifically, 19 files were copied, which is above her usual range of 6.50 and even higher than her highest count in the prior 12 weeks, at 17. This suggests that Alice was more actively copying files to removable media this week compared to previous periods.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

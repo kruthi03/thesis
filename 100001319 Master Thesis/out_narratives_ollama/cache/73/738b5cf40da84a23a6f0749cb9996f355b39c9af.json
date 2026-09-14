@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's anomaly was triggered due to an unusual volume of attachment data sent to external recipients, with a total of 54.57 MB of email attachments sent, which is more than three standard deviations away from Zenaida Carol Snow's typical behavior (23.37 MB) and well above the maximum amount she has sent in recent weeks (45.10 MB). Additionally, the number of external email recipients was significantly higher than usual, with 61 recipients this week compared to an average of 39 for her same-role peers.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "e0daedcec5e8"
+  }
+}

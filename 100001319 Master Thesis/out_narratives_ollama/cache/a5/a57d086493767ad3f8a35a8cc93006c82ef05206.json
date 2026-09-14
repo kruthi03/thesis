@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged VicePresident Zenaida Carol Snow's (ZCS0012) activity for review due to unusual volume of attachment data sent to external recipients. Specifically, she sent 54.57 MB of email attachments, which is significantly above her typical range of 23.37 MB and even exceeds the maximum recorded amount of 45.10 MB. Furthermore, she transmitted these attachments to an unusually large number of external recipients (61), exceeding both her own recent typical count of 39 and same-role peer averages this week (44).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "e0daedcec5e8"
+  }
+}

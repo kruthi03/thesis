@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Ingrid Liberty Kane's UEBA system flagged her activity due to unusual volume of logons outside her working hours and elevated number of files copied to removable media. The evidence for these triggered rules is striking: she logged on 3 times outside her typical working hours, which is well above her usual range of 0 occurrences in the past 12 weeks. Additionally, she copied 39 files to removable media, exceeding her typical volume of 20.50 and the highest volume seen in the prior 12 weeks by a significant margin.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "1f003e84ecfb"
+  }
+}

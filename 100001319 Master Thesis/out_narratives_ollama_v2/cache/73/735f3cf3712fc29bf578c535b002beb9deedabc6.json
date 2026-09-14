@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, AGW1590's sales activity volume was significantly higher than their peers in the same role, with 34 file operations, which is far outside the typical range of 1 among same-role peers. Additionally, they copied 12 files to removable media, which is above their usual range of 3 and the highest in the prior 12 weeks of 13. This suggests that AGW1590's behavior this week was unusual and warrants further investigation.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "d0dc80a513b1"
+  }
+}

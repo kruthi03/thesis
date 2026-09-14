@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for user AVH0566, SystemsEngineer from the ResearchAndEngineering_Commercial team, was flagged due to an unusual volume of logons outside their typical working hours. Specifically, there were 4 logons outside their usual range of 1, indicating a significant increase in out-of-hours activity. This anomaly is most notable, as it stands out from the user's typical behavior.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "30e15748717a"
+  }
+}

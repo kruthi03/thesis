@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, had an anomalous week. The UEBA system flagged the week due to evidence from triggered rules [R4] and [R5]. Specifically, Felix visited job-search sites 34 times, which is far above their typical range and also above the peer range for same-role peers. Additionally, Felix performed 129 file operations, which is clearly above their usual range and also above the peer range.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "a0a7dc154e87"
+  }
+}

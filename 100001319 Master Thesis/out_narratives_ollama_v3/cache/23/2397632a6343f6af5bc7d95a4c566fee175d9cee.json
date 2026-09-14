@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "This week, user CDE1846 (Carlos Dieter Ewing) triggered a rule due to an unusual volume of attachment data sent to external recipients. Specifically, they sent 57.08 MB of email attachments, which is significantly above their typical range of 9.49 MB. This is also above the range seen among their peers, who averaged 6.96 MB this week. Additionally, they sent attachments to 33 external recipients, which is also above their typical range of 15 and the peer average of 13.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a5957fc70bf9"
+  }
+}

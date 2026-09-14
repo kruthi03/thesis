@@ -1,0 +1,19 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "gemini-3.6-flash",
+    "v5",
+    "0.7000"
+  ],
+  "text": [
+    "Allen Cruz Mccoy (ACM2278) triggered a review due to 3 visits to leak-publication sites during week 2010-W34, whereas their own recent typical activity is 0. This single anomalous indicator matters most for the alert, as browsing leak sites deviates from their normal baseline. Meanwhile, their 22 visits to job-search sites and 12 visits to cloud-storage sites remain within their own typical ranges of 25 and 9.50 respectively. Overall activity across 49 distinct web domains and 5 days of activity on 1 workstation shows otherwise standard weekly behavior.",
+    "The primary driver for this alert is Allen Cruz Mccoy visiting leak-publication sites 3 times during week 2010-W34, which is clearly above their own recent typical baseline of 0. It is possible the user was casually researching or accidentally navigating to these destinations during standard web browsing. Supporting context indicates that their general web usage remained normal, with 49 distinct domains visited compared to their typical 53. Additionally, their job-search visits at 22 and cloud-storage visits at 12 were well within their own historical norms of 25 and 9.50.",
+    "Allen Cruz Mccoy was flagged primarily because of 3 visits to leak-publication sites in week 2010-W34, an action that stands out against their recent typical count of 0. This activity could represent an intentional search for exposed information or security news relevant to their commercial role. Other weekly metrics were entirely typical for this user, including active logging on across 5 days from a single workstation. Furthermore, 22 job-search site visits aligns with their own typical count of 25, suggesting no sudden shift in job-seeking activity.",
+    "The most critical factor in this flag is the 3 visits to leak-publication sites recorded for Allen Cruz Mccoy, exceeding their personal baseline of 0. This low volume of 3 visits renders the evidence somewhat thin, potentially indicating miscategorized web traffic or a brief, non-malicious detour. The user's broader activity profile was consistent with past habits, recording 49 distinct web domains against a typical 53. Their 12 visits to cloud-storage sites also fell within their expected personal range of 9.50.",
+    "An investigation was triggered for Allen Cruz Mccoy based solely on 3 visits to leak-publication sites during week 2010-W34, compared to their usual 0. Given the minimal count of 3 visits, this finding alone represents weak evidence of a policy violation. The user maintained regular work patterns, logging activity on 5 days using 1 workstation with an earliest logon hour of 1 and latest logon hour of 12. Their 22 job-search visits and 12 cloud-storage visits were both in line with their own recent typical figures of 25 and 9.50."
+  ],
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

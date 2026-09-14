@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer from team 13, had a significant increase in file operations during the week of 2011-W14. His overall activity volume was far outside that of his same-role peers, with 8 file operations reported, whereas the typical and maximum values for him are 1.5 and 13, respectively. This anomaly is driven mainly by this evidence, as all other metrics show no unusual patterns.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "c649b67f9bdc"
+  }
+}

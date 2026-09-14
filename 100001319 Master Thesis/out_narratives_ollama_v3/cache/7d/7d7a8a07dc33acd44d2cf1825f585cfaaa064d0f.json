@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Allen Cruz McCoy, a salesman in the RegionalSales team, triggered a detection rule due to atypical browsing behavior. Specifically, the user visited leak-publication sites four times, which is a significant departure from their normal behavior over the past 12 weeks. This unusual activity is likely the main driver of the flagged week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "107dcedee69e"
+  }
+}

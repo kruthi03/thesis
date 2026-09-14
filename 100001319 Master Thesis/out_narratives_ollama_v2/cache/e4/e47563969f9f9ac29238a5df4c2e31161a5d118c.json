@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "The UEBA system flagged Ariel Venus Hooper's (AVH0566) activities for review due to unusual volume of logons outside her working hours. Specifically, she logged on four times during non-work hours, which is significantly higher than her recent typical behavior (1-2 logons) and even exceeds the maximum recorded logon count (z=3.0).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "30e15748717a"
+  }
+}

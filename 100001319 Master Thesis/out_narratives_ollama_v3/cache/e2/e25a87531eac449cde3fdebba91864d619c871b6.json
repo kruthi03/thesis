@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "Adele Fiona Boone, an Electrical Engineer, had an unusual week. The UEBA system flagged her activity due to the \"Evidence for triggered rules.\" Specifically, there were 4 logons outside her typical working hours, a significant increase from her usual 0.50 logons during that time. Additionally, she visited job-search sites 70 times, which is 34 more than her typical 36 visits and well above the 8 visits among her peers in the same role. These events triggered rules R1 and R4, respectively.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

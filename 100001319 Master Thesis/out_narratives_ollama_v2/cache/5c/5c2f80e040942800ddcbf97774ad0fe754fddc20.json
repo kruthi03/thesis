@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system has flagged Hall Aladdin Gardner's activity for review due to evidence that triggered rules R2, R4, and R5. Specifically, the number of files copied to removable media (68) is significantly higher than their typical range (own recent typical: 43; highest in the prior 12 weeks: 54). Additionally, file operations (167) and web requests (665) are both far outside the peer distribution for this role, indicating an unusual level of activity. Finally, browsing to job-search sites (31) is also above their typical range (own recent typical: 10.50; highest in the prior 12 weeks: 19).",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "6c2facc73bac"
+  }
+}

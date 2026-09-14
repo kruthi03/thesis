@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for JAF0209, a Director in the ResearchAndEngineering_Government_Foreign functional unit, has been flagged due to unusual volume of logons outside their working hours and overall activity volume far outside that of same-role peers. Specifically, there were 8 logons outside typical working hours, which is significantly above their usual range of 2.50 and the highest in the prior 12 weeks. Additionally, there were 1330 web requests, which is far above their recent typical of 950 and the highest in the prior 12 weeks, as well as significantly higher than the average among same-role peers this week (760).",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for user CMP2946, a salesman in the RegionalSales team, triggered rule R4 due to atypical browsing behavior. Specifically, the user visited job-search sites 21 times, which is far above their usual range and significantly higher than what their peers in the same role experienced. This anomaly is most concerning, as it suggests that CMP2946 may be considering a job change or seeking to access job-search resources outside of normal company activities.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "67ba247283ed"
+  }
+}

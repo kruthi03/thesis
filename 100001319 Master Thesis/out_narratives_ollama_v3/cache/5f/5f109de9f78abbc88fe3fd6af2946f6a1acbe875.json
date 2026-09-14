@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "PJC1252, a software developer in the 7-WebSoftware team, has triggered two detection rules this week. The evidence suggests that they have copied an elevated number of files to removable media (15, significantly above their usual range), and have also visited job-search sites atypical for their role (12, far above their typical range and above the peer range).",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "06ffa8b234ef"
+  }
+}

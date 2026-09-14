@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "Carlos Dieter Ewing's activity volume was significantly higher than that of his peers in Electrical Engineering, Research and Engineering (Commercial) team. Specifically, he performed 8 file operations, which is far outside the typical range for someone in his role. This is likely the primary reason why his week was flagged as anomalous.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "c649b67f9bdc"
+  }
+}

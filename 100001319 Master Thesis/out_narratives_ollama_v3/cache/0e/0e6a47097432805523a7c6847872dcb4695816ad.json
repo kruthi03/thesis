@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged Ariel Venus Hooper's activity for the week of 2010-W42 due to an unusual volume of logons outside her typical working hours. This is evident in the 4 logons recorded outside her usual working hours, which is significantly above her usual range of 1. While her overall logon events and days with recorded activity are within her typical range, the spike in logons outside her working hours warrants further review to determine the cause and potential impact on her work.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "30e15748717a"
+  }
+}

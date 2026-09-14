@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Mercedes Josephine Ayala (MJA2380) as Chief Engineer in the Materials Engineering team has triggered two detection rules. The unusual volume of attachment data sent to external recipients ([R3]) is evident in the 60.10 MB of email attachments sent, which far exceeds her typical volume of 23.15 MB and even her maximum volume of 34.04 MB. Additionally, the overall activity volume is far outside the same-role peer distribution ([R5]), with 51 file operations recorded, significantly higher than her own recent typical of 13 and the team's average of 1.\n\nThe unusual volume of attachment data sent to external recipients is the most significant evidence for these triggered rules.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "9cf542cc9e79"
+  }
+}

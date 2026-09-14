@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "ABP2917's activities triggered a rule for elevated file copying to removable media. Specifically, 19 files were copied, which is significantly higher than their recent average of 6.50 and maximum of 17. This anomaly suggests that Alice may have been preparing or transferring data in an unusual manner.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

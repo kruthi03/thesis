@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "Carlos Dieter Ewing's week (2011-W17) was flagged due to unusual volume of attachment data sent to external recipients. Specifically, he sent 57.08 MB of email attachments, which is clearly above his usual range of 9.49 MB and higher than the highest in the prior 12 weeks of 50.06 MB. This excessive volume, combined with an increased number of external recipients (33), triggered rule R3.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "a5957fc70bf9"
+  }
+}

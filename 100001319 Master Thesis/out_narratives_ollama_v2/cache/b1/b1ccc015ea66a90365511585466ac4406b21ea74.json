@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "The user AVH0566's activity was flagged due to an unusual volume of logons outside their typical working hours. Specifically, there were 4 logons during this period that fell outside their normal schedule, which is characterized by 1-2 logons per week in non-working hours. This anomaly stands out given the statistical significance (z=3.0) and the fact that this user's overall logon activity was not anomalous, with a total of 9 logons during the week, within their normal range.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "30e15748717a"
+  }
+}

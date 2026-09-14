@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to an unusual volume of logons outside AVH0566's working hours. Specifically, they had 4 logons outside their typical hours, which is significantly above their usual range of 1-2 occurrences over the past 12 weeks. This increase in off-hours activity suggests that Ariel may be experiencing a change in their work habits or responsibilities, warranting further review to understand the cause and potential impact on their systems engineering team's operations.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "30e15748717a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to unusual volume of logons outside Ingrid Liberty Kane's working hours and elevated number of files copied to removable media. Specifically, she had three logons outside her usual working hours, which is clearly above her typical range. Additionally, 39 files were copied to removable media, also significantly higher than her usual activity.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "1f003e84ecfb"
+  }
+}

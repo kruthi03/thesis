@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Felix Dustin Fletcher's week (2010-W14) due to evidence of triggered rules. The main concern is his unusually high activity volume, with 129 file operations, which is far above his usual range and significantly higher than that of his peers. This is also reflected in his overall web requests, which reached 600, exceeding his typical range and slightly above that of his peers. Additionally, his browsing activity shows a significant spike, with 34 visits to job-search sites, which is well above his typical range and significantly higher than that of his peers.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "a0a7dc154e87"
+  }
+}

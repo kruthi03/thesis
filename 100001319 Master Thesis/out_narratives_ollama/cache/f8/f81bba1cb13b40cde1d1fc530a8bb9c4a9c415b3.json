@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to unusual volume of attachment data sent to external recipients. The evidence for this anomaly is the unusually high amount of email attachments sent, at 57.08 MB, which is significantly higher than the user's typical and maximum values over recent weeks (9.49 MB and 50.06 MB, respectively). Additionally, the number of external email recipients was also higher than usual, with 33 recipients this week compared to the user's typical range of 15-36 recipients. This suggests that the user may have been sharing or collaborating on files with a larger group of people outside their team than usual.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "a5957fc70bf9"
+  }
+}

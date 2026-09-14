@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for user FDF2135 (Felix Dustin Fletcher) has triggered an anomaly detection rule. The primary evidence lies in two triggered rules: browsing to job-search or leak-publication sites atypical for the role, and overall activity volume far outside the same-role peer distribution.\n\nThe most significant indicator of this anomaly is the substantial increase in browsing to job-search sites, with 34 visits (z=34.0), which is a drastic departure from the user's typical behavior (0-7 visits). This unusual activity is further amplified by the fact that same-role peers only averaged 1 visit with a z-score of 22.26.\n\nAdditionally, the overall file operations have also seen a notable spike to 129, which exceeds both the user's typical range and the peer distribution (z=3.44 beyond the +50 cap). This increase in activity volume may be indicative of some unusual behavior or an attempt to process or transfer large amounts of data.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "a0a7dc154e87"
+  }
+}

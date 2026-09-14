@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for JAF0209, a Director in the ResearchAndEngineering_Government_Foreign functional unit, triggered two detection rules. The first rule was triggered due to an unusual volume of logons outside the user's working hours. Specifically, there were 8 logons during non-working hours, which is significantly higher than their typical range of 2-6 logons (z=3.48). This suggests that JAF0209 may have been working outside normal business hours.\n\nThe second rule was triggered due to an overall activity volume far outside the same-role peer distribution. In this case, there were a total of 1330 web requests, which is more than twice their typical range (950-1140) and also significantly higher than what same-role peers reported this week (760). This suggests that JAF0209's activities may be more intense or varied compared to their colleagues.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

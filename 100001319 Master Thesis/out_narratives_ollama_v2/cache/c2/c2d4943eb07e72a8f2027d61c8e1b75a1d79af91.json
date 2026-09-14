@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged ABP2917's week for triggered rules, specifically an elevated number of files copied to removable media. The evidence shows that this week, Alice Britanney Pope copied 19 files to removable media, which is clearly above her usual range of 6.50 and even higher than the highest amount in the prior 12 weeks (17).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

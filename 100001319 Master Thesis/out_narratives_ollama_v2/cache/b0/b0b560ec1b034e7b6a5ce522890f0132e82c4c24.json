@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ACM2278's (Allen Cruz Mccoy) week for review due to evidence that he browsed atypical job-search or leak-publication sites. Specifically, his visits to leak-publication sites exceeded his typical range, with a count of 3 this week compared to the usual 0 and a high of 4 in the prior 12 weeks. This is likely the most significant finding, as it deviates significantly from his normal behavior.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

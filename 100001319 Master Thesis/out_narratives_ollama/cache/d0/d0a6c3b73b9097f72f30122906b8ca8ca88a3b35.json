@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user FDF2135 (Felix Dustin Fletcher) was flagged due to evidence from triggered detection rules. The most notable anomalies are the unusually high volume of file operations, with 129 actions this week compared to an average of 78 and a maximum of 157 in recent weeks, which is far outside the peer range. Additionally, Felix's browsing activity was significantly higher than typical for his role, with 34 visits to job-search sites, a value that exceeded both their own recent typical (0) and the peer distribution this week (1).",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "a0a7dc154e87"
+  }
+}

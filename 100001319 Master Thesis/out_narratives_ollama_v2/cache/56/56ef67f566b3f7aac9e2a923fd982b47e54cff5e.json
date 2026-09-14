@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to Allen Cruz McCoy's atypical browsing behavior, specifically visiting leak-publication sites three times. This is significantly higher than their usual range and highest in the prior 12 weeks, indicating that this activity is out of character for a salesman in his role. The visit frequency to job-search sites is elevated compared to peer averages, but not unusual for him historically. The rest of his online activities, including file storage and workstation usage, remain within his typical ranges.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

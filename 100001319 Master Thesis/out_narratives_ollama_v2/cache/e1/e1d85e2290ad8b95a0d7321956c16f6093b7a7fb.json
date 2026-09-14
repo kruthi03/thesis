@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Chief Engineer Mercedes Josephine Ayala (MJA2380) was flagged due to two triggered detection rules. The most significant evidence is the unusual volume of attachment data sent to external recipients, with 60.10 MB of attachments sent, which is clearly above their usual range and far outside the peer distribution. Additionally, the overall activity volume was also flagged, with 51 file operations performed, which is well above their typical and peer ranges.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "9cf542cc9e79"
+  }
+}

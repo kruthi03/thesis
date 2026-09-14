@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "SCH3858, a Security Guard with a typical browsing behavior that includes occasional visits to job-search sites, has been flagged for an unusual spike in such activity. The trigger rule was R4, which detected atypical browsing patterns for their role. Specifically, Sebastian Cooper Hoffman visited job-search sites 45 times this week, which is significantly above their recent average of 27.50 (z=3.34). This anomaly stands out even more when compared to same-role peers who only averaged 1 visit to such sites this week (z=29.68).",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

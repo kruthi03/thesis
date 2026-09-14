@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged a potential issue with user ABP2917 (Alice Britanney Pope) due to an elevated number of files copied to removable media. Specifically, 19 files were copied during this week, which is significantly higher than her recent average of 6.50 and the maximum of 17. This anomaly suggests that Alice may have been transferring more data than usual, possibly indicating a change in her work habits or workload.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

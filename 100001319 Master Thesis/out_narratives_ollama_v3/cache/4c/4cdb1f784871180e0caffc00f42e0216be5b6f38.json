@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, ACM2278 (Allen Cruz Mccoy) was flagged due to an unusual spike in browsing to leak-publication sites, with 4 visits, which is atypical for his role as a Salesman. This behavior has not been observed in the prior 12 weeks. While his overall browsing activity appears normal, with 55 distinct web domains visited and typical usage patterns in other categories, the increase in job-search site visits (25) is notable, but this is still within his usual range. The most notable aspect is the anomalous browsing to leak-publication sites, which warrants further investigation.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "107dcedee69e"
+  }
+}

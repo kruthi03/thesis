@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Pamela Julie Case (PJC1252) triggered two detection rules. The first rule, Elevated number of files copied to removable media (R2), was triggered due to an unusual number of files being copied to removable media - specifically, 15 files were copied this week, which is significantly higher than her typical range of 1-12 files per week (z=9.44). This anomaly suggests that Pamela may have been preparing for a project or copying sensitive information.\n\nThe second rule, Browsing to job-search or leak-publication sites atypical for the role (R4), was triggered due to an unusual number of visits to job-search sites - specifically, 12 visits were made this week, which is significantly higher than her typical range of 0-52 visits per week (z=12.0). While Pamela's peers in the same role only visited job-search sites once this week, it is unclear what her intentions are for these visits.\n\nOverall, while some of Pamela's activity may be explained by her role and responsibilities, the unusual number of files being copied to removable media and the atypical browsing behavior warrant further investigation.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "06ffa8b234ef"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user ACM2278, Allen Cruz Mccoy, was flagged due to evidence that his browsing behavior is atypical for a salesman. Specifically, he visited leak-publication sites three times, which is above his usual range and highest in the prior 12 weeks. This anomaly is likely the most significant finding, as it suggests potential curiosity or interest in sensitive information not typically accessed by salesmen.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week, AVH0566's UEBA system flagged an anomaly due to unusual logon activity outside their typical working hours. Specifically, there were 4 logons during this period, which is significantly higher than their recent average (1) and maximum (2). This suggests that AVH0566 may have had some unexpected or out-of-hours work-related activities.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "30e15748717a"
+  }
+}

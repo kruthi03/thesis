@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activities for AGW1590, a salesman in the RegionalSales team, have triggered two detection rules. The most significant evidence points to an elevated number of files copied to removable media (12), which is well above their usual range (3). This, combined with an overall activity volume far outside the peer distribution (34 file operations), suggests that AGW1590's behavior this week was unusually high. While other contextual values, such as removable device connections and logon events, were within normal ranges, the file copying and overall activity levels are cause for further investigation.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "d0dc80a513b1"
+  }
+}

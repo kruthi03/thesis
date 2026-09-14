@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user AFB3228, Adele Fiona Boone, was flagged due to evidence from triggered detection rules. The most notable anomaly is the unusually high volume of visits to job-search sites, with 70 visits recorded, which is significantly above their typical range (36-61) and even exceeds the average number of visits by same-role peers this week (8). This suggests that Adele may be looking for a new opportunity outside of her usual work hours. Additionally, there were 4 logons outside working hours, which is also an uncommon occurrence for this user.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

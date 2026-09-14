@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Vice President Zenaida Carol Snow's email activity triggered a rule due to the unusual volume of attachment data sent to external recipients. Specifically, 54.57 MB of email attachments were sent, which is above their typical range of 23.37 MB and the highest in the prior 12 weeks.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "e0daedcec5e8"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged this week for ACM2278, a salesman in the RegionalSales team, due to triggered detection rules related to browsing to job-search or leak-publication sites. Specifically, there were 3 visits to leak-publication sites, which is significantly above their usual range of 0. This is the primary evidence driving the flag, and it suggests that ACM2278 may be engaging in atypical behavior for their role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

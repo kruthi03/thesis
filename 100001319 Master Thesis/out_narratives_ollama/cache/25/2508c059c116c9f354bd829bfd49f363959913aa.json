@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Pamela Julie Case's (PJC1252) activity was flagged due to evidence from triggered rules. Specifically, she had an elevated number of files copied to removable media ([R2]), with 15 copies observed, which is significantly higher than her typical range and far above the maximum value. This unusual behavior was not accompanied by any other suspicious file operations or connections to removable devices outside working hours, suggesting that this activity may be unrelated to legitimate work purposes.\n\nAdditionally, PJC1252's browsing history showed atypical visits to job-search sites ([R4]), with 12 visits observed, which is far above her typical range and well beyond the maximum value. This behavior is also unusual for someone in her role, as evidenced by her same-role peers' relatively low visit counts this week.\n\nWhile PJC1252's overall activity was normal, these two anomalies warrant further investigation to determine the nature of her unusual file copying and job-searching activities.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "06ffa8b234ef"
+  }
+}

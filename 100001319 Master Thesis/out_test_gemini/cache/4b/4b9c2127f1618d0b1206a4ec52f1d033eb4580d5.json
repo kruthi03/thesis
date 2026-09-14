@@ -1,0 +1,19 @@
+{
+  "key": [
+    "107dcedee69e",
+    "gemini-3.6-flash",
+    "v5",
+    "0.7500"
+  ],
+  "text": [
+    "Allen Cruz Mccoy was flagged during week 2010-W33 primarily because they recorded 4 visits to leak-publication sites, an activity not observed for this user in the preceding 12 weeks. While rule R4 also considers job-search activity, the 4 visits to leak-publication sites matter most since the user's 25 job-search site visits match their own recent typical baseline. The rest of the user's web browsing remained typical, with 55 distinct web domains visited and 11 cloud-storage site visits across 6 days of recorded activity. Given that leak-publication site activity is rare and newly observed for this user, this anomaly warrants a brief follow-up to confirm intent.",
+    "The primary reason for this alert is the user's 4 visits to leak-publication sites during week 2010-W33, which represents a new behavior compared to their prior 12 weeks of activity. This evidence matters most for the triggered rule, though it could stem from benign browsing or news research. Contextual metrics show that the user operated normally otherwise, utilizing 1 workstation and visiting 55 distinct web domains, consistent with their typical 53 domain baseline. Because 4 visits is a relatively low total count and no other anomalous behaviors were observed, this potential policy violation may be minor.",
+    "The main driver for flagging user ACM2278 in week 2010-W33 is the detection of 4 visits to leak-publication sites, which had not been observed in the previous 12 weeks. This novel access to leak sites is the key evidence behind rule R4, as their 25 job-search site visits match their own established personal baseline. Other weekly activity indicators were unexceptional, including 11 visits to cloud-storage sites and active logons spanning from hour 2 to hour 21 across 6 days. However, given the security implications of leak-publication platforms, these 4 visits should be reviewed to rule out potential insider risk.",
+    "This alert was triggered by 4 visits to leak-publication sites during week 2010-W33, a behavior not recorded for Allen Cruz Mccoy in the prior 12 weeks. These 4 visits represent the key evidence for the alert, but could plausibly be the result of accidental clicks, web redirects, or embedded third-party content. The user's broader browsing habits remained stable, visiting 55 distinct web domains compared to their typical average of 53, and using 1 workstation throughout the week. Because the evidence consists of only 4 individual visits without any surrounding spikes in cloud-storage usage or overall domain count, this issue appears minor.",
+    "During week 2010-W33, Allen Cruz Mccoy was flagged due to 4 visits to leak-publication sites, which serves as the sole anomalous finding and primary evidence for rule R4. This behavior is notable because zero such visits occurred in the user's prior 12 weeks, though it might reflect contextual research related to sales activities or current events. All other contextual metrics indicate standard activity, with 6 days of recorded activity, 25 visits to job-search sites matching their own personal norm, and 11 cloud-storage visits. Given the thin evidence of only 4 visits and otherwise routine behavior, further review should focus on verifying the specific web addresses."
+  ],
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

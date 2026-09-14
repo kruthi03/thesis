@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activities for user ILK3668, a StockroomClerk in the Manufacturing_Government functional unit, have triggered two anomaly detection rules. The most significant evidence is the unusual volume of logons outside their working hours (R1) with three events, which is significantly higher than their typical range of zero or at most two events in the prior 12 weeks. Additionally, there was an elevated number of files copied to removable media (R2) with 39 events, exceeding their usual range of 20.50 by a wide margin.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "1f003e84ecfb"
+  }
+}

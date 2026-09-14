@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user CMP2946, Chandler Martin Page, was flagged due to atypical browsing behavior. The evidence suggests that they visited job-search sites 7 times, which is significantly above their usual range and even higher than their peers' typical behavior. This anomaly is supported by the triggered rule [R4], which flags unusual visits to job-search or leak-publication sites for a sales role like CMP2946's.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

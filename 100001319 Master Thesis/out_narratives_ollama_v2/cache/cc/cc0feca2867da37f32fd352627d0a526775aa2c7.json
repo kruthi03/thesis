@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "ACM2278's activities this week have raised some concerns. The main reason for this flag is that they visited leak-publication sites four times, which is a significant departure from their typical behavior over the past year. This unusual activity triggered rule R4.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

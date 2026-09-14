@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for user CDE1846 (Carlos Dieter Ewing) was flagged due to evidence from triggered rules, specifically an overall activity volume far outside the same-role peer distribution. The file operations value of 8 is significantly higher than Carlos' typical recent volume of 1.50, with a z-score of 4.38, and even exceeds the maximum seen by same-role peers this week (z=4.72). This suggests that Carlos' activity was unusually high in terms of file operations during this period.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "c649b67f9bdc"
+  }
+}

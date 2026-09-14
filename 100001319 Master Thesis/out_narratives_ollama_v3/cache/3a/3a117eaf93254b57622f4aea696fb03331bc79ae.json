@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "The week for user MJA2380, Chief Engineer in the Materials Engineering team, was flagged due to evidence triggering two rules. Firstly, the volume of attachment data sent to external recipients was unusually high, with 60.10 MB of attachments sent, far exceeding their typical range of 23.15 MB. This is also significantly higher than the average among same-role peers, which is 8.63 MB. Secondly, the overall activity volume was far outside the same-role peer distribution, with 51 file operations performed, a significant increase from their typical 13 and well above the peer average of 1.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "9cf542cc9e79"
+  }
+}

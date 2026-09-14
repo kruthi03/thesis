@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence that ABP2917 (Alice Britanney Pope) exceeded their typical behavior with regards to files copied to removable media. Specifically, they copied a total of 19 files to removable media this week, which is significantly above their usual range of 6.50 and the highest count in the prior 12 weeks at 17. This anomaly in file copying activity suggests that Alice may have been preparing or transferring data in a way that deviates from her typical patterns.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

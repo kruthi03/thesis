@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for Sebastian Cooper Hoffman due to atypical browsing behavior, specifically visiting job-search sites 45 times, which is significantly above their usual range of 27.50. This is also far above the peer range of 1, indicating that this is not a typical activity for someone in his role.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

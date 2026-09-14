@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "PJC1252, a software developer in the Web Software team, had an unusual week (2010-W12). The UEBA system flagged her activity due to two triggered rules. Firstly, she copied a significant number of files to removable media (15), which is well above her typical range and exceeds the maximum value observed recently (z=9.44). Secondly, she visited job-search sites atypical for her role (12) with a z-score of 12.0, indicating a high degree of deviation from her usual behavior.\n\nThese anomalies are the primary reasons why this week was flagged for review.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "06ffa8b234ef"
+  }
+}

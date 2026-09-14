@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Ingrid Liberty Kane's (ILK3668) UEBA system flagged her activity as anomalous due to evidence from triggered rules R1 and R2. The unusual volume of logons outside her working hours (3) is a significant departure from her typical range of 0, indicating that she logged in from home or another non-work location. Additionally, the elevated number of files copied to removable media (39) is more than double her typical range of 20.50, suggesting that she may have been preparing or sharing large amounts of data.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "1f003e84ecfb"
+  }
+}

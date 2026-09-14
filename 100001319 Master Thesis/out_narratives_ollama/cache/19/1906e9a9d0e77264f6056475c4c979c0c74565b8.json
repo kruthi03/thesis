@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "Mercedes Josephine Ayala's activity this week stands out from her typical behavior and that of her peers. The most significant anomaly is the unusually high volume of file operations, with 51 events exceeding her recent maximum by a factor of nearly three (z=5.7) and far beyond what same-role peers reported this week (1 event on average). This suggests that Ayala was actively engaged in processing or manipulating files at an extraordinary level. Additionally, the unusually large volume of attachment data sent to external recipients, amounting to 60.10 MB, is another triggered rule, which may be related to her file operations. Overall activity volume is also significantly higher than what same-role peers reported this week.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "9cf542cc9e79"
+  }
+}

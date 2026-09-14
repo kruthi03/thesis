@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "The anomaly was triggered because ACM2278, a Salesman, visited leak-publication sites 4 times, which is an unusual activity for someone in his role. This behavior is not typical for him, as it hasn't been observed in the past 12 weeks. While his browsing habits are not entirely out of the ordinary, the frequency of job-search site visits (25) is significantly higher than what's typical among his peers, which may indicate a motivation beyond routine job searching.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "107dcedee69e"
+  }
+}

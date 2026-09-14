@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "Carlos Dieter Ewing's electrical engineering team activity was flagged due to an unusual overall volume of file operations, with 13 recorded events this week. This is significantly higher than his recent average of 1 and the maximum of 6, and also exceeds the same-role peer distribution by a factor of 8.09.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "d7021ac17ab1"
+  }
+}

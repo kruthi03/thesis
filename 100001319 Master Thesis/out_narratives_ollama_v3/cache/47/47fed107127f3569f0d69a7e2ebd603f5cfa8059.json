@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "AFB3228's activity this week, 2010-W42, has triggered two detection rules. Firstly, there were 4 logons outside their typical working hours, which is significantly above their usual range. Secondly, there were 70 visits to job-search sites, which is also well above their typical range and even above the range seen among their peers in the same role. These unusual logon patterns and browsing habits are the primary evidence for these triggered rules.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

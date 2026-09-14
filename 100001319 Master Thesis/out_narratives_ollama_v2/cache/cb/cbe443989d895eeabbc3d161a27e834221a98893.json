@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "PJC1252's week (2010-W12) was flagged due to elevated activity on multiple fronts. The most notable anomaly is the excessive number of files copied to removable media, with 15 instances observed, which is significantly above their typical range of 1-12 and well beyond what's normally seen in this role. This is further evidence that their browsing behavior also warrants investigation, as they visited job-search sites atypical for a software developer like themselves, with 12 visits recorded, far exceeding their usual zero and the average among same-role peers.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "06ffa8b234ef"
+  }
+}

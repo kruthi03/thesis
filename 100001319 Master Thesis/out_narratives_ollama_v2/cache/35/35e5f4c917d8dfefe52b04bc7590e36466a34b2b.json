@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had a flagged week. The main reason for this is that he sent a large volume of email attachments (57.08 MB) to external recipients (33), which is unusual compared to his own recent behavior and peer norms. This exceeds his typical range by a significant margin, making it an anomaly worth investigating further.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "a5957fc70bf9"
+  }
+}

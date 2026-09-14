@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The week in question (2010-W42) was flagged due to evidence from triggered rules. Specifically, Adele Fiona Boone, an Electrical Engineer, exhibited unusual behavior, with 4 logons outside her typical working hours (R1) and 70 visits to job-search sites, which is significantly above her usual range and also above the range of her peers in the same role (R4).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

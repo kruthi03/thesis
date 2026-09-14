@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "The UEBA system flagged ACM2278's activity from Week 2010-W33 due to evidence suggesting atypical browsing behavior. Specifically, Allen Cruz Mccoy visited leak-publication sites four times during this period, which is a significant increase compared to his previous 12-week history where such visits were not observed.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "107dcedee69e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, CMP2946 (Chandler Martin Page), a Salesman in the RegionalSales team, was flagged due to evidence of atypical browsing behavior. Specifically, CMP2946 visited job-search sites 21 times, which is far above their usual range and significantly higher than their peers in the same role. This suggests that CMP2946 may be exhibiting behavior that is uncommon for someone in their role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "67ba247283ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for AVH0566, a Systems Engineer, due to an unusual volume of logons outside their typical working hours. The evidence suggests that while AVH0566's overall logon activity is within their usual range (9 events), they have had 4 logons outside their usual working hours, which is above their recent and prior averages (1 and 2, respectively). This increase in logons during off-peak hours warrants further investigation to determine the cause and potential impact on their work.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "30e15748717a"
+  }
+}

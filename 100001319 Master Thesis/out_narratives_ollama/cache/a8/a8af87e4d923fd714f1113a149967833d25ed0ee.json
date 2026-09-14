@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged a week for Mercedes Josephine Ayala (MJA2380) due to evidence that her activity volume was far outside that of same-role peers. Specifically, she performed 51 file operations, which is well beyond the norm for her role and peer group (z=5.7). This suggests an unusual level of activity, potentially indicative of a project or task requiring extensive file manipulation.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "9cf542cc9e79"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "Carlos Dieter Ewing's week (2011-W15) has triggered detection rules due to unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. The evidence suggests that Carlos sent 50.06 MB of email attachments, which is clearly above their typical range of 9.49 MB and far above the peer average of 9.00 MB. Additionally, Carlos sent files to 16 recipients, which is significantly higher than their typical volume of 2 file operations and far above the peer average of 1. This unusual activity is likely the primary driver of the triggered rules.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "ea3d0678f325"
+  }
+}

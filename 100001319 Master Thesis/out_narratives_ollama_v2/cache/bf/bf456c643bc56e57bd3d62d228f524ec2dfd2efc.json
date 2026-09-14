@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for CMP2946, a Salesman with no anomalous background, has triggered rule R4 due to atypical browsing behavior. The evidence lies in their unusually high number of visits to job-search sites (21), which is far above their usual range and even exceeds the peer average. Meanwhile, there is no suspicious activity on leak-publication sites or cloud-storage sites, which suggests that this anomaly is specific to job searching.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "67ba247283ed"
+  }
+}

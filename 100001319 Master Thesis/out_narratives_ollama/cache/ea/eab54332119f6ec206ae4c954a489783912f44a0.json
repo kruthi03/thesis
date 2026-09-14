@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, CMP2946's behavior is flagged due to evidence that they visited job-search sites atypical for their role. Specifically, they made 21 visits to these types of sites, which is far beyond their typical activity (0) and even exceeds the maximum amount seen in the past (13). This anomaly stands out compared to same-role peers, who visited job-search sites only 3 times this week.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "67ba247283ed"
+  }
+}

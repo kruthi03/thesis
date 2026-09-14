@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The week ending 2010-12-27 to 2010-01-02 was flagged due to evidence from triggered rules. The most notable evidence is the unusually high volume of logons (8) outside the user's working hours, which is far above their typical range. Additionally, the overall activity volume (1330 web requests) is far outside the peer distribution for users in the same role.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

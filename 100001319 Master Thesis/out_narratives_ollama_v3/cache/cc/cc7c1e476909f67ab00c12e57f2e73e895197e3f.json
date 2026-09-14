@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "This week, user CDE1846 (Carlos Dieter Ewing) exhibited an unusual level of activity, with 8 file operations, far exceeding their typical range of 1.50. This is also significantly higher than the average among their same-role peers, who had a total of 1 file operations this week. While other aspects of their activity, such as logon events and web requests, were within their normal range, the unusually high file operations volume is what triggered the alert.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "c649b67f9bdc"
+  }
+}

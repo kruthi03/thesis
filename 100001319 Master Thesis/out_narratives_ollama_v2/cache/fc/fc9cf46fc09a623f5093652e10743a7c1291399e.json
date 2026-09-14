@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "The anomaly was flagged due to evidence from two triggered rules. The first rule, [R3], was triggered because MJA2380 sent an unusually high volume of email attachments, with 60.10 MB of attachments sent this week. This is well above their typical range of 23.15 MB and even higher than their highest volume in the prior 12 weeks. Additionally, this volume is also above the average of their same-role peers, who sent an average of 8.63 MB of attachments this week. The second rule, [R5], was triggered because MJA2380 performed an unusual number of file operations, with a total of 51 operations this week. This is also above their typical range of 13 and even higher than their highest volume in the prior 12 weeks. Furthermore, this volume is far above the average of their same-role peers, who performed an average of 1 file operation this week.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "9cf542cc9e79"
+  }
+}

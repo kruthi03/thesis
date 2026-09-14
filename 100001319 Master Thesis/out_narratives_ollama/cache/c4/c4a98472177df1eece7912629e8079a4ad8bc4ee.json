@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "User FDF2135 (Felix Dustin Fletcher) exhibited atypical behavior this week, with a significant increase in activity volume. Specifically, their file operations jumped to 129, which is far outside the peer distribution and well beyond their typical range. This is likely the primary driver of the triggered detection rules. Additionally, their browsing history shows an unusual number of visits to job-search sites (34), exceeding both their own typical behavior (0-7) and that of same-role peers (1).",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "a0a7dc154e87"
+  }
+}

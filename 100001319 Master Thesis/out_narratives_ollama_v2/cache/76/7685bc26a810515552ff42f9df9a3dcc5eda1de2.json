@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing (CDE1846) was flagged due to evidence from triggered rules. The most notable indicators are an unusual volume of attachment data sent to external recipients and overall activity volume far outside that of same-role peers.\n\nThe anomaly is primarily driven by the significant increase in email attachments sent, which jumped to 50.06 MB, more than five times his typical range. This is also significantly higher than what his peers in Electrical Engineering (13) typically send, with a z-score of 6.52. Furthermore, the number of external recipients increased to 36, another departure from his usual and peer behavior.\n\nAdditionally, file operations rose to 16, exceeding Carlos's recent typical range by a considerable margin and surpassing same-role peers' average this week.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "ea3d0678f325"
+  }
+}

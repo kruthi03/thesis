@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged HAG3196's activity for review due to evidence from triggered rules. Most notable is the elevated number of files copied to removable media, with 68 files being copied this week compared to their typical range of 43 and a previous high of 54. This suggests that there may be an unusual interest in transferring data to external devices. Additionally, the overall activity volume was far outside the peer distribution for same-role users, with 167 file operations, 665 web requests, and 31 visits to job-search sites all exceeding their typical ranges.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "6c2facc73bac"
+  }
+}

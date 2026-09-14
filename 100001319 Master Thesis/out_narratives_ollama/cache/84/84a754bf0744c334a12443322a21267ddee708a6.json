@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for ChiefEngineer MJA2380 was flagged due to unusual volume of attachment data sent to external recipients and overall activity volume far outside that of same-role peers. Specifically, Mercedes Josephine Ayala sent a large amount of email attachments (60.10 MB) to 44 external recipients, which is significantly higher than her typical recent volume (23.15 MB max: 34.04 MB). Additionally, her file operations totalled 51, which is far outside the norm for same-role peers this week (1, n=72, z=33.72).",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "9cf542cc9e79"
+  }
+}

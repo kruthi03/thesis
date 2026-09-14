@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly was triggered due to an unusual volume of attachment data sent to external recipients. Specifically, Carlos Dieter Ewing (CDE1846) sent 57.08 MB of email attachments, significantly exceeding his typical range of 9.49 MB and maximum of 50.06 MB. Moreover, the number of external recipients reached 33, which is also above his recent average of 15 and the maximum of 36. This suggests that CDE1846's attachment data sent to external recipients was unusually high this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "a5957fc70bf9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical browsing behavior, specifically his visits to leak-publication sites, which reached 4, a significant increase from the prior 12 weeks where this activity was not observed. This anomaly is particularly notable given that his visits to job-search sites remained typical at 25, significantly above the peer average of 1, suggesting that this unusual browsing behavior is not driven by a desire to search for new job opportunities.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "107dcedee69e"
+  }
+}

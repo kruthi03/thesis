@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged ACM2278's week (2010-W34) due to evidence that they browsed leak-publication sites atypical for their role. Specifically, there were three visits to these types of sites, which is clearly above their usual range and beyond what has been observed in the prior 12 weeks.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

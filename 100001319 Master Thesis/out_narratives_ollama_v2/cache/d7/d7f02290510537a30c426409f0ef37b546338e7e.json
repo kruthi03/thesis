@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "ACM2278's activities this week have raised some concerns due to unusual browsing patterns. Specifically, the user visited leak-publication sites three times, which is significantly above their typical behavior (0 visits) and beyond what's expected for someone in their role (max of 4). This anomaly suggests that Allen Cruz Mccoy might be exploring job-search or publication sites more than usual, possibly indicating a desire to change roles or seek new opportunities.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

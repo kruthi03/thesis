@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for CDE1846 due to an unusual volume of file operations, with 8 instances recorded. This is significantly higher than their typical activity, which averaged only 1.5 file operations per week, and exceeds the maximum of 13 observed in previous weeks. Additionally, compared to same-role peers, CDE1846's file operations were even more extreme, with a z-score of 4.38. While other indicators such as logon events, web requests, removable device connections, workstation usage, and days with recorded activity all appear normal, the elevated file operations suggest that this week may warrant further investigation.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "c649b67f9bdc"
+  }
+}

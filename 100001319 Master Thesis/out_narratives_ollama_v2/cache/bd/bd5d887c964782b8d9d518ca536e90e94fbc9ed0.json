@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Alice Britanney Pope's activity was flagged due to an elevated number of files copied to removable media. Specifically, she copied 19 files, which is significantly above her typical range (6.50, max: 17) and represents a statistical anomaly (z=3.37).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

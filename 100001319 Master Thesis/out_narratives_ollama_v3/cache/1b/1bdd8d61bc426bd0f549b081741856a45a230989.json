@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged Pamela Julie Case (PJC1252) for the week of 2010-W12 due to evidence from two triggered rules. The most significant evidence is the elevated number of files copied to removable media (15), which is clearly above her usual range and suggests a potential data exfiltration attempt. Additionally, the unusual browsing to job-search sites (12) is far above her typical activity and exceeds the average among peers in her role.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "06ffa8b234ef"
+  }
+}

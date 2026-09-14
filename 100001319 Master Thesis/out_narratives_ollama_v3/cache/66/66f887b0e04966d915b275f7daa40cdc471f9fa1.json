@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Pamela Julie Case's activity was flagged due to evidence from triggered rules. Notably, she copied 15 files to removable media, which is significantly above her usual range. Additionally, she visited job-search sites 12 times, which is far above the typical range for her role and even above the peer range.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "06ffa8b234ef"
+  }
+}

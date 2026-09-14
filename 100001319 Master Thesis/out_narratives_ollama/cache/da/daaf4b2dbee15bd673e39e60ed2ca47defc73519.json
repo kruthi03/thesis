@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence for triggered rules, specifically an unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. The most notable anomalies are the significant increase in file operations (51), which is 3-4 times higher than both the user's typical rate and their peers' average rate this week, and the unusually high volume of email attachments sent (60.10 MB), exceeding even the maximum value seen in recent weeks by a wide margin.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "9cf542cc9e79"
+  }
+}

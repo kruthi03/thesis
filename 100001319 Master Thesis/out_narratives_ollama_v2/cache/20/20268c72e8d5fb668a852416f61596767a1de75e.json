@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for User ILK3668, a Stockroom Clerk, has triggered rules R1 and R2. The evidence suggests that they logged on outside their usual working hours three times, which is significantly above their typical range of zero occurrences. Additionally, they copied 39 files to removable media, exceeding their average of 20.50 by a substantial margin.\n\nThese findings are notable given the user's otherwise normal activity during this week.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "1f003e84ecfb"
+  }
+}

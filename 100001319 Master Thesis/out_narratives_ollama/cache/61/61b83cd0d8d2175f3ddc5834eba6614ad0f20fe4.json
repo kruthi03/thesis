@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to an elevated number of files copied to removable media by Alice Britanney Pope, a technician in the SalesAndMarketing_Commercial team. Specifically, 19 files were copied to removable media, which is significantly above her recent typical behavior (6.5) and maximum activity (17). This anomaly triggered rule R2, indicating potential data exfiltration or copying of sensitive information.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for JAF0209 due to an unusual volume of logons outside his typical working hours and a significant increase in overall activity volume compared to same-role peers. Specifically, Jason logged on 8 times outside his usual working hours (own recent typical: 2.5), which is a notable deviation from the norm. Additionally, he made 1330 web requests, far exceeding his typical rate of 950 and even surpassing the maximum recorded activity for someone in his role.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

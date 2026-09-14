@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Carlos Dieter Ewing's activity for the week of 2011-W15 due to two triggered detection rules. The first rule, R3, was triggered because Carlos sent an unusual volume of attachment data to external recipients, with 50.06 MB of attachments this week compared to their typical range and peer distribution. This is a significant departure from his usual activity, as he typically sends around 9.49 MB of attachments per week. The second rule, R5, was triggered because Carlos's overall activity volume far exceeded the same-role peer distribution, with 16 file operations this week compared to an average of 1 among peers in his role.\n\nOverall, it appears that Carlos had a notable increase in attachment data sent to external recipients and file operations this week, which warrants further investigation.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "ea3d0678f325"
+  }
+}

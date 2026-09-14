@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for Jason Amery Franco, Director in the ResearchAndEngineering_Government_Foreign functional unit, has triggered two detection rules. The most concerning evidence is the unusually high volume of logons outside his typical working hours ([F001]: 8) and overall activity volume far exceeding that of same-role peers ([F002]: 1330). This is particularly notable given Jason's usual range of 2.5 logons outside working hours and 950 web requests, both of which were significantly surpassed this week.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

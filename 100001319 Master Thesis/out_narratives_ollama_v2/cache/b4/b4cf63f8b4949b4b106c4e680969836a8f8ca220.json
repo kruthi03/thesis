@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Felix Dustin Fletcher's week of activity (2010-W14) due to evidence from triggered rules. Notably, Felix visited job-search sites 34 times, which is far above their usual range and far above the peer distribution for the same role. Additionally, they performed 129 file operations, which is also significantly higher than their typical activity and the peer range.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a0a7dc154e87"
+  }
+}

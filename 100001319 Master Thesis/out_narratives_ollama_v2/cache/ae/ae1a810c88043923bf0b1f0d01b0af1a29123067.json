@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for CDE1846 due to an unusual surge in file operations, with a volume far outside the distribution of same-role peers. Specifically, Carlos Dieter Ewing performed 13 file operations during this week, which is significantly higher than his typical range of 1-6 and exceeds the maximum value by a factor of almost 2. This unusual activity is the primary evidence supporting the triggered rule, with the Z-score indicating a statistically significant departure from normal behavior.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "d7021ac17ab1"
+  }
+}

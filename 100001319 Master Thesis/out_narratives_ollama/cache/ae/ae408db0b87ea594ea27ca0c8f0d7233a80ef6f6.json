@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to CMP2946's unusual browsing activity, specifically their visits to job-search sites, which are atypical for their role as a salesman. The evidence shows that they visited job-search sites 21 times this week, which is significantly higher than their typical rate of 0 and the maximum number of such visits by same-role peers (3 out of 70).",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "67ba247283ed"
+  }
+}

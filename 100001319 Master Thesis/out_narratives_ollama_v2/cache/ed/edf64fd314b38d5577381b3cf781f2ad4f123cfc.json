@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "The UEBA system flagged Hall Aladdin Gardner's (HAG3196) activity for review due to evidence triggered by rules R2, R4, and R5. The most significant indication of an anomaly is the elevated number of files copied to removable media (68), which is significantly higher than HAG3196's typical range (43-54). This is accompanied by a substantial increase in overall activity volume (167 file operations), with 665 web requests being far outside the peer distribution. Additionally, there were atypical visits to job-search sites (31), which is unusual for someone in this role.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "6c2facc73bac"
+  }
+}

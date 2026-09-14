@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "This week, Felix Dustin Fletcher, an Electrical Engineer, exhibited unusual behavior that triggered detection rules. The most notable evidence is their significantly increased activity volume, with 129 file operations, which is far above their typical range of 78 and well outside the peer distribution of 1 among 313 same-role peers. Additionally, their browsing activity was atypical for their role, with 34 visits to job-search sites, which is far above their usual range and above the peer range of 1. These findings suggest that Felix's behavior this week was unusual and warrants further investigation.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a0a7dc154e87"
+  }
+}

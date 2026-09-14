@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Hall Aladdin Gardner's week (2011-W10) has triggered multiple detection rules due to elevated file copying, atypical browsing, and an unusual activity volume. The most significant evidence comes from rule R2, where Hall copied 68 files to removable media, a value that is 3.07 standard deviations above their recent typical range of 43-54. Additionally, the overall activity volume was far outside the same-role peer distribution, with 167 file operations and 665 web requests, both values exceeding their own recent typical ranges by significant margins. The atypical browsing to job-search sites (31 visits) is also noteworthy, as it is well above Hall's recent typical of 10.50 and exceeds the peer average by a factor of 4.55.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "6c2facc73bac"
+  }
+}

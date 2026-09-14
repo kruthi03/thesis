@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, Director Jason Amery Franco's (JAF0209) activity was flagged due to unusual volume of logons outside their working hours and overall activity volume far outside the same-role peer distribution. Specifically, there were 8 logons outside their typical working hours, which is a significant increase from their usual range of 2.50. Additionally, there were 1330 web requests, which is far above their typical range of 950 and even more extreme compared to their same-role peers, who averaged 760 requests this week.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

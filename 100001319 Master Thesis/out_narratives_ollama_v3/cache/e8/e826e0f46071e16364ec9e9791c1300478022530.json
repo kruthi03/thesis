@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "The user, AVH0566, was flagged due to an unusual volume of logons outside their typical working hours. Specifically, this week saw 4 logons outside their usual hours, which is significantly above their typical range of 1. This anomaly is the primary evidence for the triggered detection rule [R1].",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "30e15748717a"
+  }
+}

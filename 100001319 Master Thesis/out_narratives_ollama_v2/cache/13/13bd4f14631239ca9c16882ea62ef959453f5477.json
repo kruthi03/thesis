@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged AFB3228's week (2010-W42) due to unusual evidence. The most notable indicators are the unusually high number of logons outside working hours (4, which is clearly above their usual range of 0.5) and visits to job-search sites (70, exceeding their typical range of 36). These values significantly deviate from their recent behavior and that of their peers in the same role.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "The UEBA system flagged ACM2278's activity for review due to evidence that Allen Cruz Mccoy, a salesman, visited leak-publication sites atypical for his role. Specifically, he made 4 visits to these types of sites, which is unusual given his browsing history over the past year. This spike in activity triggered rule R4.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "107dcedee69e"
+  }
+}

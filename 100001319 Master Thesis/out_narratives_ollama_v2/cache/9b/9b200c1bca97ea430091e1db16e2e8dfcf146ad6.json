@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Jason Amery Franco's (JAF0209) activity has triggered two anomaly detection rules. The first rule, [R1], detected an unusual volume of logons outside his working hours. According to the evidence ([F001]), JAF0209 had 8 logons outside their typical working hours, which is significantly higher than their usual range of 2.5 logons.\n\nThe second rule, [R5], flagged JAF0209's overall activity volume as far outside the peer distribution. The evidence for this rule comes from [F002], which shows that JAF0209 made 1330 web requests, whereas their typical range is around 950 requests. Moreover, this week's activity is far above not only JAF0209's usual range but also the average among same-role peers (760 requests).",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

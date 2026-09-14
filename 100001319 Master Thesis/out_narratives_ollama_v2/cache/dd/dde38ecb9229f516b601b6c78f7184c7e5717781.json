@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Chief Engineer MJA2380's activity was flagged for review due to two triggered rules. Firstly, the volume of attachment data sent to external recipients was unusually high, with 60.10 MB of email attachments sent, which is significantly above their typical range and even higher than their peers. Secondly, the overall activity volume was far outside the same-role peer distribution, with 51 file operations, which is also significantly above their typical range and far above their peers.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "9cf542cc9e79"
+  }
+}

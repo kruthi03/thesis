@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's unusual volume of logons outside AVH0566's working hours triggered rule R1. Specifically, there were 4 logons outside their typical working hours, which is significantly higher than their usual range of 1-2 logons per week during that time.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "30e15748717a"
+  }
+}

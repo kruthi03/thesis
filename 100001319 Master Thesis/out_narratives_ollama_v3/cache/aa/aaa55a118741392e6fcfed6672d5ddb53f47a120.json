@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged AGW1590's week (2011-W10) due to elevated file copying to removable media (12 files) and overall activity volume far outside the same-role peer distribution (34 file operations, compared to a typical 14 and a peer range of 1 across 328 peers). This suggests AGW1590's file copying and overall activity have increased significantly, warranting further investigation.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "d0dc80a513b1"
+  }
+}

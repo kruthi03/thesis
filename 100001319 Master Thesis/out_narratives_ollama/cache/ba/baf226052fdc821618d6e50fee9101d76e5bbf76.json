@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged MJA2380's activity for review due to evidence of unusual volume of attachment data sent to external recipients and overall activity volume far outside same-role peer distribution. The most significant finding is the extreme increase in file operations, with 51 events observed this week compared to an average of 13 events typical of her recent behavior. This deviation from the norm (z=5.7) is even more pronounced when compared to same-role peers, who averaged only 1 event this week (z=33.72).",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "9cf542cc9e79"
+  }
+}

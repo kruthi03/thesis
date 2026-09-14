@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, ACM2278 (Allen Cruz Mccoy) exhibited unusual browsing behavior for a Salesman, triggering rule R4. Specifically, the evidence shows that Allen visited leak-publication sites 3 times, which is significantly above their typical range of 0 visits. This anomaly suggests that Allen may be searching for job information outside of their usual channels, which is not typical for someone in their role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

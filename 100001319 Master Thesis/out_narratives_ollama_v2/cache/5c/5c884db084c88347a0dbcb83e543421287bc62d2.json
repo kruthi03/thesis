@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged CMP2946's activity this week due to atypical browsing behavior for a salesman role. Specifically, CMP2946 visited job-search sites 7 times, which is significantly above their typical range (0-21) and beyond what same-role peers typically see (1 visit among 65). This anomaly triggered rule R4.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

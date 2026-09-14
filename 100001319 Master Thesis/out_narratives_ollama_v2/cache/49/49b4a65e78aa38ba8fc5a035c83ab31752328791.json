@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "Felix Dustin Fletcher's activity this week has triggered two detection rules. The most notable finding is that he visited job-search sites 34 times, which is far above his usual range and significantly higher than his peers in the same role. Additionally, his file operations volume reached 129, which is also well above his typical activity and that of his peers.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "a0a7dc154e87"
+  }
+}

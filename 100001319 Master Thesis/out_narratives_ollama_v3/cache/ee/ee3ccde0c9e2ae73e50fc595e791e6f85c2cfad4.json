@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "SCH3858, a Security Guard, has triggered rule R4 for unusual browsing behavior. The evidence suggests that they visited job-search sites 45 times this week, which is significantly above their typical range of 27.50 and far above the range of their peers in the same role. This increase in job-search site visits is the primary reason for the triggered rule.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Carlos Dieter Ewing's (CDE1846) overall activity volume was significantly higher than that of his same-role peers. The main evidence for this is the unusually high number of file operations, with 8 instances this week, compared to his typical range of 1.5 and the peer range of 1. This suggests that Carlos may have been working on a project or task that required a lot of file manipulation, which is not typical of his usual activity.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "c649b67f9bdc"
+  }
+}

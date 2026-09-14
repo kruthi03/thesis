@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for user CDE1846, Carlos Dieter Ewing, was flagged due to an unusually high volume of file operations. Specifically, Carlos performed 13 file operations, which is far outside the typical range for users in the same role. This is evident from the fact that Carlos's recent typical file operations number is 1, while the peer group average for this week is only 1 as well.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "d7021ac17ab1"
+  }
+}

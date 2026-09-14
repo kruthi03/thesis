@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, user CDE1846's (Carlos Dieter Ewing) activity was flagged due to evidence from triggered rules. Most notable is the unusually high volume of attachment data sent to external recipients, with 50.06 MB of email attachments sent, which is significantly above their typical range of 9.49 MB. Additionally, the overall activity volume is far outside the same-role peer distribution, with 16 file operations, which is clearly above their typical range of 2 and far above the peer range of 1.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "ea3d0678f325"
+  }
+}

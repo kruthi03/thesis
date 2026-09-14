@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "SCH3858, a Security Guard in the 12 - BuildingSecurity team, has triggered rule R4 due to atypical browsing behavior. Specifically, they visited job-search sites 45 times this week, which is significantly above their typical range of 27.50 and far above the average of 1 among peers in the same role. This suggests that Sebastian Cooper Hoffman may be looking for a new job or considering a career change.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

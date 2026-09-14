@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "Carlos Dieter Ewing, an electrical engineer from team 13, had a notable week with regards to email attachments. The most significant anomaly is the unusually high volume of attachment data sent to external recipients (57.08 MB), exceeding his recent typical range by a factor of six. This is further supported by the number of external recipients, which was 33, well above his typical and maximum values. While this may seem minor, the triggered rule suggests that there might be something unusual going on with Carlos' email activity, warranting closer inspection.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "a5957fc70bf9"
+  }
+}

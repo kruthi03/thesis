@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing (CDE1846) has triggered rule R3, which flags unusual volume of attachment data sent to external recipients. The evidence suggests that he sent a significant amount of email attachments, with 57.08 MB of data being transmitted, which is well above his typical range of 9.49 MB and maximum of 50.06 MB. Additionally, he had an unusually high number of external recipients, with 33 individuals receiving emails from him, exceeding both his typical range of 15 and the maximum of 36.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "a5957fc70bf9"
+  }
+}

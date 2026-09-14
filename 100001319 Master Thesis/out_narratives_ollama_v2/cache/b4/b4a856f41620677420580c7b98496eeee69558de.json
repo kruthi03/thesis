@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, sent an unusually large volume of email attachments to external recipients during Week 2011-W17. Specifically, he sent 57.08 MB of attachment data, which is a significant departure from his typical and maximum volumes (9.49 MB and 50.06 MB, respectively). Furthermore, the number of external recipients was also anomalous, with Carlos sending attachments to 33 recipients, exceeding his typical and maximum counts (15 and 36, respectively). This unusual behavior triggered rule R3.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a5957fc70bf9"
+  }
+}

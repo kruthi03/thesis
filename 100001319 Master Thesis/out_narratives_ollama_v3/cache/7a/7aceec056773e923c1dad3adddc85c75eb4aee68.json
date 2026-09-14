@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week, ILK3668 (Ingrid Liberty Kane) had three logons outside their typical working hours, which is an unusual volume. Additionally, they copied 39 files to removable media, which is significantly above their usual range of 20.50 files per week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "1f003e84ecfb"
+  }
+}

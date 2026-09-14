@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's flagging was triggered by ACM2278 (Allen Cruz Mccoy), a Salesman from Team 3-RegionalSales, due to an unusual number of visits to leak-publication sites. Specifically, there were 4 visits, which is not typical behavior for someone in his role and has not been observed in the prior 12 weeks.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "107dcedee69e"
+  }
+}

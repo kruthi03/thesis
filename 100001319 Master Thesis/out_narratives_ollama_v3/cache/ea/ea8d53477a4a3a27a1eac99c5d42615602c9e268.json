@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "SCH3858, a Security Guard in the BuildingSecurity team, was flagged this week due to atypical browsing behavior. Specifically, their visits to job-search sites exceeded their usual range by a significant margin, with 45 visits this week compared to their typical 27.50. This is also far above the range of their peers in the same role, who averaged 1 visit this week.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

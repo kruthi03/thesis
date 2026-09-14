@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "Alma Gloria Wolfe's activity this week is flagged due to two triggered detection rules. The most significant evidence is the unusually high number of file operations, with 34 operations this week, compared to the usual 14. This is significantly above not only her typical range but also the range of her same-role peers, who averaged only 1 file operation this week. Additionally, there were 12 files copied to removable media, which is also above her usual range of 3.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "d0dc80a513b1"
+  }
+}

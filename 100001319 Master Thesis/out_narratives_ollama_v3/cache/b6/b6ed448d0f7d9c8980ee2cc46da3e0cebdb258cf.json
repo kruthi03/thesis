@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "This week, user FDF2135 (Felix Dustin Fletcher) exhibited atypical behavior, triggering two detection rules. Most notable is their unusual browsing activity, with 34 visits to job-search sites, far exceeding their typical range of 0. This is also significantly higher than the peer average of 1 across 313 same-role peers. Additionally, Felix's overall activity volume was greatly increased, with 129 file operations, a clear departure from their typical range of 78. This is also significantly higher than the peer average of 1. These anomalies suggest that Felix may be engaging in job searching or other activities outside their typical role as an Electrical Engineer in the Research and Engineering Government Foreign unit.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "a0a7dc154e87"
+  }
+}

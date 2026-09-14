@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to Carlos Dieter Ewing's (CDE1846) file operations, which were significantly higher than his typical activity and beyond the range of his same-role peers. Specifically, he performed 8 file operations this week, which is well above his usual volume of 1.5 and even exceeds the highest volume seen in the prior 12 weeks. Additionally, his file operation count was far above the peer average of 1 across 366 peers in the same role.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "c649b67f9bdc"
+  }
+}

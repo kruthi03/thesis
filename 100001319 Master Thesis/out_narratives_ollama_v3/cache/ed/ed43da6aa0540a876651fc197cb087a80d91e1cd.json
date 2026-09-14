@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "Allen Cruz McCoy, a salesman in the Regional Sales team, had an unusual week in terms of his browsing behavior. The system flagged this week because he visited leak-publication sites four times, which is atypical for his role. This is a significant departure from his typical behavior, as there was no similar activity in the previous 12 weeks. While his overall browsing activity was normal, with 55 distinct web domains visited and no unusual workstation usage, the spike in visits to job-search sites is noteworthy. However, this activity is still within his typical range, suggesting that he may be looking for new job opportunities. Overall, the unusual browsing behavior warrants further investigation to understand the motivations behind this activity.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "107dcedee69e"
+  }
+}

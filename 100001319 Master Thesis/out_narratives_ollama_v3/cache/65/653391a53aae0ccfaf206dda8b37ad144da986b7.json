@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "This week, AVH0566's logon activity outside their working hours was unusually high, with 4 logons detected, which is significantly above their typical range of 1 logon. This anomaly triggered rule R1, which flags unusual logon patterns.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "30e15748717a"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for Pamela Julie Case, a Software Developer in the Research and Engineering team, due to triggered detection rules. Specifically, there was an elevated number of files copied to removable media (15, which is clearly above her usual range) and atypical browsing to job-search sites (12, which is far above her usual range and above the peer range as well).",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "06ffa8b234ef"
+  }
+}

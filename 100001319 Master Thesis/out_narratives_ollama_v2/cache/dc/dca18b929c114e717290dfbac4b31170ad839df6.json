@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for AFB3228 (Adele Fiona Boone) due to unusual volume of logons outside her working hours and browsing to job-search sites atypical for her role. Specifically, she logged on four times outside her typical range, which is unusual given the evidence provided. Additionally, she visited job-search sites 70 times, which is significantly higher than her recent typical usage (36) and even exceeds the average for same-role peers (8).",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

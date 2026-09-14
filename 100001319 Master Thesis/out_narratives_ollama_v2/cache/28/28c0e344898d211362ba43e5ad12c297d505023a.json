@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged AGW1590's activity for the week of 2011-W10 due to evidence from triggered rules R2 and R5. Specifically, there were 12 files copied to removable media, which is an elevated number compared to their typical range of 3 and above their highest count in the prior 12 weeks of 13. Additionally, there were 34 file operations, which is far outside the peer distribution for users with a similar role. This suggests that AGW1590's activity this week was unusually high and may warrant further investigation.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "d0dc80a513b1"
+  }
+}

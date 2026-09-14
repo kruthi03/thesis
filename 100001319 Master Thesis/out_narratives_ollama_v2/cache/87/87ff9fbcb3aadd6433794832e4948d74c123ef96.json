@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, was flagged for review due to evidence suggesting he visited job-search sites atypical for his role and had an overall activity volume far outside the peer distribution. Specifically, he visited job-search sites 34 times this week, which is far above his usual range and that of his peers. Additionally, he performed 129 file operations, which is clearly above his usual range and that of his peers. These findings suggest that Felix may be engaging in behavior that is unusual for his role and warrants further investigation.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "a0a7dc154e87"
+  }
+}

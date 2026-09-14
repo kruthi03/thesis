@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "Mercedes Josephine Ayala, the Chief Engineer of the Materials Engineering team, has triggered two detection rules for the week of 2011-W02. The first rule, R3, was triggered due to an unusual volume of attachment data sent to external recipients, with 60.10 MB of attachments sent this week, which is clearly above their typical range of 23.15 MB. Additionally, this week's attachment volume is also above the range seen among same-role peers, with 8.63 MB being the typical volume. The second rule, R5, was triggered due to an overall activity volume that is far outside the same-role peer distribution, with 51 file operations performed this week, which is clearly above their typical range of 13. This is also far above the range seen among same-role peers, with only 1 file operation being the typical volume.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "9cf542cc9e79"
+  }
+}

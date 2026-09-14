@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Hall Aladdin Gardner's activity was flagged due to evidence for triggered rules. The most notable indicators are the elevated number of files copied to removable media (68), which is well above their typical range and that of same-role peers. Additionally, the overall activity volume is far outside the peer distribution, with 167 file operations and 665 web requests this week. This surge in activity is unusual for a mathematician in the ResearchAndEngineering_Government_Foreign team and warrants further investigation.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "6c2facc73bac"
+  }
+}

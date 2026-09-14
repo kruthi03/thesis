@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from triggered rules R4 and R5. The most notable anomaly is Felix Dustin Fletcher's (FDF2135) unusually high browsing activity, with a total of 34 visits to job-search sites (z=34.0), far outside the typical range for his role. This is likely the primary driver for the flagging.\n\nAdditionally, his file operations reached an unprecedented level, with 129 events (z=3.44), significantly exceeding his own recent average and that of his peers.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "a0a7dc154e87"
+  }
+}

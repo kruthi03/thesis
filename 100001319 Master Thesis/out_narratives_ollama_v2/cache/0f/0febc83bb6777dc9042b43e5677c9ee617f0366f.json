@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week, ACM2278's (Allen Cruz Mccoy) browsing behavior was flagged due to atypical visits to leak-publication sites. Specifically, there were 4 visits to these types of sites, which is unusual for a salesman like Allen. This activity is notable because it hasn't been observed in the prior 12 weeks.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "107dcedee69e"
+  }
+}

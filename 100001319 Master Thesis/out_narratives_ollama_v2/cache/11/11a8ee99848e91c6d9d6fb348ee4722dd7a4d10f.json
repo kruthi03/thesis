@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ILK3668 (Ingrid Liberty Kane) for unusual behavior during Week 2011-W14. The triggered rules indicate that Ingrid's activity deviated from her typical patterns, with evidence pointing to [F001] three logons outside her usual working hours and [F002] an elevated number of files copied to removable media at 39, which is significantly higher than her recent typical volume of 20.50.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "1f003e84ecfb"
+  }
+}

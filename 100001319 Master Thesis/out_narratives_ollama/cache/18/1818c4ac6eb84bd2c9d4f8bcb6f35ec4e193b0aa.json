@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "The anomaly was triggered because Allen Cruz McCoy, a Salesman from Team 3-RegionalSales and Functional unit 8-SalesAndMarketing_Commercial, visited leak-publication sites three times during Week 2010-W34. This is atypical behavior for his role, as he typically does not visit such sites (max: 4).",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

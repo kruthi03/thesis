@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from triggered rules. The most significant finding is the elevated number of files copied to removable media, with 68 copies observed, which is beyond the own recent typical range (43) and even exceeds the maximum value (54). This suggests a substantial increase in data transfer outside normal protocols.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "6c2facc73bac"
+  }
+}

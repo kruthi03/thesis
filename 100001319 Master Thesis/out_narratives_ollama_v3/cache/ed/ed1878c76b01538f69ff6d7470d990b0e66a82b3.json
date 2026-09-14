@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week, AGW1590's activity volume far exceeded their usual range, with 34 file operations, a significant increase from their typical 14. Additionally, 12 files were copied to removable media, a notable increase from their usual 3. These elevated numbers are not just a one-time spike, but rather a sustained increase that is far above their peer group's activity volume this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "d0dc80a513b1"
+  }
+}

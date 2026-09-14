@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "ACM2278's activity this week (2010-W34) was flagged due to an unusual number of visits to leak-publication sites, with 3 visits, which is clearly above their usual range of 0. This suggests that ACM2278 may have been browsing to job-search or leak-publication sites atypical for their role as a salesman.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

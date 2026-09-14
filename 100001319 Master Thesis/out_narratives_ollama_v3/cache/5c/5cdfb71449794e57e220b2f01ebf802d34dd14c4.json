@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "Adele Fiona Boone, an Electrical Engineer, has triggered two detection rules this week. The first anomaly is a significant increase in logons outside her typical working hours, with 4 events recorded, which is well above her usual range. The second anomaly is an unusual volume of visits to job-search sites, with 70 visits recorded, which is more than double her typical range and even above the average for her peers in the same role.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

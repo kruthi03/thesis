@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged this week for Felix Dustin Fletcher due to atypical browsing behavior and an unusual volume of activity. Specifically, Felix visited job-search sites 34 times, which is far above their usual range and significantly higher than their same-role peers. Additionally, Felix performed 129 file operations, which is a significant increase from their typical activity and well above the peer average.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "a0a7dc154e87"
+  }
+}

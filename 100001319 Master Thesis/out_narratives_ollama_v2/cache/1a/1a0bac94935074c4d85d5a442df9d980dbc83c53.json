@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "This week's activity for user FDF2135, Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, has triggered detection rules R4 and R5. The evidence for this flag is primarily driven by two observations. Firstly, Felix's browsing activity has been far outside their typical range, with 34 visits to job-search sites, compared to their usual 0 visits and a prior 12-week high of 7. This is not only unusual for their role but also far above the peer distribution. Secondly, Felix's file operations have also been significantly higher than usual, with 129 operations this week, compared to their typical 78 and a prior 12-week high of 157. This is again far outside the peer range.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "a0a7dc154e87"
+  }
+}

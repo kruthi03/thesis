@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    3
+  ],
+  "text": "Carlos Dieter Ewing's (CDE1846) activity has triggered an anomaly detection rule due to unusual volume of attachment data sent to external recipients. Specifically, he sent 57.08 MB of email attachments this week, which is significantly above his typical range of 9.49 MB and the highest in the prior 12 weeks. Additionally, the number of external recipients increased to 33, also surpassing his usual range of 15 and the peer range of 13 among same-role peers.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a5957fc70bf9"
+  }
+}

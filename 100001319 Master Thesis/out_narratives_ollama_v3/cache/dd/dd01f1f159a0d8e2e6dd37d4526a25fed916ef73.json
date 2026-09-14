@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    5
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer in the Research and Engineering Commercial unit, has been flagged for an unusual week. The trigger was the evidence of unusual volume of attachment data sent to external recipients, as well as overall activity volume far outside the same-role peer distribution. Specifically, Carlos sent 50.06 MB of email attachments, which is clearly above his usual range of 9.49 MB and far above the 9.00 MB average among same-role peers. Additionally, he sent attachments to 36 external recipients, which is within his usual range but still above the peer average of 14. The most notable anomaly is the file operations, with 16 operations, which is clearly above his usual range of 2 and far above the 1 average among same-role peers.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "ea3d0678f325"
+  }
+}

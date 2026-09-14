@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week, Vice President Zenaida Carol Snow's (ZCS0012) email attachment data sent to external recipients exceeded their typical range. The evidence suggests that 54.57 MB of attachment data was sent, which is significantly higher than their recent typical of 23.37 MB and the highest in the prior 12 weeks of 45.10 MB. This unusual volume of attachment data is the primary reason why this week was flagged.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "e0daedcec5e8"
+  }
+}

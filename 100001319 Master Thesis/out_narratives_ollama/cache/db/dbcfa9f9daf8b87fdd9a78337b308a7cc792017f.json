@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Felix Dustin Fletcher's (FDF2135) activity for review due to evidence triggering rules R4 and R5. The most notable anomaly is the extremely high volume of file operations, with 129 events this week, which is significantly above his typical range of 78 and beyond the peer distribution. This is further supported by the fact that his overall activity volume is also far outside the same-role peer distribution.\n\nWhile it's worth noting that Felix's browsing habits are somewhat unusual for an Electrical Engineer in the Research and Engineering department, with 34 visits to job-search sites this week (compared to a typical range of 0-7), this anomaly appears to be overshadowed by the significant increase in file operations.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "a0a7dc154e87"
+  }
+}

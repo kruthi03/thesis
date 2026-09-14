@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged user CDE1846 (Carlos Dieter Ewing) for an unusual volume of attachment data sent to external recipients and overall activity volume far outside their same-role peer distribution. The evidence supporting these triggered rules is substantial, with over 50MB of email attachments sent this week, more than 5 times the typical amount for Carlos in the past year. Additionally, file operations reached 16, a significant increase from Carlos' recent average of 2 and above his highest recorded level in the prior 12 weeks. This excessive activity is not only unusual for Carlos but also far exceeds what his peers in the same role are typically doing, with an average of 1 file operation per peer this week.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "ea3d0678f325"
+  }
+}

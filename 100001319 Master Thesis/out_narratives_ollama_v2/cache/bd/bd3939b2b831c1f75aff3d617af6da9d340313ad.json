@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged Jason Amery Franco's activity for review due to an unusual volume of logons outside his working hours and overall activity volume far outside that of his peers. Specifically, there were 8 logons outside working hours, which is significantly higher than his typical volume (2.50) and maximum recorded volume (6), with a z-score of 3.48. Additionally, the total number of web requests was 1330, which is well above his recent typical volume (950) and maximum recorded volume (1140), with a z-score of 12.33. This suggests that Jason's activity this week was not only unusual in terms of timing but also overall volume.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

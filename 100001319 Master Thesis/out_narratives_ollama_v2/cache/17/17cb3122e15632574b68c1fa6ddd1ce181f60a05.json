@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    6
+  ],
+  "text": "Carlos Dieter Ewing's activity volume far exceeded that of his peers, with 50.06 MB of email attachments sent and 16 file operations performed, both significantly above their typical range. Additionally, he sent an unusual volume of attachment data to external recipients, which further triggered the detection rules.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "ea3d0678f325"
+  }
+}

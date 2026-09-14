@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged HAG3196's activity for review due to evidence triggering rules R2, R4, and R5. The most notable anomaly is the elevated number of files copied to removable media, with 68 files transferred this week compared to their typical range of 43-54 files in the prior 12 weeks. Additionally, HAG3196's overall activity volume was far outside the same-role peer distribution, with file operations and web requests reaching levels significantly above their usual range.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "6c2facc73bac"
+  }
+}

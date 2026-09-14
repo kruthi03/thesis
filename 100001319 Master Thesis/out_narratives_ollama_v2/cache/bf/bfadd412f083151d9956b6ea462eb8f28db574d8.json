@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Chandler Martin Page, a salesperson in the RegionalSales team, has been flagged for an anomaly due to his browsing behavior. Specifically, he visited job-search sites seven times this week, which is significantly higher than his typical activity (0 visits) and above the maximum recorded (21). This deviates from what we've observed among same-role peers, who only had one instance of such activity in total (z=4.05).",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly was triggered due to an elevated number of files copied to removable media by Alice Britanney Pope, a technician in the Regional Field Service team. Typically, she copies around 6-7 files to removable media each week, but this week she exceeded her usual range with 19 files copied. This significant increase is likely worthy of further investigation to understand the reason behind it.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

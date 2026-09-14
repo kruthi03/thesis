@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged this week for ABP2917 due to an elevated number of files copied to removable media, which exceeded their typical range by a significant margin. Specifically, 19 files were copied to removable media this week, whereas their usual range is around 6.50. This anomaly is the primary reason for the flag, and it warrants further investigation to determine the nature of the file copying activity and ensure it is not a security concern.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

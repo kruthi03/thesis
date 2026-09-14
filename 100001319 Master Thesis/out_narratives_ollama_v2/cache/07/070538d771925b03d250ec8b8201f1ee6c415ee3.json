@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "HAG3196's activity for Week 2011-W10 is flagged due to elevated file copying, browsing habits, and overall activity volume. Specifically, they copied 68 files to removable media, which is above their typical range (43) and highest in the prior 12 weeks (54). Additionally, they performed 167 file operations, which is far outside their usual range and that of same-role peers. Furthermore, they visited job-search sites atypical for their role, with 31 visits this week compared to their typical 10.5 and highest in the prior 12 weeks being 19.\n\nThese findings suggest a possible anomaly in HAG3196's behavior, warranting further investigation to determine if it is an isolated incident or part of a larger pattern.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "6c2facc73bac"
+  }
+}

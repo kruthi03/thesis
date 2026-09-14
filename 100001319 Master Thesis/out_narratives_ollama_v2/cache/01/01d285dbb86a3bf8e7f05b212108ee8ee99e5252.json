@@ -1,0 +1,14 @@
+{
+  "key": [
+    "30e15748717a",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to an unusual volume of logons outside AVH0566's typical working hours. The evidence for this rule is compelling, with four logons outside their usual timeframe (1-2 occurrences per week), which is significantly above their recent range and the highest in the prior 12 weeks.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "30e15748717a"
+  }
+}

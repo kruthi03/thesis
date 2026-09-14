@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence that CMP2946's browsing behavior is atypical for their role as a Salesman. Specifically, the analyst noticed 7 visits to job-search sites, which is significantly above the average for this user and even more so compared to same-role peers (z=7.0). This unusual activity suggests that CMP2946 may be engaging in job searching or seeking new opportunities outside of their typical role.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

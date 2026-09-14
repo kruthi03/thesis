@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "Adele Fiona Boone, an Electrical Engineer, had an unusual week. The UEBA system flagged the week due to two triggered detection rules. First, there were 4 logons outside her typical working hours, which is a significant increase from her usual 0.5 logons. Second, she visited job-search sites 70 times, which is more than double her typical 36 visits and significantly higher than the average among peers in the same role.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

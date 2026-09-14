@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "The unusual activity flagged for MJA2380 (Mercedes Josephine Ayala) is primarily driven by evidence from triggered rules [R3] and [R5]. The most significant anomaly is the volume of attachment data sent, which exceeded Mercedes' own typical range by a factor of four, with 60.10 MB of attachments being sent compared to her recent average of 23.15 MB. Additionally, the number of external email recipients (44) was significantly higher than her recent typical and same-role peer distribution. Furthermore, the file operations count of 51 is far outside Mercedes' own recent typical range and that of same-role peers.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "9cf542cc9e79"
+  }
+}

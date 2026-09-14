@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Mercedes Josephine Ayala, Chief Engineer in Materials Engineering, has triggered two detection rules. The most concerning evidence is the unusually high volume of email attachments sent, with 60.10 MB of data exceeding their typical range of 23.15 MB. Additionally, the overall file operations for the week reached 51, which is far above their typical 13 and significantly higher than the peer average of 1. This suggests a significant increase in file-related activity, likely driving the detection of rule R5. The external email recipients value is within their typical range of 45.50, but the attachment volume remains an anomaly.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "9cf542cc9e79"
+  }
+}

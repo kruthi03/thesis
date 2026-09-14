@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer, has triggered two detection rules this week. Rule R4 flagged his browsing activity, as he visited job-search sites 34 times, which is far above his typical range of 0 and well outside the peer distribution of 1 among 313 same-role peers. Rule R5 detected an unusual volume of file operations, with 129 activities this week, exceeding his typical range of 78 and the peer distribution of 1 among 313 same-role peers.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "a0a7dc154e87"
+  }
+}

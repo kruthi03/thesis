@@ -1,0 +1,23 @@
+{
+  "model": "gemini-3.6-flash",
+  "prompt_version": "v7",
+  "k": 5,
+  "temperature": 0.7,
+  "temperature_supported": true,
+  "pooling": {
+    "method": "semantic",
+    "threshold": 0.85,
+    "embed_model": "gemini-3.6-flash"
+  },
+  "seed": 20260816,
+  "sampling": "stratified",
+  "excluded_narratives_source": null,
+  "effort": "medium",
+  "signals_requested": 1,
+  "signals_succeeded": 1,
+  "malicious_signals": 1,
+  "unique_sentences": 12,
+  "cache_hits": 1,
+  "cache_misses": 0,
+  "failures": []
+}

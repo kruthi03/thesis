@@ -1,0 +1,1669 @@
+====================================================================================================
+CLUSTER INSPECTION -- semantic pooling at several thresholds
+====================================================================================================
+source          : out_narratives_ollama_v3\t085\narratives.jsonl
+signals         : 20   k=10
+embedding model : nomic-embed-text:latest
+thresholds      : 0.8, 0.85, 0.9
+
+Clusters are ranked by SIZE (number of distinct surface forms merged),
+then by n_samples. Size is the axis over-merging shows up on: a cluster
+that has swallowed unrelated claims has many variants that do not
+paraphrase each other. n_samples is what Stage 3 consumes.
+
+####################################################################################################
+# PART 1 -- FOCUS: signal 107dcedee69e, clusters containing 'leak', across all thresholds
+####################################################################################################
+
+----------------------------------------------------------------------------------------------------
+--- threshold 0.8 (7 clusters for this signal) ---
+----------------------------------------------------------------------------------------------------
+
+[t0.8] ACM2278 2010-W33 (MAL, R4)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing
+                    to leak-publication sites, with 4 visits, which is a significant departure from
+                    their usual behavior over the past 12 weeks.
+    variant  2:      The week in question was flagged due to ACM2278's (Allen Cruz Mccoy) unusual
+                     browsing behavior.
+    variant  3:      The evidence points to four visits to leak-publication sites, which is atypical
+                     for a Salesman in the RegionalSales team.
+    variant  4:      This week's activity for Allen Cruz McCoy, a salesman in the RegionalSales
+                     team, triggered a detection rule due to atypical browsing behavior.
+    variant  5:      Specifically, the user visited leak-publication sites four times, which is a
+                     significant departure from their normal behavior over the past 12 weeks.
+    variant  6:      The system flagged this week because he visited leak-publication sites four
+                     times, which is atypical for his role.
+    variant  7:      Specifically, they visited leak-publication sites four times, which is a
+                     significant departure from their typical behavior in the prior 12 weeks.
+    variant  8:      The most notable aspect is the anomalous browsing to leak-publication sites,
+                     which warrants further investigation.
+    variant  9:      This week, user ACM2278 (Allen Cruz Mccoy) triggered rule R4, which flags
+                     browsing to job-search or leak-publication sites as atypical for their role.
+    variant 10:      The evidence for this rule is the observation of 4 visits to leak-publication
+                     sites, which is a departure from their typical behavior over the past 12 weeks.
+    variant 11:      The primary reason is the sudden spike in visits to leak-publication sites,
+                     with 4 visits, which is a new behavior for this user in the past 12 weeks.
+    variant 12:      The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical
+                     browsing behavior, specifically his visits to leak-publication sites, which
+                     reached 4, a significant increase from the prior 12 weeks where this activity
+                     was not observed.
+    variant 13:      The anomaly was triggered because ACM2278, a Salesman, visited leak-publication
+                     sites 4 times, which is an unusual activity for someone in his role.
+
+[t0.8] ACM2278 2010-W33 (MAL, R4)   n_samples=4/10   variants=4   appears_in=[3, 4, 5, 7]
+    REPRESENTATIVE: Allen Cruz McCoy, a salesman in the Regional Sales team, had an unusual week in
+                    terms of his browsing behavior.
+    variant  2:      The user ACM2278, a salesman in the Regional Sales team, had a flagged week due
+                     to triggered detection rules.
+    variant  3:      This week, ACM2278 (Allen Cruz Mccoy) was flagged due to an unusual spike in
+                     browsing to leak-publication sites, with 4 visits, which is atypical for his
+                     role as a Salesman.
+    variant  4:      Allen Cruz McCoy, a salesman in the Regional Sales team, had an unusual week
+                     flagged by the system.
+
+----------------------------------------------------------------------------------------------------
+--- threshold 0.85 (12 clusters for this signal) ---
+----------------------------------------------------------------------------------------------------
+
+[t0.85] ACM2278 2010-W33 (MAL, R4)   n_samples=9/10   variants=10   appears_in=[0, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing
+                    to leak-publication sites, with 4 visits, which is a significant departure from
+                    their usual behavior over the past 12 weeks.
+    variant  2:      Specifically, the user visited leak-publication sites four times, which is a
+                     significant departure from their normal behavior over the past 12 weeks.
+    variant  3:      The system flagged this week because he visited leak-publication sites four
+                     times, which is atypical for his role.
+    variant  4:      Specifically, they visited leak-publication sites four times, which is a
+                     significant departure from their typical behavior in the prior 12 weeks.
+    variant  5:      This week, ACM2278 (Allen Cruz Mccoy) was flagged due to an unusual spike in
+                     browsing to leak-publication sites, with 4 visits, which is atypical for his
+                     role as a Salesman.
+    variant  6:      The most notable aspect is the anomalous browsing to leak-publication sites,
+                     which warrants further investigation.
+    variant  7:      The evidence for this rule is the observation of 4 visits to leak-publication
+                     sites, which is a departure from their typical behavior over the past 12 weeks.
+    variant  8:      The primary reason is the sudden spike in visits to leak-publication sites,
+                     with 4 visits, which is a new behavior for this user in the past 12 weeks.
+    variant  9:      The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical
+                     browsing behavior, specifically his visits to leak-publication sites, which
+                     reached 4, a significant increase from the prior 12 weeks where this activity
+                     was not observed.
+    variant 10:      The anomaly was triggered because ACM2278, a Salesman, visited leak-publication
+                     sites 4 times, which is an unusual activity for someone in his role.
+
+[t0.85] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[1]
+    REPRESENTATIVE: The evidence points to four visits to leak-publication sites, which is atypical
+                    for a Salesman in the RegionalSales team.
+
+[t0.85] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[6]
+    REPRESENTATIVE: This week, user ACM2278 (Allen Cruz Mccoy) triggered rule R4, which flags
+                    browsing to job-search or leak-publication sites as atypical for their role.
+
+----------------------------------------------------------------------------------------------------
+--- threshold 0.9 (22 clusters for this signal) ---
+----------------------------------------------------------------------------------------------------
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=4/10   variants=4   appears_in=[2, 4, 6, 7]
+    REPRESENTATIVE: Specifically, the user visited leak-publication sites four times, which is a
+                    significant departure from their normal behavior over the past 12 weeks.
+    variant  2:      Specifically, they visited leak-publication sites four times, which is a
+                     significant departure from their typical behavior in the prior 12 weeks.
+    variant  3:      The evidence for this rule is the observation of 4 visits to leak-publication
+                     sites, which is a departure from their typical behavior over the past 12 weeks.
+    variant  4:      The primary reason is the sudden spike in visits to leak-publication sites,
+                     with 4 visits, which is a new behavior for this user in the past 12 weeks.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=2/10   variants=2   appears_in=[5, 8]
+    REPRESENTATIVE: This week, ACM2278 (Allen Cruz Mccoy) was flagged due to an unusual spike in
+                    browsing to leak-publication sites, with 4 visits, which is atypical for his
+                    role as a Salesman.
+    variant  2:      The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical
+                     browsing behavior, specifically his visits to leak-publication sites, which
+                     reached 4, a significant increase from the prior 12 weeks where this activity
+                     was not observed.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[0]
+    REPRESENTATIVE: ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing
+                    to leak-publication sites, with 4 visits, which is a significant departure from
+                    their usual behavior over the past 12 weeks.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[1]
+    REPRESENTATIVE: The evidence points to four visits to leak-publication sites, which is atypical
+                    for a Salesman in the RegionalSales team.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[3]
+    REPRESENTATIVE: The system flagged this week because he visited leak-publication sites four
+                    times, which is atypical for his role.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[5]
+    REPRESENTATIVE: The most notable aspect is the anomalous browsing to leak-publication sites,
+                    which warrants further investigation.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[6]
+    REPRESENTATIVE: This week, user ACM2278 (Allen Cruz Mccoy) triggered rule R4, which flags
+                    browsing to job-search or leak-publication sites as atypical for their role.
+
+[t0.9] ACM2278 2010-W33 (MAL, R4)   n_samples=1/10   variants=1   appears_in=[9]
+    REPRESENTATIVE: The anomaly was triggered because ACM2278, a Salesman, visited leak-publication
+                    sites 4 times, which is an unusual activity for someone in his role.
+
+####################################################################################################
+# PART 2 -- THRESHOLD 0.8: 20 largest of 125 clusters
+####################################################################################################
+
+[t0.8 #01] AVH0566 2010-W42 (ben, R1)   n_samples=10/10   variants=22   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: AVH0566's recent logon pattern suggests they have been consistently logging in
+                    within their typical working hours, with an average of 1 logon outside those
+                    hours.
+    variant  2:      However, this week's unusual volume of logons outside working hours,
+                     specifically 4 occurrences, is a notable departure from their usual range.
+    variant  3:      This anomaly is particularly interesting given the absence of any other unusual
+                     activity, such as logons at the weekend or on different workstations.
+    variant  4:      The UEBA system flagged this week for AVH0566 due to an unusual volume of
+                     logons outside their working hours.
+    variant  5:      Typically, AVH0566 logs in only once during their non-working hours, but this
+                     week saw a significant increase to 4 logons, which is clearly above their usual
+                     range.
+    variant  6:      This week's activity for user AVH0566, SystemsEngineer from the
+                     ResearchAndEngineering_Commercial team, was flagged due to an unusual volume of
+                     logons outside their typical working hours.
+    variant  7:      Specifically, there were 4 logons outside their usual range of 1, indicating a
+                     significant increase in out-of-hours activity.
+    variant  8:      Ariel Venus Hooper, a Systems Engineer, had an unusual week in terms of logon
+                     activity.
+    variant  9:      The triggered rule detected a significant increase in logons outside of their
+                     typical working hours.
+    variant 10:      Specifically, there were 4 logons outside of their usual hours, which is well
+                     above their typical range of 1.
+    variant 11:      The user, AVH0566, was flagged due to an unusual volume of logons outside their
+                     typical working hours.
+    variant 12:      Specifically, this week saw 4 logons outside their usual hours, which is
+                     significantly above their typical range of 1.
+    variant 13:      This week, AVH0566's logon activity outside their working hours was unusually
+                     high, with 4 logons detected, which is significantly above their typical range
+                     of 1 logon.
+    variant 14:      This week, user AVH0566's logon activity outside their typical working hours is
+                     significantly higher than usual, with 4 logons recorded beyond their usual
+                     timeframe.
+    variant 15:      This is a clear departure from their recent pattern of 1 logon in such
+                     instances, and warrants further investigation.
+    variant 16:      The triggered rule indicates that they had a high volume of logons outside
+                     their typical working hours.
+    variant 17:      Specifically, they had 4 logons outside their usual working hours, which is
+                     significantly above their recent typical range of 1 logon.
+    variant 18:      The UEBA system flagged Ariel Venus Hooper's activity for the week of 2010-W42
+                     due to an unusual volume of logons outside her typical working hours.
+    variant 19:      This is evident in the 4 logons recorded outside her usual working hours, which
+                     is significantly above her usual range of 1.
+    variant 20:      While her overall logon events and days with recorded activity are within her
+                     typical range, the spike in logons outside her working hours warrants further
+                     review to determine the cause and potential impact on her work.
+    variant 21:      The UEBA system flagged this week for AVH0566 due to an unusual volume of
+                     logons outside their typical working hours.
+    variant 22:      The evidence suggests that the number of logons outside working hours (4) is
+                     significantly higher than their recent typical range (1).
+
+[t0.8 #02] JAF0209 2010-W52 (ben, R1,R5)   n_samples=10/10   variants=19   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: The most notable evidence is the unusually high volume of logons (8) outside the
+                    user's working hours, which is far above their typical range.
+    variant  2:      Additionally, the overall activity volume (1330 web requests) is far outside
+                     the peer distribution for users in the same role.
+    variant  3:      Specifically, there were 8 logons outside his usual working hours, which is a
+                     significant increase from his typical 2.50 logons in that timeframe.
+    variant  4:      Additionally, his overall activity volume of 1330 web requests is far above his
+                     typical 950 requests and exceeds the peer range of 760 requests among 23 peers
+                     in the same role.
+    variant  5:      This week's activity for JAF0209, Director of Research and Engineering, has
+                     triggered detection rules due to unusual volume of logons outside their working
+                     hours and overall activity volume far outside their same-role peer
+                     distribution.
+    variant  6:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual 2.50 logons.
+    variant  7:      Additionally, the overall activity volume reached 1330 web requests, which is
+                     far above their typical 950 requests and even farther above the peer
+                     distribution of 760 requests among 23 peers in this role.
+    variant  8:      The main evidence is that his logon volume outside working hours is
+                     significantly higher than his typical range, with 8 logons recorded, whereas
+                     his usual rate is around 2.5 logons.
+    variant  9:      Additionally, his overall activity volume is far above that of his same-role
+                     peers, with 1330 web requests this week compared to a typical rate of 950 and a
+                     peer range of 760.
+    variant 10:      This week, Jason Amery Franco's activity was flagged due to unusual volume of
+                     logons outside his typical working hours and overall activity volume far
+                     outside the peer distribution.
+    variant 11:      Specifically, he had 8 logons outside his usual working hours, which is
+                     significantly above his typical range of 2.50.
+    variant 12:      Additionally, his overall activity volume was 1330 web requests, which is far
+                     above his usual range of 950 and also far above the peer range of 760.
+    variant 13:      This week, Jason Amery Franco's (JAF0209) activity has been flagged due to
+                     unusual volume of logons outside his working hours and overall activity volume
+                     far outside the peer distribution.
+    variant 14:      Specifically, he has logged in 8 times outside his typical working hours, which
+                     is significantly above his usual range.
+    variant 15:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual range of 2.50.
+    variant 16:      The week in question, 2010-W52, was flagged due to unusual volume of logons
+                     outside the user's typical working hours and overall activity volume far
+                     outside the same-role peer distribution.
+    variant 17:      The main concerns are the unusually high volume of logons outside his typical
+                     working hours and the extremely high overall activity volume compared to his
+                     peers.
+    variant 18:      Specifically, he had 8 logons outside his usual hours, which is significantly
+                     above his typical 2.50 logons in that timeframe.
+    variant 19:      Specifically, he had 8 logons outside his usual working hours, which is clearly
+                     above his typical range of 2.50 logons.
+
+[t0.8 #03] ACM2278 2010-W34 (MAL, R4)   n_samples=10/10   variants=15   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's activity this week (2010-W34) was flagged due to an unusual number of
+                    visits to leak-publication sites, with 3 visits, which is clearly above their
+                    usual range of 0.
+    variant  2:      This suggests that ACM2278 may have been browsing to job-search or leak-
+                     publication sites atypical for their role as a salesman.
+    variant  3:      The UEBA system flagged this week for ACM2278, a salesman in the RegionalSales
+                     team, due to triggered detection rules related to browsing to job-search or
+                     leak-publication sites.
+    variant  4:      Specifically, there were 3 visits to leak-publication sites, which is
+                     significantly above their usual range of 0.
+    variant  5:      This week, ACM2278's browsing activity was flagged due to three atypical visits
+                     to leak-publication sites.
+    variant  6:      Normally, such sites are not visited by salespeople in this role, and ACM2278's
+                     own recent browsing habits also don't indicate a typical interest in these
+                     sites.
+    variant  7:      The primary evidence is the significant increase in visits to leak-publication
+                     sites, with 3 instances this week, which is clearly above their usual range of
+                     0.
+    variant  8:      Specifically, he visited leak-publication sites 3 times, which is clearly above
+                     his usual range of 0.
+    variant  9:      Specifically, the evidence shows that Allen visited leak-publication sites 3
+                     times, which is significantly above their typical range of 0 visits.
+    variant 10:      This week, ACM2278's (Allen Cruz Mccoy) browsing behavior is anomalous due to
+                     an unusual increase in visits to leak-publication sites.
+    variant 11:      Specifically, Allen visited these sites 3 times, which is significantly above
+                     their typical range of 0 visits.
+    variant 12:      The most significant evidence is the unusually high number of visits to leak-
+                     publication sites, with 3 visits this week, which is clearly above his typical
+                     range of 0.
+    variant 13:      The UEBA system flagged ACM2278's week due to atypical browsing behavior,
+                     specifically three visits to leak-publication sites, which is clearly above
+                     their usual range.
+    variant 14:      This week, ACM2278's browsing activity triggered rule R4, indicating atypical
+                     visits to leak-publication sites.
+    variant 15:      Specifically, there were 3 visits to such sites, which is clearly above their
+                     usual range of 0.
+
+[t0.8 #04] ACM2278 2010-W33 (MAL, R4)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing
+                    to leak-publication sites, with 4 visits, which is a significant departure from
+                    their usual behavior over the past 12 weeks.
+    variant  2:      The week in question was flagged due to ACM2278's (Allen Cruz Mccoy) unusual
+                     browsing behavior.
+    variant  3:      The evidence points to four visits to leak-publication sites, which is atypical
+                     for a Salesman in the RegionalSales team.
+    variant  4:      This week's activity for Allen Cruz McCoy, a salesman in the RegionalSales
+                     team, triggered a detection rule due to atypical browsing behavior.
+    variant  5:      Specifically, the user visited leak-publication sites four times, which is a
+                     significant departure from their normal behavior over the past 12 weeks.
+    variant  6:      The system flagged this week because he visited leak-publication sites four
+                     times, which is atypical for his role.
+    variant  7:      Specifically, they visited leak-publication sites four times, which is a
+                     significant departure from their typical behavior in the prior 12 weeks.
+    variant  8:      The most notable aspect is the anomalous browsing to leak-publication sites,
+                     which warrants further investigation.
+    variant  9:      This week, user ACM2278 (Allen Cruz Mccoy) triggered rule R4, which flags
+                     browsing to job-search or leak-publication sites as atypical for their role.
+    variant 10:      The evidence for this rule is the observation of 4 visits to leak-publication
+                     sites, which is a departure from their typical behavior over the past 12 weeks.
+    variant 11:      The primary reason is the sudden spike in visits to leak-publication sites,
+                     with 4 visits, which is a new behavior for this user in the past 12 weeks.
+    variant 12:      The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical
+                     browsing behavior, specifically his visits to leak-publication sites, which
+                     reached 4, a significant increase from the prior 12 weeks where this activity
+                     was not observed.
+    variant 13:      The anomaly was triggered because ACM2278, a Salesman, visited leak-publication
+                     sites 4 times, which is an unusual activity for someone in his role.
+
+[t0.8 #05] CDE1846 2011-W17 (MAL, R3)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, 57.08 MB of email attachments were sent to 33 external recipients,
+                    which is significantly above their usual range of 9.49 MB and above the peer
+                    range of 6.96 MB.
+    variant  2:      The evidence points to a significant increase in attachment data sent, with
+                     57.08 MB of attachments sent, which is well above their typical range of 9.49
+                     MB and the peer range of 6.96 MB.
+    variant  3:      Additionally, 33 external email recipients were identified, which is also above
+                     their typical range of 15 and the peer range of 13.
+    variant  4:      The most significant evidence suggests that he sent an unusually large volume
+                     of email attachments to external recipients, with 57.08 MB of attachments sent,
+                     which is significantly above his typical range of 9.49 MB and above the peer
+                     range of 6.96 MB.
+    variant  5:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB.
+    variant  6:      Additionally, they sent attachments to 33 external recipients, which is also
+                     above their typical range of 15 and the peer average of 13.
+    variant  7:      Specifically, the 57.08 MB of email attachments sent is clearly above his usual
+                     range of 9.49 MB, and also exceeds the typical volume among peers in the same
+                     role by a significant margin.
+    variant  8:      Specifically, 57.08 MB of email attachments were sent, which is clearly above
+                     his usual range of 9.49 MB and even above the range of his peers in the same
+                     role.
+    variant  9:      Specifically, he sent 57.08 MB of email attachments, which is significantly
+                     above his usual range of 9.49 MB and also above the typical range of 6.96 MB
+                     seen among his peers.
+    variant 10:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB and above the peer range of 6.96 MB.
+    variant 11:      Additionally, they sent attachments to 33 external recipients, which is also
+                     above their typical range of 15 and the peer range of 13.
+    variant 12:      Normally, they only send about 9.49 MB of attachment data to external
+                     recipients, but this week's total of 57.08 MB is not only above their usual
+                     range but also exceeds the typical range for peers in their role.
+    variant 13:      He sent a significantly larger volume of attachments than usual, with 57.08 MB
+                     of attachments being sent to external recipients.
+
+[t0.8 #06] AGW1590 2011-W10 (ben, R2,R5)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: The most significant evidence is the unusually high number of file operations,
+                    with 34 operations this week, compared to the usual 14.
+    variant  2:      This is significantly above not only her typical range but also the range of
+                     her same-role peers, who averaged only 1 file operation this week.
+    variant  3:      This week's activity for user AGW1590, a salesman in the RegionalSales team,
+                     was flagged due to an elevated number of files copied to removable media and
+                     overall activity volume far outside the peer distribution.
+    variant  4:      Additionally, there were 34 file operations, which is also above their typical
+                     range of 14 and far above the peer range of 1 across 328 peers in this role.
+    variant  5:      This week, AGW1590's activity volume far exceeded their usual range, with 34
+                     file operations, a significant increase from their typical 14.
+    variant  6:      The main anomaly is the unusually high volume of file operations (34), which is
+                     significantly above AGW1590's typical range (14) and far outside the peer
+                     distribution for same-role peers (1 among 328).
+    variant  7:      This week, AGW1590's activity volume was significantly higher than usual, with
+                     34 file operations, far exceeding their typical 14 operations.
+    variant  8:      This week, AGW1590's activity volume far exceeded their usual range, with a
+                     total of 34 file operations, which is significantly higher than their typical
+                     14 and far beyond the average of 1 among same-role peers.
+    variant  9:      This week, AGW1590's activity volume significantly exceeded their typical
+                     range, with 34 file operations, which is more than twice their usual number.
+    variant 10:      The UEBA system flagged AGW1590's week (2011-W10) due to elevated file copying
+                     to removable media (12 files) and overall activity volume far outside the same-
+                     role peer distribution (34 file operations, compared to a typical 14 and a peer
+                     range of 1 across 328 peers).
+    variant 11:      This suggests AGW1590's file copying and overall activity have increased
+                     significantly, warranting further investigation.
+    variant 12:      This week, AGW1590's file operations exceeded their typical range by a
+                     significant margin, with 34 operations compared to their usual 14.
+    variant 13:      This week, AGW1590's file operations volume was significantly higher than their
+                     typical activity, with a total of 34 operations, which is 2.4 times their usual
+                     range.
+
+[t0.8 #07] ZCS0012 2010-W32 (ben, R3)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ZCS0012's activity this week is flagged due to an unusual volume of attachment
+                    data sent to external recipients.
+    variant  2:      While their total number of external email recipients, 61, is within their
+                     typical range, the large volume of attachment data suggests that this week's
+                     activity is anomalous.
+    variant  3:      This week's activity for ZCS0012, VicePresident of PurchasingAndContracts,
+                     triggered rule R3 due to an unusual volume of attachment data sent to external
+                     recipients.
+    variant  4:      While the number of external recipients (61) is within their usual range, the
+                     sheer amount of attachment data sent suggests that there may be a legitimate
+                     reason for this increase that warrants further investigation.
+    variant  5:      The anomaly was flagged due to the unusual volume of attachment data sent to
+                     external recipients.
+    variant  6:      This week's attachment volume is also within the range of their peers in the
+                     same role, but it's still notable that it's above their own typical range.
+    variant  7:      This week, Vice President Zenaida Carol Snow's email activity triggered a rule
+                     due to the unusual volume of attachment data sent to external recipients.
+    variant  8:      This week, Vice President Zenaida Carol Snow's email activity triggered an
+                     unusual volume of attachment data sent to external recipients.
+    variant  9:      While this week's activity is not unusual compared to her peers, the volume of
+                     attachments stands out as an anomaly.
+    variant 10:      This week, Zenaida Carol Snow's (ZCS0012) email activity triggered rule R3,
+                     indicating an unusual volume of attachment data sent to external recipients.
+    variant 11:      The anomaly was triggered by an unusual volume of attachment data sent to
+                     external recipients.
+    variant 12:      This week, Vice President Zenaida Carol Snow's (ZCS0012) email activity
+                     triggered a rule due to an unusual volume of attachment data sent to external
+                     recipients.
+    variant 13:      This week, VicePresident Zenaida Carol Snow's (ZCS0012) email activity
+                     triggered rule R3, indicating an unusual volume of attachment data sent to
+                     external recipients.
+
+[t0.8 #08] ZCS0012 2010-W32 (ben, R3)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, the 54.57 MB of email attachments sent is significantly higher
+                    than their usual range of 23.37 MB.
+    variant  2:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly above their typical range of 23.37 MB.
+    variant  3:      This volume is also higher than what their peers in the same role typically
+                     send this week, which is 15.75 MB.
+    variant  4:      Specifically, the 54.57 MB of email attachments sent this week is significantly
+                     above their typical range of 23.37 MB, which is also above the average among
+                     peers in the same role.
+    variant  5:      However, it's worth noting that the number of external email recipients, 61, is
+                     within their usual range and similar to what peers in the same role have seen
+                     this week.
+    variant  6:      Specifically, Zenaida Carol Snow (ZCS0012) sent 54.57 MB of email attachments
+                     to 61 external recipients, which is significantly above their typical range of
+                     23.37 MB to external recipients.
+    variant  7:      Specifically, she sent 54.57 MB of email attachments, which is clearly above
+                     her usual range of 23.37 MB.
+    variant  8:      This is also higher than the average among her peers in the same role, who sent
+                     15.75 MB of attachments this week.
+    variant  9:      Specifically, she sent 54.57 MB of attachments, significantly above her typical
+                     range of 23.37 MB.
+    variant 10:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly higher than her typical range of 23.37 MB.
+    variant 11:      Specifically, Zenaida Carol Snow (ZCS0012) sent 54.57 MB of email attachments
+                     to 61 external recipients, which is significantly above their typical range of
+                     23.37 MB.
+    variant 12:      The evidence suggests that the total bytes of email attachments sent reached
+                     54.57 MB, significantly above their usual range of 23.37 MB.
+    variant 13:      The evidence suggests that she sent 54.57 MB of email attachments,
+                     significantly above her typical range of 23.37 MB.
+
+[t0.8 #09] SCH3858 2010-W09 (ben, R4)   n_samples=9/10   variants=13   appears_in=[0, 1, 2, 3, 4, 6, 7, 8, 9]
+    REPRESENTATIVE: The UEBA system flagged this week for Sebastian Cooper Hoffman due to atypical
+                    browsing behavior, specifically visiting job-search sites 45 times, which is
+                    significantly above their usual range of 27.50 and far above the range of same-
+                    role peers this week.
+    variant  2:      This week's activity for SCH3858, a Security Guard, has triggered detection
+                     rule R4 due to atypical browsing behavior.
+    variant  3:      The evidence suggests that SCH3858 visited job-search sites 45 times, which is
+                     significantly above their usual range of 27.50 and far above the range of their
+                     peers in the same role (1).
+    variant  4:      The evidence suggests that they visited job-search sites 45 times this week,
+                     which is significantly above their typical range of 27.50 and far above the
+                     range of their peers in the same role.
+    variant  5:      The UEBA system flagged this week for Sebastian Cooper Hoffman, a Security
+                     Guard in the Administration unit, due to atypical browsing activity.
+    variant  6:      Specifically, the evidence suggests that Sebastian visited job-search sites 45
+                     times, which is significantly above their usual range of 27.50 and far above
+                     the peer range of 1 across 91 peers in this role.
+    variant  7:      This week, Sebastian Cooper Hoffman's browsing behavior is flagged due to an
+                     unusual number of visits to job-search sites, with 45 visits exceeding their
+                     typical range of 27.50.
+    variant  8:      This is also significantly higher than what peers in the same role are doing,
+                     with 91 peers averaging only 1 visit to job-search sites this week.
+    variant  9:      Specifically, they visited job-search sites 45 times this week, which is
+                     significantly above their typical range of 27.50 and far above the average of 1
+                     among peers in the same role.
+    variant 10:      The UEBA system flagged Sebastian Cooper Hoffman's week (2010-W09) due to
+                     evidence that his browsing behavior is atypical for his role.
+    variant 11:      Specifically, he visited job-search sites 45 times, which is significantly
+                     above his usual range of 27.50 and far above the range of his peers (1 among 91
+                     peers).
+    variant 12:      Specifically, they visited job-search sites 45 times, which is significantly
+                     above their usual range of 27.50 and far above the range of their peers (1).
+    variant 13:      He visited job-search sites 45 times, which is significantly above his typical
+                     range of 27.5 and far above the average for peers in the same role (1 across 91
+                     peers).
+
+[t0.8 #10] FDF2135 2010-W14 (ben, R4,R5)   n_samples=9/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 7, 8, 9]
+    REPRESENTATIVE: Specifically, Felix visited job-search sites 34 times, which is far above their
+                    usual range and significantly higher than their same-role peers.
+    variant  2:      Additionally, Felix performed 129 file operations, which is a significant
+                     increase from their typical activity and well above the peer average.
+    variant  3:      The main concerns are the unusually high volume of activity and visits to job-
+                     search sites.
+    variant  4:      The evidence for these triggered rules includes 34 visits to job-search sites,
+                     which is far above their usual range and significantly higher than what their
+                     peers in the same role experienced this week.
+    variant  5:      Additionally, Felix's overall activity volume is extremely high, with 600 web
+                     requests this week compared to their typical range of 500.
+    variant  6:      Additionally, their browsing activity was atypical for their role, with 34
+                     visits to job-search sites, which is far above their usual range and above the
+                     peer range of 1.
+    variant  7:      The main evidence for this is his browsing activity, which suggests he may be
+                     looking for new job opportunities.
+    variant  8:      He visited job-search sites 34 times, which is far above his typical range and
+                     also exceeds the activity of his peers in the same role.
+    variant  9:      There were 34 visits to job-search sites, which is far above their usual range
+                     and significantly higher than what their peers in the same role typically
+                     experience.
+    variant 10:      Most notable is their unusual browsing activity, with 34 visits to job-search
+                     sites, far exceeding their typical range of 0.
+    variant 11:      These anomalies suggest that Felix may be engaging in job searching or other
+                     activities outside their typical role as an Electrical Engineer in the Research
+                     and Engineering Government Foreign unit.
+    variant 12:      The evidence suggests that Felix visited job-search sites 34 times this week,
+                     which is far above their usual range and significantly higher than their peers
+                     in the same role.
+    variant 13:      The first rule detected that Felix visited job-search sites 34 times, which is
+                     far above their typical range and also exceeds the typical range for their
+                     peers in the same role.
+
+[t0.8 #11] AFB3228 2010-W42 (ben, R1,R4)   n_samples=9/10   variants=12   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Firstly, there were 4 logons outside their typical working hours, which is
+                    significantly above their usual range.
+    variant  2:      These unusual logon patterns and browsing habits are the primary evidence for
+                     these triggered rules.
+    variant  3:      Evidence suggests that she triggered two detection rules: Unusual volume of
+                     logons outside her working hours and Browsing to job-search or leak-publication
+                     sites atypical for her role.
+    variant  4:      Additionally, her logon volume outside working hours was 4, which is also above
+                     her usual range.
+    variant  5:      The main evidence for this is the unusual volume of logons outside her working
+                     hours, with 4 instances, which is significantly above her typical range.
+    variant  6:      Specifically, there were 4 logons outside her typical working hours, a
+                     significant increase from her usual 0.50 logons during that time.
+    variant  7:      The first anomaly is a significant increase in logons outside her typical
+                     working hours, with 4 events recorded, which is well above her usual range.
+    variant  8:      First, their logon volume outside working hours is unusually high, with 4
+                     logons, which is more than twice their typical range.
+    variant  9:      Firstly, there was an uncharacteristic volume of logons outside their typical
+                     working hours, with 4 logons detected beyond their usual range.
+    variant 10:      This is a significant departure from their usual 0.50 logons, indicating a
+                     possible attempt to access systems outside of normal working hours.
+    variant 11:      The primary evidence for this anomaly is the unusual volume of logons outside
+                     her typical working hours, with 4 logons detected, significantly above her
+                     usual range of 0.5.
+    variant 12:      First, there were 4 logons outside her typical working hours, which is a
+                     significant increase from her usual 0.5 logons.
+
+[t0.8 #12] AFB3228 2010-W42 (ben, R1,R4)   n_samples=9/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Secondly, there were 70 visits to job-search sites, which is also well above
+                    their typical range and even above the range seen among their peers in the same
+                    role.
+    variant  2:      The most significant evidence is the 70 visits to job-search sites, which is
+                     clearly above her usual range and even above the typical range for her peers in
+                     the same role.
+    variant  3:      Additionally, her browsing activity shows an atypical number of visits to job-
+                     search sites, with 70 visits, far exceeding her usual range of 36.
+    variant  4:      This is also above the peer range of 8 visits among 366 peers in the same role.
+    variant  5:      Additionally, she visited job-search sites 70 times, which is 34 more than her
+                     typical 36 visits and well above the 8 visits among her peers in the same role.
+    variant  6:      The second anomaly is an unusual volume of visits to job-search sites, with 70
+                     visits recorded, which is more than double her typical range and even above the
+                     average for her peers in the same role.
+    variant  7:      Second, they visited job-search sites 70 times, which is more than twice their
+                     typical range and significantly above the average of their peers in the same
+                     role.
+    variant  8:      Secondly, Adele visited job-search sites at an atypical frequency, with 70
+                     visits logged, exceeding their typical range of 36.
+    variant  9:      This is also above the average for their peers in the same role, with only 8
+                     visits logged among 366 peers.
+    variant 10:      Additionally, she showed an atypical interest in job-search sites, with 70
+                     visits, more than double her usual 36 visits.
+    variant 11:      Second, she visited job-search sites 70 times, which is more than double her
+                     typical 36 visits and significantly higher than the average among peers in the
+                     same role.
+
+[t0.8 #13] HAG3196 2011-W10 (ben, R2,R4,R5)   n_samples=9/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Specifically, 68 files were copied to removable media, which is significantly
+                    above their typical range of 43.
+    variant  2:      Additionally, 167 file operations were performed, which is also well above
+                     their typical range of 126.50.
+    variant  3:      Specifically, Hall Aladdin Gardner (HAG3196) copied 68 files to removable
+                     media, which is significantly above their typical range of 43 files.
+    variant  4:      Additionally, their file operations totalled 167, which is also far above their
+                     typical range of 126.50.
+    variant  5:      The most significant evidence comes from the elevated number of files copied to
+                     removable media, with 68 files copied, which is significantly above their
+                     typical range of 43.
+    variant  6:      Notably, Hall Aladdin Gardner (HAG3196) demonstrated an elevated number of
+                     files copied to removable media, with 68 files copied, which is significantly
+                     above their typical range of 43 files.
+    variant  7:      The most significant evidence points to [R2] Elevated number of files copied to
+                     removable media, with 68 files copied, significantly above their typical range
+                     of 43.
+    variant  8:      Specifically, they copied 68 files to removable media, which is significantly
+                     above their typical range of 43.
+    variant  9:      The most notable anomalies are the elevated number of files copied to removable
+                     media (68, significantly above their usual range), browsing to job-search sites
+                     (31, far above their typical count), and overall activity volume (167 file
+                     operations and 665 web requests, both far outside their usual range and that of
+                     same-role peers).
+    variant 10:      The most notable anomalies are the elevated number of files copied to removable
+                     media, with 68 files copied, which is clearly above the user's typical range of
+                     43.
+    variant 11:      The most significant indication of anomalous behavior is the elevated number of
+                     files copied to removable media, with 68 files copied, which is well above
+                     their typical range of 43.
+
+[t0.8 #14] AGW1590 2011-W10 (ben, R2,R5)   n_samples=9/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Additionally, there were 12 files copied to removable media, which is also above
+                    her usual range of 3.
+    variant  2:      Specifically, 12 files were copied to removable media, which is significantly
+                     above their usual range of 3.
+    variant  3:      Additionally, 12 files were copied to removable media, a notable increase from
+                     their usual 3.
+    variant  4:      Additionally, a notable number of files were copied to removable media (12),
+                     exceeding AGW1590's usual range (3).
+    variant  5:      Additionally, they copied 12 files to removable media, which is well above
+                     their recent typical range of 3.
+    variant  6:      This is likely due to an elevated number of files copied to removable media, as
+                     detected by rule [R2].
+    variant  7:      Additionally, 12 files were copied to removable media, a number that is well
+                     above their recent typical range of 3.
+    variant  8:      Additionally, 12 files were copied to removable media, a notable increase from
+                     their typical range of 3.
+    variant  9:      Additionally, the number of files copied to removable media was 12, which is
+                     also well above their typical range of 3.
+    variant 10:      Additionally, 12 files were copied to removable media, which is also above
+                     their typical range of 3 files.
+    variant 11:      This is likely due to an elevated number of files copied to removable media,
+                     which triggered rule R2.
+
+[t0.8 #15] CMP2946 2011-W07 (MAL, R4)   n_samples=9/10   variants=10   appears_in=[0, 1, 2, 3, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Chandler Martin Page, a salesman in the Regional Sales team, has been flagged
+                    for an anomaly in his browsing behavior.
+    variant  2:      While it's possible that Page is simply looking for new job opportunities, this
+                     unusual behavior warrants further review to rule out any potential security
+                     concerns.
+    variant  3:      This week's activity for user CMP2946, a salesman in the Regional Sales team,
+                     has triggered rule R4.
+    variant  4:      This week's activity for user CMP2946, a salesman in the RegionalSales team,
+                     triggered rule R4 due to atypical browsing behavior.
+    variant  5:      Chandler Martin Page, a Salesman in the RegionalSales team, had a flagged week.
+    variant  6:      This week, CMP2946 (Chandler Martin Page), a Salesman in the RegionalSales
+                     team, was flagged due to evidence of atypical browsing behavior.
+    variant  7:      This week, CMP2946's browsing behavior is unusual for their role as a Salesman.
+    variant  8:      Chandler Martin Page, a salesman in the Regional Sales team, was flagged for an
+                     unusual week.
+    variant  9:      CMP2946, a Salesman in the Regional Sales team, has triggered rule R4,
+                     indicating atypical browsing behavior.
+    variant 10:      This week, CMP2946 (Chandler Martin Page) triggered rule R4, indicating
+                     atypical browsing behavior for their role.
+
+[t0.8 #16] PJC1252 2010-W12 (ben, R2,R4)   n_samples=9/10   variants=10   appears_in=[0, 1, 2, 3, 4, 6, 7, 8, 9]
+    REPRESENTATIVE: The most significant evidence is the elevated number of files copied to
+                    removable media (15), which is clearly above her usual range and suggests a
+                    potential data exfiltration attempt.
+    variant  2:      Rule R2 was triggered due to an elevated number of files copied to removable
+                     media, with 15 files copied, which is clearly above their usual range of 1.
+    variant  3:      The main evidence for this comes from two triggered rules: [R2] Elevated number
+                     of files copied to removable media and [R4] Browsing to job-search or leak-
+                     publication sites atypical for the role.
+    variant  4:      Specifically, [F001] shows 15 files copied to removable media, which is well
+                     above their typical range of 1.
+    variant  5:      The first anomaly is an elevated number of files copied to removable media,
+                     with 15 files copied, which is well above their typical range of 1.
+    variant  6:      Notably, she copied 15 files to removable media, which is significantly above
+                     her usual range.
+    variant  7:      The evidence suggests that they have copied an elevated number of files to
+                     removable media (15, significantly above their usual range), and have also
+                     visited job-search sites atypical for their role (12, far above their typical
+                     range and above the peer range).
+    variant  8:      Specifically, there was an elevated number of files copied to removable media
+                     (15, which is clearly above her usual range) and atypical browsing to job-
+                     search sites (12, which is far above her usual range and above the peer range
+                     as well).
+    variant  9:      The evidence shows that PJC1252 copied 15 files to removable media, which is
+                     significantly above their usual range of 1.
+    variant 10:      Specifically, [F001] shows 15 files copied to removable media, which is well
+                     above her usual range.
+
+[t0.8 #17] CDE1846 2011-W14 (MAL, R5)   n_samples=8/10   variants=10   appears_in=[0, 1, 2, 3, 5, 6, 7, 9]
+    REPRESENTATIVE: According to the evidence, Carlos's file operations for the week (8) are
+                    significantly above his usual range (1.50) and also exceed the typical volume
+                    among his same-role peers (1).
+    variant  2:      Specifically, the overall volume of file operations was significantly higher
+                     than what's typical for their role and peers.
+    variant  3:      The file operations count of 8 is well above their usual range of 1.50, and
+                     also exceeds the average among same-role peers by a wide margin.
+    variant  4:      Carlos Dieter Ewing, an Electrical Engineer, had a week of heightened activity,
+                     with 8 file operations that significantly exceeded their typical range of 1.50
+                     and the peer distribution of 1 among 366 peers in the same role.
+    variant  5:      This activity volume is also significantly higher than that of their same-role
+                     peers, with only 1 file operation observed among the 366 peers in this role.
+    variant  6:      Specifically, his file operations this week were 8, which is clearly above his
+                     usual range of 1.50 and even above the peer range of 1 across 366 peers in this
+                     role.
+    variant  7:      The evidence for this detection rule is based on file operations, which reached
+                     8 this week, significantly higher than his usual range of 1.50.
+    variant  8:      This is also significantly higher than the average among their same-role peers,
+                     who had a total of 1 file operations this week.
+    variant  9:      The main evidence for this is the unusually high number of file operations,
+                     with 8 instances this week, compared to his typical range of 1.5 and the peer
+                     range of 1.
+    variant 10:      This suggests that Carlos may have been working on a project or task that
+                     required a lot of file manipulation, which is not typical of his usual
+                     activity.
+
+[t0.8 #18] CDE1846 2011-W15 (MAL, R3,R5)   n_samples=8/10   variants=10   appears_in=[0, 1, 2, 3, 4, 5, 7, 9]
+    REPRESENTATIVE: The main evidence points are that he sent 50.06 MB of email attachments, which
+                    is far above his typical range of 9.49 MB, and also above the range of his peers
+                    in the same role.
+    variant  2:      The most notable evidence is the unusually high volume of attachment data sent,
+                     with 50.06 MB of email attachments sent, which is significantly above their
+                     typical range of 9.49 MB and far above the peer distribution of 9.00 MB.
+    variant  3:      The evidence suggests that Carlos sent 50.06 MB of email attachments, which is
+                     clearly above their typical range of 9.49 MB and far above the peer average of
+                     9.00 MB.
+    variant  4:      Additionally, Carlos sent files to 16 recipients, which is significantly higher
+                     than their typical volume of 2 file operations and far above the peer average
+                     of 1.
+    variant  5:      Specifically, Carlos Dieter Ewing (CDE1846) sent 50.06 MB of email attachments,
+                     which is significantly above their typical range of 9.49 MB and far above the
+                     peer range of 9.00 MB.
+    variant  6:      The most significant finding is the unusually high volume of attachment data
+                     sent to external recipients, with 50.06 MB of attachments sent, which is far
+                     above their typical range of 9.49 MB and even above the average of 9.00 MB
+                     among same-role peers.
+    variant  7:      Specifically, Carlos sent 50.06 MB of email attachments, which is clearly above
+                     his usual range of 9.49 MB and far above the 9.00 MB average among same-role
+                     peers.
+    variant  8:      Additionally, he sent attachments to 36 external recipients, which is within
+                     his usual range but still above the peer average of 14.
+    variant  9:      The primary evidence for this is the unusually high volume of attachment data
+                     sent to external recipients, with 50.06 MB of attachments sent, significantly
+                     above the user's typical range of 9.49 MB and the peer distribution of 9.00 MB.
+    variant 10:      Most notable is the unusually high volume of attachment data sent to external
+                     recipients, with 50.06 MB of email attachments sent, which is significantly
+                     above their typical range of 9.49 MB.
+
+[t0.8 #19] CMP2946 2011-W08 (MAL, R4)   n_samples=8/10   variants=10   appears_in=[1, 2, 3, 4, 6, 7, 8, 9]
+    REPRESENTATIVE: This suggests that CMP2946 may be searching for job opportunities outside of
+                    their usual norms, which warrants further investigation.
+    variant  2:      This week, CMP2946's browsing activity was flagged due to a spike in visits to
+                     job-search sites, with 7 instances, which is significantly above their typical
+                     range of 0.
+    variant  3:      The UEBA system flagged CMP2946's week (2011-W08) due to evidence of atypical
+                     browsing behavior for a salesman in the Regional Sales team.
+    variant  4:      This suggests that CMP2946 may be browsing job-search sites more frequently
+                     than usual, which is unusual for someone in their role.
+    variant  5:      This week, CMP2946's browsing activity is flagged due to atypical visits to
+                     job-search sites, with 7 visits, significantly above their usual range and even
+                     above the peer range of 65 colleagues in the same role.
+    variant  6:      This week, CMP2946's browsing behavior is unusual for their role as a Salesman.
+    variant  7:      The UEBA system flagged CMP2946's week due to atypical browsing behavior,
+                     specifically visiting job-search sites 7 times, which is clearly above their
+                     usual range and also above the range of their peers in the same role.
+    variant  8:      This suggests that CMP2946 may be exhibiting a unusual interest in job-search
+                     or career-related activities that is not typical for their role as a salesman.
+    variant  9:      This suggests that CMP2946 may be searching for job opportunities or accessing
+                     restricted information.
+    variant 10:      This week, CMP2946's browsing activity is flagged due to atypical visits to
+                     job-search sites, with 7 visits, significantly above their usual range of 0.
+
+[t0.8 #20] ILK3668 2011-W14 (ben, R1,R2)   n_samples=7/10   variants=10   appears_in=[0, 2, 3, 4, 5, 7, 9]
+    REPRESENTATIVE: Ingrid Liberty Kane's (ILK3668) activity was flagged for review due to unusual
+                    volume of logons outside her working hours and elevated number of files copied
+                    to removable media.
+    variant  2:      Specifically, there were 3 logons outside working hours, which is above her
+                     usual range of 0.
+    variant  3:      Additionally, 39 files were copied to removable media, significantly exceeding
+                     her typical range of 20.50.
+    variant  4:      This week, ILK3668 (Ingrid Liberty Kane) had three logons outside their typical
+                     working hours, which is an unusual volume.
+    variant  5:      The UEBA system flagged ILK3668's (Ingrid Liberty Kane) week (2011-W14) due to
+                     triggered rules.
+    variant  6:      The most concerning evidence is the unusual volume of logons outside Ingrid's
+                     working hours (3) and the elevated number of files copied to removable media
+                     (39).
+    variant  7:      This week, ILK3668's (Ingrid Liberty Kane) behavior was flagged due to unusual
+                     volume of logons outside their working hours and elevated number of files
+                     copied to removable media.
+    variant  8:      This week, Ingrid Liberty Kane's (ILK3668) UEBA system flagged her activity as
+                     anomalous due to evidence from triggered rules R1 and R2.
+    variant  9:      The UEBA system flagged this week for ILK3668, Ingrid Liberty Kane, due to
+                     evidence of unusual volume of logons outside her working hours and elevated
+                     number of files copied to removable media.
+    variant 10:      The elevated file copying is the most concerning aspect, as it suggests Ingrid
+                     may have been preparing or transferring a large amount of data.
+
+####################################################################################################
+# PART 2 -- THRESHOLD 0.85: 20 largest of 197 clusters
+####################################################################################################
+
+[t0.85 #01] AVH0566 2010-W42 (ben, R1)   n_samples=10/10   variants=17   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: AVH0566's recent logon pattern suggests they have been consistently logging in
+                    within their typical working hours, with an average of 1 logon outside those
+                    hours.
+    variant  2:      However, this week's unusual volume of logons outside working hours,
+                     specifically 4 occurrences, is a notable departure from their usual range.
+    variant  3:      The UEBA system flagged this week for AVH0566 due to an unusual volume of
+                     logons outside their working hours.
+    variant  4:      Typically, AVH0566 logs in only once during their non-working hours, but this
+                     week saw a significant increase to 4 logons, which is clearly above their usual
+                     range.
+    variant  5:      This week's activity for user AVH0566, SystemsEngineer from the
+                     ResearchAndEngineering_Commercial team, was flagged due to an unusual volume of
+                     logons outside their typical working hours.
+    variant  6:      Specifically, there were 4 logons outside their usual range of 1, indicating a
+                     significant increase in out-of-hours activity.
+    variant  7:      The triggered rule detected a significant increase in logons outside of their
+                     typical working hours.
+    variant  8:      Specifically, there were 4 logons outside of their usual hours, which is well
+                     above their typical range of 1.
+    variant  9:      The user, AVH0566, was flagged due to an unusual volume of logons outside their
+                     typical working hours.
+    variant 10:      Specifically, this week saw 4 logons outside their usual hours, which is
+                     significantly above their typical range of 1.
+    variant 11:      This week, AVH0566's logon activity outside their working hours was unusually
+                     high, with 4 logons detected, which is significantly above their typical range
+                     of 1 logon.
+    variant 12:      This week, user AVH0566's logon activity outside their typical working hours is
+                     significantly higher than usual, with 4 logons recorded beyond their usual
+                     timeframe.
+    variant 13:      The triggered rule indicates that they had a high volume of logons outside
+                     their typical working hours.
+    variant 14:      Specifically, they had 4 logons outside their usual working hours, which is
+                     significantly above their recent typical range of 1 logon.
+    variant 15:      This is evident in the 4 logons recorded outside her usual working hours, which
+                     is significantly above her usual range of 1.
+    variant 16:      The UEBA system flagged this week for AVH0566 due to an unusual volume of
+                     logons outside their typical working hours.
+    variant 17:      The evidence suggests that the number of logons outside working hours (4) is
+                     significantly higher than their recent typical range (1).
+
+[t0.85 #02] CDE1846 2011-W17 (MAL, R3)   n_samples=10/10   variants=13   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, 57.08 MB of email attachments were sent to 33 external recipients,
+                    which is significantly above their usual range of 9.49 MB and above the peer
+                    range of 6.96 MB.
+    variant  2:      The evidence points to a significant increase in attachment data sent, with
+                     57.08 MB of attachments sent, which is well above their typical range of 9.49
+                     MB and the peer range of 6.96 MB.
+    variant  3:      Additionally, 33 external email recipients were identified, which is also above
+                     their typical range of 15 and the peer range of 13.
+    variant  4:      The most significant evidence suggests that he sent an unusually large volume
+                     of email attachments to external recipients, with 57.08 MB of attachments sent,
+                     which is significantly above his typical range of 9.49 MB and above the peer
+                     range of 6.96 MB.
+    variant  5:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB.
+    variant  6:      Additionally, they sent attachments to 33 external recipients, which is also
+                     above their typical range of 15 and the peer average of 13.
+    variant  7:      Specifically, the 57.08 MB of email attachments sent is clearly above his usual
+                     range of 9.49 MB, and also exceeds the typical volume among peers in the same
+                     role by a significant margin.
+    variant  8:      Specifically, 57.08 MB of email attachments were sent, which is clearly above
+                     his usual range of 9.49 MB and even above the range of his peers in the same
+                     role.
+    variant  9:      Specifically, he sent 57.08 MB of email attachments, which is significantly
+                     above his usual range of 9.49 MB and also above the typical range of 6.96 MB
+                     seen among his peers.
+    variant 10:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB and above the peer range of 6.96 MB.
+    variant 11:      Additionally, they sent attachments to 33 external recipients, which is also
+                     above their typical range of 15 and the peer range of 13.
+    variant 12:      Normally, they only send about 9.49 MB of attachment data to external
+                     recipients, but this week's total of 57.08 MB is not only above their usual
+                     range but also exceeds the typical range for peers in their role.
+    variant 13:      He sent a significantly larger volume of attachments than usual, with 57.08 MB
+                     of attachments being sent to external recipients.
+
+[t0.85 #03] ACM2278 2010-W34 (MAL, R4)   n_samples=10/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's activity this week (2010-W34) was flagged due to an unusual number of
+                    visits to leak-publication sites, with 3 visits, which is clearly above their
+                    usual range of 0.
+    variant  2:      Specifically, there were 3 visits to leak-publication sites, which is
+                     significantly above their usual range of 0.
+    variant  3:      This week, ACM2278's browsing activity was flagged due to three atypical visits
+                     to leak-publication sites.
+    variant  4:      The primary evidence is the significant increase in visits to leak-publication
+                     sites, with 3 instances this week, which is clearly above their usual range of
+                     0.
+    variant  5:      The week of 2010-W34 was flagged due to evidence of browsing to leak-
+                     publication sites, which is atypical for Allen Cruz Mccoy's role as a Salesman.
+    variant  6:      Specifically, he visited leak-publication sites 3 times, which is clearly above
+                     his usual range of 0.
+    variant  7:      Specifically, the evidence shows that Allen visited leak-publication sites 3
+                     times, which is significantly above their typical range of 0 visits.
+    variant  8:      This week, ACM2278's (Allen Cruz Mccoy) browsing behavior is anomalous due to
+                     an unusual increase in visits to leak-publication sites.
+    variant  9:      The most significant evidence is the unusually high number of visits to leak-
+                     publication sites, with 3 visits this week, which is clearly above his typical
+                     range of 0.
+    variant 10:      The UEBA system flagged ACM2278's week due to atypical browsing behavior,
+                     specifically three visits to leak-publication sites, which is clearly above
+                     their usual range.
+    variant 11:      This week, ACM2278's browsing activity triggered rule R4, indicating atypical
+                     visits to leak-publication sites.
+
+[t0.85 #04] JAF0209 2010-W52 (ben, R1,R5)   n_samples=10/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: The most notable evidence is the unusually high volume of logons (8) outside the
+                    user's working hours, which is far above their typical range.
+    variant  2:      Specifically, there were 8 logons outside his usual working hours, which is a
+                     significant increase from his typical 2.50 logons in that timeframe.
+    variant  3:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual 2.50 logons.
+    variant  4:      The main evidence is that his logon volume outside working hours is
+                     significantly higher than his typical range, with 8 logons recorded, whereas
+                     his usual rate is around 2.5 logons.
+    variant  5:      Specifically, he had 8 logons outside his usual working hours, which is
+                     significantly above his typical range of 2.50.
+    variant  6:      Specifically, he has logged in 8 times outside his typical working hours, which
+                     is significantly above his usual range.
+    variant  7:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual range of 2.50.
+    variant  8:      Specifically, Jason Amery Franco (JAF0209) had 8 logons outside their usual
+                     working hours, which is significantly higher than their typical range of 2.50.
+    variant  9:      The main concerns are the unusually high volume of logons outside his typical
+                     working hours and the extremely high overall activity volume compared to his
+                     peers.
+    variant 10:      Specifically, he had 8 logons outside his usual hours, which is significantly
+                     above his typical 2.50 logons in that timeframe.
+    variant 11:      Specifically, he had 8 logons outside his usual working hours, which is clearly
+                     above his typical range of 2.50 logons.
+
+[t0.85 #05] ZCS0012 2010-W32 (ben, R3)   n_samples=10/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ZCS0012's activity this week is flagged due to an unusual volume of attachment
+                    data sent to external recipients.
+    variant  2:      While their total number of external email recipients, 61, is within their
+                     typical range, the large volume of attachment data suggests that this week's
+                     activity is anomalous.
+    variant  3:      This week's activity for ZCS0012, VicePresident of PurchasingAndContracts,
+                     triggered rule R3 due to an unusual volume of attachment data sent to external
+                     recipients.
+    variant  4:      While the number of external recipients (61) is within their usual range, the
+                     sheer amount of attachment data sent suggests that there may be a legitimate
+                     reason for this increase that warrants further investigation.
+    variant  5:      The anomaly was flagged due to the unusual volume of attachment data sent to
+                     external recipients.
+    variant  6:      This week, Vice President Zenaida Carol Snow's email activity triggered a rule
+                     due to the unusual volume of attachment data sent to external recipients.
+    variant  7:      This week, Vice President Zenaida Carol Snow's email activity triggered an
+                     unusual volume of attachment data sent to external recipients.
+    variant  8:      This week, Zenaida Carol Snow's (ZCS0012) email activity triggered rule R3,
+                     indicating an unusual volume of attachment data sent to external recipients.
+    variant  9:      The anomaly was triggered by an unusual volume of attachment data sent to
+                     external recipients.
+    variant 10:      This week, Vice President Zenaida Carol Snow's (ZCS0012) email activity
+                     triggered a rule due to an unusual volume of attachment data sent to external
+                     recipients.
+    variant 11:      This week, VicePresident Zenaida Carol Snow's (ZCS0012) email activity
+                     triggered rule R3, indicating an unusual volume of attachment data sent to
+                     external recipients.
+
+[t0.85 #06] HAG3196 2011-W10 (ben, R2,R4,R5)   n_samples=9/10   variants=11   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Specifically, 68 files were copied to removable media, which is significantly
+                    above their typical range of 43.
+    variant  2:      Additionally, 167 file operations were performed, which is also well above
+                     their typical range of 126.50.
+    variant  3:      Specifically, Hall Aladdin Gardner (HAG3196) copied 68 files to removable
+                     media, which is significantly above their typical range of 43 files.
+    variant  4:      Additionally, their file operations totalled 167, which is also far above their
+                     typical range of 126.50.
+    variant  5:      The most significant evidence comes from the elevated number of files copied to
+                     removable media, with 68 files copied, which is significantly above their
+                     typical range of 43.
+    variant  6:      Notably, Hall Aladdin Gardner (HAG3196) demonstrated an elevated number of
+                     files copied to removable media, with 68 files copied, which is significantly
+                     above their typical range of 43 files.
+    variant  7:      The most significant evidence points to [R2] Elevated number of files copied to
+                     removable media, with 68 files copied, significantly above their typical range
+                     of 43.
+    variant  8:      Specifically, they copied 68 files to removable media, which is significantly
+                     above their typical range of 43.
+    variant  9:      The most notable anomalies are the elevated number of files copied to removable
+                     media (68, significantly above their usual range), browsing to job-search sites
+                     (31, far above their typical count), and overall activity volume (167 file
+                     operations and 665 web requests, both far outside their usual range and that of
+                     same-role peers).
+    variant 10:      The most notable anomalies are the elevated number of files copied to removable
+                     media, with 68 files copied, which is clearly above the user's typical range of
+                     43.
+    variant 11:      The most significant indication of anomalous behavior is the elevated number of
+                     files copied to removable media, with 68 files copied, which is well above
+                     their typical range of 43.
+
+[t0.85 #07] JAF0209 2010-W52 (ben, R1,R5)   n_samples=10/10   variants=10   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Additionally, the overall activity volume (1330 web requests) is far outside the
+                    peer distribution for users in the same role.
+    variant  2:      Additionally, his overall activity volume of 1330 web requests is far above his
+                     typical 950 requests and exceeds the peer range of 760 requests among 23 peers
+                     in the same role.
+    variant  3:      Additionally, the overall activity volume reached 1330 web requests, which is
+                     far above their typical 950 requests and even farther above the peer
+                     distribution of 760 requests among 23 peers in this role.
+    variant  4:      Additionally, his overall activity volume is far above that of his same-role
+                     peers, with 1330 web requests this week compared to a typical rate of 950 and a
+                     peer range of 760.
+    variant  5:      Additionally, his overall activity volume was 1330 web requests, which is far
+                     above his usual range of 950 and also far above the peer range of 760.
+    variant  6:      Additionally, his web request volume has reached 1330, far exceeding his
+                     typical 950 and even the peer average of 760 among 23 peers in the same role.
+    variant  7:      Additionally, there were 1330 web requests, which is far above their typical
+                     range of 950 and even more extreme compared to their same-role peers, who
+                     averaged 760 requests this week.
+    variant  8:      Additionally, their total web requests for the week reached 1330, which is far
+                     above their typical range of 950 and even exceeds the typical range of 760
+                     among same-role peers.
+    variant  9:      Additionally, his web requests reached 1330, which is far beyond his usual 950
+                     and even exceeds the typical range of 760 among same-role peers.
+    variant 10:      Additionally, his web requests totalled 1330, which is far above his typical
+                     range of 950 and far above the peer range of 760 among same-role peers.
+
+[t0.85 #08] ZCS0012 2010-W32 (ben, R3)   n_samples=10/10   variants=10   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, the 54.57 MB of email attachments sent is significantly higher
+                    than their usual range of 23.37 MB.
+    variant  2:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly above their typical range of 23.37 MB.
+    variant  3:      Specifically, the 54.57 MB of email attachments sent this week is significantly
+                     above their typical range of 23.37 MB, which is also above the average among
+                     peers in the same role.
+    variant  4:      Specifically, Zenaida Carol Snow (ZCS0012) sent 54.57 MB of email attachments
+                     to 61 external recipients, which is significantly above their typical range of
+                     23.37 MB to external recipients.
+    variant  5:      Specifically, she sent 54.57 MB of email attachments, which is clearly above
+                     her usual range of 23.37 MB.
+    variant  6:      Specifically, she sent 54.57 MB of attachments, significantly above her typical
+                     range of 23.37 MB.
+    variant  7:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly higher than her typical range of 23.37 MB.
+    variant  8:      Specifically, Zenaida Carol Snow (ZCS0012) sent 54.57 MB of email attachments
+                     to 61 external recipients, which is significantly above their typical range of
+                     23.37 MB.
+    variant  9:      The evidence suggests that the total bytes of email attachments sent reached
+                     54.57 MB, significantly above their usual range of 23.37 MB.
+    variant 10:      The evidence suggests that she sent 54.57 MB of email attachments,
+                     significantly above her typical range of 23.37 MB.
+
+[t0.85 #09] ACM2278 2010-W33 (MAL, R4)   n_samples=9/10   variants=10   appears_in=[0, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing
+                    to leak-publication sites, with 4 visits, which is a significant departure from
+                    their usual behavior over the past 12 weeks.
+    variant  2:      Specifically, the user visited leak-publication sites four times, which is a
+                     significant departure from their normal behavior over the past 12 weeks.
+    variant  3:      The system flagged this week because he visited leak-publication sites four
+                     times, which is atypical for his role.
+    variant  4:      Specifically, they visited leak-publication sites four times, which is a
+                     significant departure from their typical behavior in the prior 12 weeks.
+    variant  5:      This week, ACM2278 (Allen Cruz Mccoy) was flagged due to an unusual spike in
+                     browsing to leak-publication sites, with 4 visits, which is atypical for his
+                     role as a Salesman.
+    variant  6:      The most notable aspect is the anomalous browsing to leak-publication sites,
+                     which warrants further investigation.
+    variant  7:      The evidence for this rule is the observation of 4 visits to leak-publication
+                     sites, which is a departure from their typical behavior over the past 12 weeks.
+    variant  8:      The primary reason is the sudden spike in visits to leak-publication sites,
+                     with 4 visits, which is a new behavior for this user in the past 12 weeks.
+    variant  9:      The week of 2010-W33 was flagged due to Allen Cruz McCoy's (ACM2278) atypical
+                     browsing behavior, specifically his visits to leak-publication sites, which
+                     reached 4, a significant increase from the prior 12 weeks where this activity
+                     was not observed.
+    variant 10:      The anomaly was triggered because ACM2278, a Salesman, visited leak-publication
+                     sites 4 times, which is an unusual activity for someone in his role.
+
+[t0.85 #10] AGW1590 2011-W10 (ben, R2,R5)   n_samples=9/10   variants=10   appears_in=[0, 1, 2, 3, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: Additionally, there were 12 files copied to removable media, which is also above
+                    her usual range of 3.
+    variant  2:      Specifically, 12 files were copied to removable media, which is significantly
+                     above their usual range of 3.
+    variant  3:      Additionally, 12 files were copied to removable media, a notable increase from
+                     their usual 3.
+    variant  4:      Additionally, a notable number of files were copied to removable media (12),
+                     exceeding AGW1590's usual range (3).
+    variant  5:      Additionally, they copied 12 files to removable media, which is well above
+                     their recent typical range of 3.
+    variant  6:      This is likely due to an elevated number of files copied to removable media, as
+                     detected by rule [R2].
+    variant  7:      Additionally, 12 files were copied to removable media, a number that is well
+                     above their recent typical range of 3.
+    variant  8:      Additionally, 12 files were copied to removable media, a notable increase from
+                     their typical range of 3.
+    variant  9:      Additionally, the number of files copied to removable media was 12, which is
+                     also well above their typical range of 3.
+    variant 10:      Additionally, 12 files were copied to removable media, which is also above
+                     their typical range of 3 files.
+
+[t0.85 #11] SCH3858 2010-W09 (ben, R4)   n_samples=9/10   variants=9   appears_in=[1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: The evidence suggests that SCH3858 visited job-search sites 45 times, which is
+                    significantly above their usual range of 27.50 and far above the range of their
+                    peers in the same role (1).
+    variant  2:      The evidence suggests that they visited job-search sites 45 times this week,
+                     which is significantly above their typical range of 27.50 and far above the
+                     range of their peers in the same role.
+    variant  3:      Specifically, the evidence suggests that Sebastian visited job-search sites 45
+                     times, which is significantly above their usual range of 27.50 and far above
+                     the peer range of 1 across 91 peers in this role.
+    variant  4:      This is also significantly higher than what peers in the same role are doing,
+                     with 91 peers averaging only 1 visit to job-search sites this week.
+    variant  5:      Specifically, their visits to job-search sites exceeded their usual range by a
+                     significant margin, with 45 visits this week compared to their typical 27.50.
+    variant  6:      Specifically, they visited job-search sites 45 times this week, which is
+                     significantly above their typical range of 27.50 and far above the average of 1
+                     among peers in the same role.
+    variant  7:      Specifically, he visited job-search sites 45 times, which is significantly
+                     above his usual range of 27.50 and far above the range of his peers (1 among 91
+                     peers).
+    variant  8:      Specifically, they visited job-search sites 45 times, which is significantly
+                     above their usual range of 27.50 and far above the range of their peers (1).
+    variant  9:      He visited job-search sites 45 times, which is significantly above his typical
+                     range of 27.5 and far above the average for peers in the same role (1 across 91
+                     peers).
+
+[t0.85 #12] CDE1846 2011-W15 (MAL, R3,R5)   n_samples=8/10   variants=9   appears_in=[0, 1, 2, 3, 4, 5, 7, 9]
+    REPRESENTATIVE: The main evidence points are that he sent 50.06 MB of email attachments, which
+                    is far above his typical range of 9.49 MB, and also above the range of his peers
+                    in the same role.
+    variant  2:      The most notable evidence is the unusually high volume of attachment data sent,
+                     with 50.06 MB of email attachments sent, which is significantly above their
+                     typical range of 9.49 MB and far above the peer distribution of 9.00 MB.
+    variant  3:      The evidence suggests that Carlos sent 50.06 MB of email attachments, which is
+                     clearly above their typical range of 9.49 MB and far above the peer average of
+                     9.00 MB.
+    variant  4:      Specifically, Carlos Dieter Ewing (CDE1846) sent 50.06 MB of email attachments,
+                     which is significantly above their typical range of 9.49 MB and far above the
+                     peer range of 9.00 MB.
+    variant  5:      The most significant finding is the unusually high volume of attachment data
+                     sent to external recipients, with 50.06 MB of attachments sent, which is far
+                     above their typical range of 9.49 MB and even above the average of 9.00 MB
+                     among same-role peers.
+    variant  6:      Specifically, Carlos sent 50.06 MB of email attachments, which is clearly above
+                     his usual range of 9.49 MB and far above the 9.00 MB average among same-role
+                     peers.
+    variant  7:      Additionally, he sent attachments to 36 external recipients, which is within
+                     his usual range but still above the peer average of 14.
+    variant  8:      The primary evidence for this is the unusually high volume of attachment data
+                     sent to external recipients, with 50.06 MB of attachments sent, significantly
+                     above the user's typical range of 9.49 MB and the peer distribution of 9.00 MB.
+    variant  9:      Most notable is the unusually high volume of attachment data sent to external
+                     recipients, with 50.06 MB of email attachments sent, which is significantly
+                     above their typical range of 9.49 MB.
+
+[t0.85 #13] ABP2917 2010-W23 (ben, R2)   n_samples=8/10   variants=9   appears_in=[1, 2, 3, 4, 5, 7, 8, 9]
+    REPRESENTATIVE: The UEBA system flagged Alice Britanney Pope's activity for the week 2010-W23
+                    due to the elevated number of files copied to removable media, with 19 files
+                    copied, which is significantly above her usual range of 6.50.
+    variant  2:      This week's activity for user ABP2917, Alice Britanney Pope, was flagged due to
+                     an elevated number of files copied to removable media.
+    variant  3:      The UEBA system flagged Alice Britanney Pope's (ABP2917) week for triggered
+                     rules.
+    variant  4:      The primary evidence for this flag is the unusually high number of files copied
+                     to removable media, with 19 files copied this week, which is significantly
+                     above her typical range of 6.50.
+    variant  5:      The anomaly flagged for review is due to Alice Britanney Pope's unusually high
+                     number of files copied to removable media, with 19 files copied, which is
+                     significantly above her typical range of 6.50.
+    variant  6:      This week, Alice Britanney Pope's (ABP2917) behavior was flagged due to an
+                     elevated number of files copied to removable media, with 19 files transferred,
+                     exceeding her typical range of 6.5 files.
+    variant  7:      The UEBA system flagged this week for ABP2917 due to an elevated number of
+                     files copied to removable media, which exceeded their typical range by a
+                     significant margin.
+    variant  8:      The UEBA system flagged this week for Alice Britanney Pope due to elevated file
+                     copying activity to removable media.
+    variant  9:      This week, Alice Britanney Pope (ABP2917) was flagged due to an elevated number
+                     of files copied to removable media.
+
+[t0.85 #14] CMP2946 2011-W07 (MAL, R4)   n_samples=8/10   variants=8   appears_in=[1, 2, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: The primary evidence is the significant increase in visits to job-search sites,
+                    with 21 visits this week, far above their usual range and exceeding the typical
+                    number among peers in this role.
+    variant  2:      Specifically, the user visited job-search sites 21 times, which is far above
+                     their usual range and significantly higher than what their peers in the same
+                     role experienced.
+    variant  3:      Specifically, they visited job-search sites 21 times, which is far above their
+                     typical range of 0 and significantly higher than the 3 visits seen among same-
+                     role peers this week.
+    variant  4:      Specifically, CMP2946 visited job-search sites 21 times, which is far above
+                     their usual range and significantly higher than their peers in the same role.
+    variant  5:      Specifically, they visited job-search sites 21 times, which is far above their
+                     typical range and significantly higher than what their peers in the same role
+                     were doing this week.
+    variant  6:      The primary reason is the significant increase in visits to job-search sites,
+                     with 21 visits this week, which is far above their typical range.
+    variant  7:      The evidence suggests that CMP2946 visited job-search sites 21 times this week,
+                     which is far above their usual range and significantly higher than their peers
+                     in the same role.
+    variant  8:      Specifically, they visited job-search sites 21 times, which is far above their
+                     usual range and significantly higher than what peers in the same role typically
+                     see.
+
+[t0.85 #15] ILK3668 2011-W14 (ben, R1,R2)   n_samples=8/10   variants=8   appears_in=[0, 1, 2, 4, 5, 6, 7, 8]
+    REPRESENTATIVE: Additionally, 39 files were copied to removable media, significantly exceeding
+                    her typical range of 20.50.
+    variant  2:      The second evidence point, [F002], reveals 39 files copied to removable media,
+                     exceeding their usual range by a factor of two.
+    variant  3:      Additionally, they copied 39 files to removable media, which is significantly
+                     above their usual range of 20.50 files per week.
+    variant  4:      Additionally, they copied 39 files to removable media, which is also well above
+                     their typical volume of 20.50.
+    variant  5:      Additionally, the elevated number of files copied to removable media (39) is
+                     more than double her typical range of 20.50, suggesting that she may have been
+                     preparing or sharing large amounts of data.
+    variant  6:      Additionally, there is an elevated number of files copied to removable media,
+                     with 39 files copied, which is also above their usual range of 20.50.
+    variant  7:      Additionally, 39 files were copied to removable media, exceeding her typical
+                     weekly total of 20.50 by a wide margin.
+    variant  8:      Additionally, 39 files were copied to removable media, which is significantly
+                     above their usual range of 20.50 files per week.
+
+[t0.85 #16] MJA2380 2011-W02 (ben, R3,R5)   n_samples=8/10   variants=8   appears_in=[0, 1, 2, 3, 4, 5, 6, 8]
+    REPRESENTATIVE: Additionally, the number of file operations, 51, is also well above their
+                    typical range of 13 and far above the peer average of 1.
+    variant  2:      Secondly, the overall activity volume was far outside the same-role peer
+                     distribution, with 51 file operations performed, a significant increase from
+                     their typical 13 and well above the peer average of 1.
+    variant  3:      Additionally, the overall file operations for the week reached 51, which is far
+                     above their typical 13 and significantly higher than the peer average of 1.
+    variant  4:      Additionally, the number of file operations, at 51, is also significantly
+                     higher than the user's typical range (13) and the peer range (1).
+    variant  5:      Specifically, she performed 51 file operations, which is 3.88 times the average
+                     of her peers (1).
+    variant  6:      Additionally, she performed 51 file operations, which is a drastic increase
+                     from her usual 13 and far surpasses the average for her peers.
+    variant  7:      This is significantly higher than their typical weekly volume of 13, and even
+                     more so compared to the 1 file operations observed among their peers.
+    variant  8:      Additionally, the overall activity volume is far outside the peer distribution,
+                     with 51 file operations performed, which is significantly higher than the
+                     user's typical 13 and the peer average of 1.
+
+[t0.85 #17] MJA2380 2011-W02 (ben, R3,R5)   n_samples=7/10   variants=8   appears_in=[0, 1, 2, 3, 4, 5, 9]
+    REPRESENTATIVE: Specifically, they sent an unusual volume of email attachments, with 60.10 MB of
+                    data sent, which is significantly above their typical range of 23.15 MB and well
+                    above the peer average of 8.63 MB.
+    variant  2:      Firstly, the volume of attachment data sent to external recipients was
+                     unusually high, with 60.10 MB of attachments sent, far exceeding their typical
+                     range of 23.15 MB.
+    variant  3:      The most concerning evidence is the unusually high volume of email attachments
+                     sent, with 60.10 MB of data exceeding their typical range of 23.15 MB.
+    variant  4:      The external email recipients value is within their typical range of 45.50, but
+                     the attachment volume remains an anomaly.
+    variant  5:      The volume of attachment data, at 60.10 MB, is significantly higher than the
+                     user's typical range (23.15 MB) and even higher than the peer range (8.63 MB).
+    variant  6:      Additionally, she sent 60.10 MB of email attachments to external recipients, a
+                     significant increase from her typical 23.15 MB and well above the 8.63 MB
+                     average of her peers.
+    variant  7:      Specifically, she sent 60.10 MB of email attachments, which is more than double
+                     her typical volume and far exceeds the average for her peers.
+    variant  8:      Additionally, the volume of email attachment data sent to external recipients
+                     was unusually high, at 60.10 MB, which is well above their typical 23.15 MB and
+                     the peer range of 8.63 MB.
+
+[t0.85 #18] FDF2135 2010-W14 (ben, R4,R5)   n_samples=7/10   variants=8   appears_in=[0, 1, 2, 4, 7, 8, 9]
+    REPRESENTATIVE: Additionally, Felix performed 129 file operations, which is a significant
+                    increase from their typical activity and well above the peer average.
+    variant  2:      Additionally, there were 129 file operations, which is also far above their
+                     usual range and outside the peer range.
+    variant  3:      Additionally, Felix's overall activity volume is extremely high, with 600 web
+                     requests this week compared to their typical range of 500.
+    variant  4:      Additionally, Felix's overall activity volume was significantly higher than
+                     usual, with 129 file operations, which is also far outside the peer range.
+    variant  5:      Additionally, Felix's overall activity volume was greatly increased, with 129
+                     file operations, a clear departure from their typical range of 78.
+    variant  6:      Additionally, Felix's file operations have increased to 129, also exceeding
+                     their usual range and peer distribution.
+    variant  7:      The second rule detected that Felix performed 129 file operations, which is
+                     also far above their typical range and the peer range.
+    variant  8:      This suggests that Felix's activity volume is significantly higher than usual,
+                     and may be indicative of some kind of data transfer or storage.
+
+[t0.85 #19] CDE1846 2011-W17 (MAL, R3)   n_samples=7/10   variants=7   appears_in=[0, 1, 3, 4, 6, 7, 8]
+    REPRESENTATIVE: The UEBA system flagged CDE1846's week for triggered rules due to an unusual
+                    volume of attachment data sent to external recipients.
+    variant  2:      This week's activity for user CDE1846, Carlos Dieter Ewing, triggered rule R3
+                     due to unusual volume of attachment data sent to external recipients.
+    variant  3:      This week, user CDE1846 (Carlos Dieter Ewing) triggered a rule due to an
+                     unusual volume of attachment data sent to external recipients.
+    variant  4:      This week, Carlos Dieter Ewing's (CDE1846) email activity flagged due to
+                     unusual volume of attachment data sent to external recipients.
+    variant  5:      Carlos Dieter Ewing, an Electrical Engineer, triggered a detection rule this
+                     week due to an unusual volume of attachment data sent to external recipients.
+    variant  6:      This week, user CDE1846 (Carlos Dieter Ewing) triggered rule R3 due to an
+                     unusual volume of attachment data sent to external recipients.
+    variant  7:      This week, CDE1846's activity triggered an unusual volume of attachment data
+                     sent to external recipients, which is a significant departure from their
+                     typical behavior.
+
+[t0.85 #20] ILK3668 2011-W14 (ben, R1,R2)   n_samples=7/10   variants=7   appears_in=[0, 1, 4, 5, 6, 7, 8]
+    REPRESENTATIVE: Specifically, there were 3 logons outside working hours, which is above her
+                    usual range of 0.
+    variant  2:      The first evidence point, [F001], shows three logons outside the user's working
+                     hours, which is significantly above their typical range.
+    variant  3:      Specifically, they had 3 logons outside their typical working hours, which is
+                     significantly above their usual range.
+    variant  4:      The unusual volume of logons outside her working hours (3) is a significant
+                     departure from her typical range of 0, indicating that she logged in from home
+                     or another non-work location.
+    variant  5:      The most notable evidence is the unusual volume of logons outside their typical
+                     working hours, with 3 occurrences, which is significantly above their usual
+                     range of 0.
+    variant  6:      Specifically, there were 3 logons outside her typical working hours, a
+                     significant increase from her usual range.
+    variant  7:      Specifically, there were 3 logons outside their typical working hours,
+                     indicating unusual volume of logons outside their normal schedule.
+
+####################################################################################################
+# PART 2 -- THRESHOLD 0.9: 20 largest of 320 clusters
+####################################################################################################
+
+[t0.9 #01] CDE1846 2011-W17 (MAL, R3)   n_samples=10/10   variants=12   appears_in=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, 57.08 MB of email attachments were sent to 33 external recipients,
+                    which is significantly above their usual range of 9.49 MB and above the peer
+                    range of 6.96 MB.
+    variant  2:      The evidence points to a significant increase in attachment data sent, with
+                     57.08 MB of attachments sent, which is well above their typical range of 9.49
+                     MB and the peer range of 6.96 MB.
+    variant  3:      Additionally, 33 external email recipients were identified, which is also above
+                     their typical range of 15 and the peer range of 13.
+    variant  4:      The most significant evidence suggests that he sent an unusually large volume
+                     of email attachments to external recipients, with 57.08 MB of attachments sent,
+                     which is significantly above his typical range of 9.49 MB and above the peer
+                     range of 6.96 MB.
+    variant  5:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB.
+    variant  6:      Additionally, they sent attachments to 33 external recipients, which is also
+                     above their typical range of 15 and the peer average of 13.
+    variant  7:      Specifically, the 57.08 MB of email attachments sent is clearly above his usual
+                     range of 9.49 MB, and also exceeds the typical volume among peers in the same
+                     role by a significant margin.
+    variant  8:      Specifically, 57.08 MB of email attachments were sent, which is clearly above
+                     his usual range of 9.49 MB and even above the range of his peers in the same
+                     role.
+    variant  9:      Specifically, he sent 57.08 MB of email attachments, which is significantly
+                     above his usual range of 9.49 MB and also above the typical range of 6.96 MB
+                     seen among his peers.
+    variant 10:      Specifically, they sent 57.08 MB of email attachments, which is significantly
+                     above their typical range of 9.49 MB and above the peer range of 6.96 MB.
+    variant 11:      Normally, they only send about 9.49 MB of attachment data to external
+                     recipients, but this week's total of 57.08 MB is not only above their usual
+                     range but also exceeds the typical range for peers in their role.
+    variant 12:      He sent a significantly larger volume of attachments than usual, with 57.08 MB
+                     of attachments being sent to external recipients.
+
+[t0.9 #02] JAF0209 2010-W52 (ben, R1,R5)   n_samples=8/10   variants=8   appears_in=[0, 1, 2, 3, 4, 6, 8, 9]
+    REPRESENTATIVE: The most notable evidence is the unusually high volume of logons (8) outside the
+                    user's working hours, which is far above their typical range.
+    variant  2:      Specifically, there were 8 logons outside his usual working hours, which is a
+                     significant increase from his typical 2.50 logons in that timeframe.
+    variant  3:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual 2.50 logons.
+    variant  4:      The main evidence is that his logon volume outside working hours is
+                     significantly higher than his typical range, with 8 logons recorded, whereas
+                     his usual rate is around 2.5 logons.
+    variant  5:      Specifically, he had 8 logons outside his usual working hours, which is
+                     significantly above his typical range of 2.50.
+    variant  6:      Specifically, there were 8 logons outside their typical working hours, which is
+                     a significant increase from their usual range of 2.50.
+    variant  7:      Specifically, he had 8 logons outside his usual hours, which is significantly
+                     above his typical 2.50 logons in that timeframe.
+    variant  8:      Specifically, he had 8 logons outside his usual working hours, which is clearly
+                     above his typical range of 2.50 logons.
+
+[t0.9 #03] HAG3196 2011-W10 (ben, R2,R4,R5)   n_samples=8/10   variants=8   appears_in=[0, 1, 2, 3, 4, 5, 8, 9]
+    REPRESENTATIVE: Specifically, 68 files were copied to removable media, which is significantly
+                    above their typical range of 43.
+    variant  2:      Specifically, Hall Aladdin Gardner (HAG3196) copied 68 files to removable
+                     media, which is significantly above their typical range of 43 files.
+    variant  3:      The most significant evidence comes from the elevated number of files copied to
+                     removable media, with 68 files copied, which is significantly above their
+                     typical range of 43.
+    variant  4:      Notably, Hall Aladdin Gardner (HAG3196) demonstrated an elevated number of
+                     files copied to removable media, with 68 files copied, which is significantly
+                     above their typical range of 43 files.
+    variant  5:      The most significant evidence points to [R2] Elevated number of files copied to
+                     removable media, with 68 files copied, significantly above their typical range
+                     of 43.
+    variant  6:      Specifically, they copied 68 files to removable media, which is significantly
+                     above their typical range of 43.
+    variant  7:      The most notable anomalies are the elevated number of files copied to removable
+                     media, with 68 files copied, which is clearly above the user's typical range of
+                     43.
+    variant  8:      The most significant indication of anomalous behavior is the elevated number of
+                     files copied to removable media, with 68 files copied, which is well above
+                     their typical range of 43.
+
+[t0.9 #04] AGW1590 2011-W10 (ben, R2,R5)   n_samples=8/10   variants=8   appears_in=[0, 1, 2, 3, 4, 5, 8, 9]
+    REPRESENTATIVE: Additionally, there were 12 files copied to removable media, which is also above
+                    her usual range of 3.
+    variant  2:      Specifically, 12 files were copied to removable media, which is significantly
+                     above their usual range of 3.
+    variant  3:      Additionally, 12 files were copied to removable media, a notable increase from
+                     their usual 3.
+    variant  4:      Additionally, a notable number of files were copied to removable media (12),
+                     exceeding AGW1590's usual range (3).
+    variant  5:      Additionally, they copied 12 files to removable media, which is well above
+                     their recent typical range of 3.
+    variant  6:      Additionally, 12 files were copied to removable media, a number that is well
+                     above their recent typical range of 3.
+    variant  7:      Additionally, the number of files copied to removable media was 12, which is
+                     also well above their typical range of 3.
+    variant  8:      Additionally, 12 files were copied to removable media, which is also above
+                     their typical range of 3 files.
+
+[t0.9 #05] CMP2946 2011-W07 (MAL, R4)   n_samples=7/10   variants=7   appears_in=[1, 2, 4, 6, 7, 8, 9]
+    REPRESENTATIVE: The primary evidence is the significant increase in visits to job-search sites,
+                    with 21 visits this week, far above their usual range and exceeding the typical
+                    number among peers in this role.
+    variant  2:      Specifically, the user visited job-search sites 21 times, which is far above
+                     their usual range and significantly higher than what their peers in the same
+                     role experienced.
+    variant  3:      Specifically, they visited job-search sites 21 times, which is far above their
+                     typical range of 0 and significantly higher than the 3 visits seen among same-
+                     role peers this week.
+    variant  4:      Specifically, they visited job-search sites 21 times, which is far above their
+                     typical range and significantly higher than what their peers in the same role
+                     were doing this week.
+    variant  5:      The primary reason is the significant increase in visits to job-search sites,
+                     with 21 visits this week, which is far above their typical range.
+    variant  6:      The evidence suggests that CMP2946 visited job-search sites 21 times this week,
+                     which is far above their usual range and significantly higher than their peers
+                     in the same role.
+    variant  7:      Specifically, they visited job-search sites 21 times, which is far above their
+                     usual range and significantly higher than what peers in the same role typically
+                     see.
+
+[t0.9 #06] JAF0209 2010-W52 (ben, R1,R5)   n_samples=7/10   variants=7   appears_in=[0, 1, 2, 3, 4, 5, 6]
+    REPRESENTATIVE: Additionally, the overall activity volume (1330 web requests) is far outside the
+                    peer distribution for users in the same role.
+    variant  2:      Additionally, his overall activity volume of 1330 web requests is far above his
+                     typical 950 requests and exceeds the peer range of 760 requests among 23 peers
+                     in the same role.
+    variant  3:      Additionally, the overall activity volume reached 1330 web requests, which is
+                     far above their typical 950 requests and even farther above the peer
+                     distribution of 760 requests among 23 peers in this role.
+    variant  4:      Additionally, his overall activity volume is far above that of his same-role
+                     peers, with 1330 web requests this week compared to a typical rate of 950 and a
+                     peer range of 760.
+    variant  5:      Additionally, his overall activity volume was 1330 web requests, which is far
+                     above his usual range of 950 and also far above the peer range of 760.
+    variant  6:      Additionally, his web request volume has reached 1330, far exceeding his
+                     typical 950 and even the peer average of 760 among 23 peers in the same role.
+    variant  7:      Additionally, there were 1330 web requests, which is far above their typical
+                     range of 950 and even more extreme compared to their same-role peers, who
+                     averaged 760 requests this week.
+
+[t0.9 #07] ACM2278 2010-W34 (MAL, R4)   n_samples=6/10   variants=6   appears_in=[0, 1, 2, 6, 8, 9]
+    REPRESENTATIVE: ACM2278's activity this week (2010-W34) was flagged due to an unusual number of
+                    visits to leak-publication sites, with 3 visits, which is clearly above their
+                    usual range of 0.
+    variant  2:      Specifically, there were 3 visits to leak-publication sites, which is
+                     significantly above their usual range of 0.
+    variant  3:      This week, ACM2278's browsing activity was flagged due to three atypical visits
+                     to leak-publication sites.
+    variant  4:      This week, ACM2278's (Allen Cruz Mccoy) browsing behavior is anomalous due to
+                     an unusual increase in visits to leak-publication sites.
+    variant  5:      The UEBA system flagged ACM2278's week due to atypical browsing behavior,
+                     specifically three visits to leak-publication sites, which is clearly above
+                     their usual range.
+    variant  6:      This week, ACM2278's browsing activity triggered rule R4, indicating atypical
+                     visits to leak-publication sites.
+
+[t0.9 #08] AVH0566 2010-W42 (ben, R1)   n_samples=6/10   variants=6   appears_in=[0, 2, 3, 4, 7, 9]
+    REPRESENTATIVE: However, this week's unusual volume of logons outside working hours,
+                    specifically 4 occurrences, is a notable departure from their usual range.
+    variant  2:      Specifically, there were 4 logons outside their usual range of 1, indicating a
+                     significant increase in out-of-hours activity.
+    variant  3:      Specifically, there were 4 logons outside of their usual hours, which is well
+                     above their typical range of 1.
+    variant  4:      Specifically, this week saw 4 logons outside their usual hours, which is
+                     significantly above their typical range of 1.
+    variant  5:      Specifically, they had 4 logons outside their usual working hours, which is
+                     significantly above their recent typical range of 1 logon.
+    variant  6:      The evidence suggests that the number of logons outside working hours (4) is
+                     significantly higher than their recent typical range (1).
+
+[t0.9 #09] ABP2917 2010-W23 (ben, R2)   n_samples=6/10   variants=6   appears_in=[0, 2, 6, 7, 8, 9]
+    REPRESENTATIVE: Specifically, 19 files were copied to removable media, which is significantly
+                    above their typical range of 6.5 files per week.
+    variant  2:      Specifically, 19 files were copied, which is significantly above their usual
+                     range of 6.50 files per week.
+    variant  3:      The evidence shows 19 files copied, which is significantly above their usual
+                     range of 6.50 files.
+    variant  4:      Specifically, 19 files were copied to removable media this week, whereas their
+                     usual range is around 6.50.
+    variant  5:      Specifically, 19 files were copied, which is well above her typical range of
+                     6.50 files per week.
+    variant  6:      Specifically, 19 files were copied, which is significantly above their typical
+                     range of 6.5 files per week.
+
+[t0.9 #10] ABP2917 2010-W23 (ben, R2)   n_samples=6/10   variants=6   appears_in=[1, 2, 4, 5, 8, 9]
+    REPRESENTATIVE: The UEBA system flagged Alice Britanney Pope's activity for the week 2010-W23
+                    due to the elevated number of files copied to removable media, with 19 files
+                    copied, which is significantly above her usual range of 6.50.
+    variant  2:      This week's activity for user ABP2917, Alice Britanney Pope, was flagged due to
+                     an elevated number of files copied to removable media.
+    variant  3:      The anomaly flagged for review is due to Alice Britanney Pope's unusually high
+                     number of files copied to removable media, with 19 files copied, which is
+                     significantly above her typical range of 6.50.
+    variant  4:      This week, Alice Britanney Pope's (ABP2917) behavior was flagged due to an
+                     elevated number of files copied to removable media, with 19 files transferred,
+                     exceeding her typical range of 6.5 files.
+    variant  5:      The UEBA system flagged this week for Alice Britanney Pope due to elevated file
+                     copying activity to removable media.
+    variant  6:      This week, Alice Britanney Pope (ABP2917) was flagged due to an elevated number
+                     of files copied to removable media.
+
+[t0.9 #11] AGW1590 2011-W10 (ben, R2,R5)   n_samples=6/10   variants=6   appears_in=[2, 4, 5, 6, 8, 9]
+    REPRESENTATIVE: This week, AGW1590's activity volume far exceeded their usual range, with 34
+                    file operations, a significant increase from their typical 14.
+    variant  2:      This week, AGW1590's activity volume was significantly higher than usual, with
+                     34 file operations, far exceeding their typical 14 operations.
+    variant  3:      This week, AGW1590's activity volume far exceeded their usual range, with a
+                     total of 34 file operations, which is significantly higher than their typical
+                     14 and far beyond the average of 1 among same-role peers.
+    variant  4:      This week, AGW1590's activity volume significantly exceeded their typical
+                     range, with 34 file operations, which is more than twice their usual number.
+    variant  5:      This week, AGW1590's file operations exceeded their typical range by a
+                     significant margin, with 34 operations compared to their usual 14.
+    variant  6:      This week, AGW1590's file operations volume was significantly higher than their
+                     typical activity, with a total of 34 operations, which is 2.4 times their usual
+                     range.
+
+[t0.9 #12] ZCS0012 2010-W32 (ben, R3)   n_samples=6/10   variants=6   appears_in=[0, 1, 2, 4, 6, 8]
+    REPRESENTATIVE: Specifically, the 54.57 MB of email attachments sent is significantly higher
+                    than their usual range of 23.37 MB.
+    variant  2:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly above their typical range of 23.37 MB.
+    variant  3:      Specifically, the 54.57 MB of email attachments sent this week is significantly
+                     above their typical range of 23.37 MB, which is also above the average among
+                     peers in the same role.
+    variant  4:      Specifically, she sent 54.57 MB of email attachments, which is clearly above
+                     her usual range of 23.37 MB.
+    variant  5:      The evidence for this anomaly is the 54.57 MB of email attachments sent, which
+                     is significantly higher than her typical range of 23.37 MB.
+    variant  6:      The evidence suggests that the total bytes of email attachments sent reached
+                     54.57 MB, significantly above their usual range of 23.37 MB.
+
+[t0.9 #13] SCH3858 2010-W09 (ben, R4)   n_samples=6/10   variants=6   appears_in=[1, 2, 3, 7, 8, 9]
+    REPRESENTATIVE: The evidence suggests that SCH3858 visited job-search sites 45 times, which is
+                    significantly above their usual range of 27.50 and far above the range of their
+                    peers in the same role (1).
+    variant  2:      The evidence suggests that they visited job-search sites 45 times this week,
+                     which is significantly above their typical range of 27.50 and far above the
+                     range of their peers in the same role.
+    variant  3:      Specifically, the evidence suggests that Sebastian visited job-search sites 45
+                     times, which is significantly above their usual range of 27.50 and far above
+                     the peer range of 1 across 91 peers in this role.
+    variant  4:      Specifically, he visited job-search sites 45 times, which is significantly
+                     above his usual range of 27.50 and far above the range of his peers (1 among 91
+                     peers).
+    variant  5:      Specifically, they visited job-search sites 45 times, which is significantly
+                     above their usual range of 27.50 and far above the range of their peers (1).
+    variant  6:      He visited job-search sites 45 times, which is significantly above his typical
+                     range of 27.5 and far above the average for peers in the same role (1 across 91
+                     peers).
+
+[t0.9 #14] CDE1846 2011-W12 (MAL, R5)   n_samples=5/10   variants=5   appears_in=[1, 3, 5, 8, 9]
+    REPRESENTATIVE: Carlos Dieter Ewing, an Electrical Engineer, had a week (2011-W12) where his
+                    overall activity volume was significantly higher than that of his peers.
+    variant  2:      Carlos Dieter Ewing, an Electrical Engineer, had a week with significantly
+                     higher file operations compared to his peers.
+    variant  3:      This week, Carlos Dieter Ewing's overall activity volume is significantly
+                     higher than his usual range, as well as that of his peers in the Electrical
+                     Engineering department.
+    variant  4:      Carlos Dieter Ewing, an Electrical Engineer, had a week (2011-W12) where his
+                     overall activity volume was significantly higher than his same-role peers.
+    variant  5:      Carlos Dieter Ewing, an Electrical Engineer, had a week (2011-W12) with
+                     significant file operations, 13 in total, which is far outside the typical
+                     range for his role.
+
+[t0.9 #15] CDE1846 2011-W12 (MAL, R5)   n_samples=5/10   variants=5   appears_in=[1, 2, 4, 5, 8]
+    REPRESENTATIVE: Specifically, he performed 13 file operations, which is well above his usual
+                    range and far outside the typical range for his role.
+    variant  2:      Specifically, Carlos performed 13 file operations, which is far outside the
+                     typical range for users in the same role.
+    variant  3:      His file operations total 13, which is significantly higher than his typical
+                     range and also exceeds the range of his same-role peers.
+    variant  4:      Specifically, his file operations this week total 13, which is well above his
+                     typical range of 1.
+    variant  5:      The primary evidence for this is the 13 file operations he performed, which is
+                     far above his typical range and even above the range of his peers.
+
+[t0.9 #16] CDE1846 2011-W15 (MAL, R3,R5)   n_samples=5/10   variants=5   appears_in=[0, 1, 2, 3, 5]
+    REPRESENTATIVE: The main evidence points are that he sent 50.06 MB of email attachments, which
+                    is far above his typical range of 9.49 MB, and also above the range of his peers
+                    in the same role.
+    variant  2:      The most notable evidence is the unusually high volume of attachment data sent,
+                     with 50.06 MB of email attachments sent, which is significantly above their
+                     typical range of 9.49 MB and far above the peer distribution of 9.00 MB.
+    variant  3:      The evidence suggests that Carlos sent 50.06 MB of email attachments, which is
+                     clearly above their typical range of 9.49 MB and far above the peer average of
+                     9.00 MB.
+    variant  4:      Specifically, Carlos Dieter Ewing (CDE1846) sent 50.06 MB of email attachments,
+                     which is significantly above their typical range of 9.49 MB and far above the
+                     peer range of 9.00 MB.
+    variant  5:      Specifically, Carlos sent 50.06 MB of email attachments, which is clearly above
+                     his usual range of 9.49 MB and far above the 9.00 MB average among same-role
+                     peers.
+
+[t0.9 #17] CDE1846 2011-W15 (MAL, R3,R5)   n_samples=5/10   variants=5   appears_in=[4, 6, 7, 8, 9]
+    REPRESENTATIVE: The most significant finding is the unusually high volume of attachment data
+                    sent to external recipients, with 50.06 MB of attachments sent, which is far
+                    above their typical range of 9.49 MB and even above the average of 9.00 MB among
+                    same-role peers.
+    variant  2:      The primary evidence for this flag is the volume of attachment data sent to
+                     external recipients, which was 50.06 MB, significantly above their usual range
+                     of 9.49 MB.
+    variant  3:      The primary evidence for this is the unusually high volume of attachment data
+                     sent to external recipients, with 50.06 MB of attachments sent, significantly
+                     above the user's typical range of 9.49 MB and the peer distribution of 9.00 MB.
+    variant  4:      Most notably, the volume of attachment data sent to external recipients has
+                     reached 50.06 MB, significantly above their typical range of 9.49 MB.
+    variant  5:      Most notable is the unusually high volume of attachment data sent to external
+                     recipients, with 50.06 MB of email attachments sent, which is significantly
+                     above their typical range of 9.49 MB.
+
+[t0.9 #18] CDE1846 2011-W15 (MAL, R3,R5)   n_samples=5/10   variants=5   appears_in=[4, 6, 7, 8, 9]
+    REPRESENTATIVE: Additionally, the overall activity volume is extremely high, with 16 file
+                    operations, which is far above their typical range of 2 and the average of 1
+                    among same-role peers.
+    variant  2:      Additionally, the overall activity volume was far outside the range of same-
+                     role peers, with 16 file operations compared to the typical 1 among peers.
+    variant  3:      Additionally, the overall activity volume was far outside the same-role peer
+                     distribution, with 16 file operations performed, which is significantly higher
+                     than the user's typical 2 and the peer distribution of 1.
+    variant  4:      Additionally, the overall activity volume is far outside the range of their
+                     same-role peers, with 16 file operations compared to the typical 1 among peers.
+    variant  5:      Additionally, the overall activity volume is far outside the same-role peer
+                     distribution, with 16 file operations, which is clearly above their typical
+                     range of 2 and far above the peer range of 1.
+
+[t0.9 #19] AFB3228 2010-W42 (ben, R1,R4)   n_samples=5/10   variants=5   appears_in=[2, 3, 4, 8, 9]
+    REPRESENTATIVE: Additionally, her browsing activity shows an atypical number of visits to job-
+                    search sites, with 70 visits, far exceeding her usual range of 36.
+    variant  2:      Additionally, she visited job-search sites 70 times, which is 34 more than her
+                     typical 36 visits and well above the 8 visits among her peers in the same role.
+    variant  3:      The second anomaly is an unusual volume of visits to job-search sites, with 70
+                     visits recorded, which is more than double her typical range and even above the
+                     average for her peers in the same role.
+    variant  4:      Additionally, she showed an atypical interest in job-search sites, with 70
+                     visits, more than double her usual 36 visits.
+    variant  5:      Second, she visited job-search sites 70 times, which is more than double her
+                     typical 36 visits and significantly higher than the average among peers in the
+                     same role.
+
+[t0.9 #20] JAF0209 2010-W52 (ben, R1,R5)   n_samples=5/10   variants=5   appears_in=[4, 5, 6, 7, 9]
+    REPRESENTATIVE: This week, Jason Amery Franco's activity was flagged due to unusual volume of
+                    logons outside his typical working hours and overall activity volume far outside
+                    the peer distribution.
+    variant  2:      This week, Jason Amery Franco's (JAF0209) activity has been flagged due to
+                     unusual volume of logons outside his working hours and overall activity volume
+                     far outside the peer distribution.
+    variant  3:      This week, Director Jason Amery Franco's (JAF0209) activity was flagged due to
+                     unusual volume of logons outside their working hours and overall activity
+                     volume far outside the same-role peer distribution.
+    variant  4:      Specifically, Jason Amery Franco (JAF0209) had 8 logons outside their usual
+                     working hours, which is significantly higher than their typical range of 2.50.
+    variant  5:      This week, Jason Amery Franco's activity was flagged due to unusual volume of
+                     logons outside his typical working hours and overall activity volume far
+                     outside his peer distribution.

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b6b2b02a91c9",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged this week for Alice Britanney Pope due to elevated file copying activity to removable media. Specifically, 19 files were copied, which is well above her typical range of 6.50 files per week. This anomaly stands out as Alice's overall file operations and removable device connections remained within her usual range, with no unusual device connections outside of working hours. The lack of distinct workstations used and days with recorded activity also suggests that this unusual file copying is not part of a larger pattern of unusual behavior.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b6b2b02a91c9"
+  }
+}

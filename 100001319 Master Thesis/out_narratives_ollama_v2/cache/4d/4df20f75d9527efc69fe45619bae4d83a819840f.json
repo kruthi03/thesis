@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "The anomaly detection system flagged Mercedes Josephine Ayala's activity for the week of 2011-W02 due to unusual volume of attachment data sent to external recipients and overall activity volume far outside the same-role peer distribution. Specifically, Ayala sent 60.10 MB of email attachments, which is significantly above their usual range of 23.15 MB and far above the peer range of 8.63 MB. Additionally, she performed 51 file operations, which is also above her usual range of 13 and far above the peer range of 1. This suggests that Ayala's activity was unusually high in terms of both attachment volume and file operations.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "9cf542cc9e79"
+  }
+}

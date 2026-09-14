@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activities for ACM2278 (Allen Cruz Mccoy) triggered rule R4, indicating atypical browsing to job-search or leak-publication sites. The evidence is primarily driven by three visits to leak-publication sites, which is clearly above their usual range of four in the prior 12 weeks and zero recent typical. This unusual behavior stands out as ACM2278's role typically doesn't involve frequent visits to these types of sites.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

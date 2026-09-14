@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged ACM2278's activity this week due to atypical browsing behavior, specifically visiting leak-publication sites four times. This is unusual for a Salesman role and has not been observed for this user in the prior 12 weeks. While there are no other alarming findings, it's worth noting that ACM2278's job-search site visits remained consistent with their typical activity, and they didn't exhibit any unusual behavior on cloud-storage sites or workstation usage.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "107dcedee69e"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    0
+  ],
+  "text": "Jason Amery Franco's (JAF0209) activity was flagged for review due to an unusual volume of logons outside his typical working hours and an overall activity volume that is far outside the peer distribution. Specifically, there were 8 logons outside his usual working hours, which is significantly higher than his recent average of 2.50 with a maximum of 6 (z-score: 3.48). Additionally, his web request volume was 1330, which is much higher than his recent typical volume of 950 with a maximum of 1140 (z-score: 12.33) and also far exceeds the average for same-role peers this week (760 requests, z-score: 20.68).",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

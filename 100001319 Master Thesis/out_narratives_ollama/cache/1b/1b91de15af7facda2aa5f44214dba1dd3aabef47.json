@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    9
+  ],
+  "text": "This week, CMP2946's (Chandler Martin Page) browsing behavior was flagged for review due to evidence that suggests he visited job-search sites atypical for his role. Specifically, he visited job-search sites 7 times this week, which is a significant departure from his typical 0 visits and the maximum of 21 visits seen by same-role peers.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

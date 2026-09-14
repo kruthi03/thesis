@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "The anomaly flag was triggered due to elevated file copying activity, atypical browsing behavior, and significantly increased overall activity volume. Specifically, Hall Aladdin Gardner (HAG3196) copied 68 files to removable media, which is more than their typical amount of 43 files and exceeds the maximum of 54 files. This deviation from their usual pattern is statistically significant with a z-score of 3.07. Additionally, they visited job-search sites 31 times, which is far above their typical frequency of 10.5 visits and well beyond the peer distribution. Furthermore, their overall activity volume was unusually high, with 665 web requests, exceeding their typical amount by over 1.4 times and significantly deviating from the peer range.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "6c2facc73bac"
+  }
+}

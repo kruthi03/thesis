@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "The UEBA system flagged ACM2278's (Allen Cruz McCoy) week for triggered rules, specifically rule R4. This rule detects atypical browsing behavior, and the evidence suggests that Allen visited leak-publication sites three times this week, which is well above his typical zero visits and within the possible maximum of four visits. This unusual activity stands out as a potential anomaly worth investigating further.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

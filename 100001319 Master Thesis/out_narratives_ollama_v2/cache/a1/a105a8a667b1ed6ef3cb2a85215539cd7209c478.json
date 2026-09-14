@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "Carlos Dieter Ewing (CDE1846) had a significantly higher overall activity volume compared to his same-role peers, with 8 file operations observed during this period. This is more than four times the maximum volume typically seen by him and far outside the peer distribution, triggering rule R5.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "c649b67f9bdc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, PJC1252's (Pamela Julie Case) behavior was flagged due to elevated file copying to removable media and atypical browsing to job-search and leak-publication sites. The evidence shows that PJC1252 copied 15 files to removable media, which is significantly above their usual range of 1. This is the primary driver for the detection. Additionally, PJC1252 visited job-search sites 12 times, which is far above their typical 0 and above the peer range of 1 among 85 peers in the same role.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "06ffa8b234ef"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user CMP2946, a salesman in the Regional Sales team, has triggered rule R4. The primary evidence is the significant increase in visits to job-search sites, with 21 visits this week, far above their usual range and exceeding the typical number among peers in this role. This anomaly is particularly noteworthy given that there is no corresponding increase in visits to leak-publication sites, which suggests that this activity is not related to a general trend of seeking sensitive information.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "67ba247283ed"
+  }
+}

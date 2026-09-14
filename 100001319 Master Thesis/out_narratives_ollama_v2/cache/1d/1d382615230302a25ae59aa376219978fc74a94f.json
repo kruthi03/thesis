@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "Adele Fiona Boone's activities have triggered two detection rules. The most significant evidence for this is her unusual volume of logons outside her working hours, with 4 logins during a time when she typically logs on less than once every two weeks. Additionally, her browsing to job-search sites has exceeded her typical behavior by a significant margin, with 70 visits in one week compared to an average of 36 and a peer range of 8.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

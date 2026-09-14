@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for JAF0209, Director of Research and Engineering, has triggered detection rules due to unusual volume of logons outside their working hours and overall activity volume far outside their same-role peer distribution. Specifically, there were 8 logons outside their typical working hours, which is a significant increase from their usual 2.50 logons. Additionally, the overall activity volume reached 1330 web requests, which is far above their typical 950 requests and even farther above the peer distribution of 760 requests among 23 peers in this role.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

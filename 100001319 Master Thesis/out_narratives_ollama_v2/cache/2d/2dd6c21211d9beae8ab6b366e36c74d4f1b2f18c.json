@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "Mercedes Josephine Ayala's (MJA2380) activity in Week 2011-W02 has triggered two detection rules. The most significant evidence is the unusually high volume of file operations, with 51 events exceeding her typical range and significantly more than same-role peers (z=5.7). This suggests a heightened level of activity that warrants further investigation.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "9cf542cc9e79"
+  }
+}

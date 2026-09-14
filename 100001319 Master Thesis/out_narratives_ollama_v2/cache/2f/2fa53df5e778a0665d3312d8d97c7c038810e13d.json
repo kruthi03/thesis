@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from triggered rules. Specifically, AGW1590's file operations (34) were significantly higher than their typical range and far outside the same-role peer distribution. Additionally, they copied 12 files to removable media, which is a notable increase from their recent typical of 3 and above the max of 13.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "d0dc80a513b1"
+  }
+}

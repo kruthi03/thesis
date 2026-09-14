@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, CDE1846 (Carlos Dieter Ewing) as an Electrical Engineer in the 13th team's Research and Engineering group has exhibited unusual activity. Most notably, the volume of attachment data sent to external recipients has reached 50.06 MB, significantly above their typical range of 9.49 MB. Additionally, the overall activity volume is far outside the range of their same-role peers, with 16 file operations compared to the typical 1 among peers. These two factors have triggered detection rules R3 and R5, respectively.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "ea3d0678f325"
+  }
+}

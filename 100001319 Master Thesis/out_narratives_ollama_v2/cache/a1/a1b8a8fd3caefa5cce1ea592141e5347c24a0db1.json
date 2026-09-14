@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b4ce2baa3e04",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    8
+  ],
+  "text": "Adele Fiona Boone's activity was flagged due to unusual volume of logons outside her working hours and browsing to job-search or leak-publication sites atypical for her role. The evidence shows that she had 4 logons outside her typical range, which is a significant increase from her usual 0.50 logons per week. Additionally, she visited job-search sites 70 times this week, exceeding her typical range of 36 and the peer range of 8 among same-role peers.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "b4ce2baa3e04"
+  }
+}

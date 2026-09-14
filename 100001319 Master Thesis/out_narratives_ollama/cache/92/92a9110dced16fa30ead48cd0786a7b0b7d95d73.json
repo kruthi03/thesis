@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user CMP2946 (Chandler Martin Page) was flagged due to evidence from triggered rules. Specifically, there were 21 visits to job-search sites, which is significantly above their typical and maximum values. This anomaly is further supported by a z-score of 21.0, indicating that this activity is atypical not just for the user but also compared to same-role peers who had only 3 such visits this week out of 70 total.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "67ba247283ed"
+  }
+}

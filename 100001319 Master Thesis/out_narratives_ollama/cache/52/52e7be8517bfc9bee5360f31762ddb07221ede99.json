@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "This week's activity for user HAG3196 has triggered multiple detection rules. The most notable evidence is the elevated number of files copied to removable media, with 68 files transferred, which is significantly higher than their typical rate and exceeds the maximum recorded amount. This, combined with an overall activity volume far outside what is expected for users in the same role (167 file operations), suggests a possible data exfiltration attempt. Additionally, the user's browsing habits have shifted dramatically, with 31 visits to job-search sites, which is highly atypical for their role and far beyond what is seen in their peer group.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "6c2facc73bac"
+  }
+}

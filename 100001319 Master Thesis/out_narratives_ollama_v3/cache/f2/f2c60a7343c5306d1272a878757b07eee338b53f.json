@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "Felix Dustin Fletcher, an Electrical Engineer in the Test and Evaluation team, has been flagged for review due to two triggered detection rules. The most significant evidence is the sudden and extreme increase in file operations, with 129 activities this week compared to their typical range of 78. This is far outside the peer range of 1, which is also typical among same-role peers this week. Additionally, Felix's overall activity volume is extremely high, with 600 web requests this week compared to their typical range of 500. This is also significantly higher than the peer range of 475.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "a0a7dc154e87"
+  }
+}

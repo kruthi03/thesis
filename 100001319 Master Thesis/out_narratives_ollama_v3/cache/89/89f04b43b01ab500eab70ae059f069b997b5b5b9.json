@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "ZCS0012's activity this week is flagged due to an unusual volume of attachment data sent to external recipients. Specifically, the 54.57 MB of email attachments sent is significantly higher than their usual range of 23.37 MB. While their total number of external email recipients, 61, is within their typical range, the large volume of attachment data suggests that this week's activity is anomalous.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "e0daedcec5e8"
+  }
+}

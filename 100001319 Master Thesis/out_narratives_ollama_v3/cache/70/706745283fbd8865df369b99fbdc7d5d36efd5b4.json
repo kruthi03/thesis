@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    1
+  ],
+  "text": "CMP2946, a salesman in the RegionalSales team, has triggered rule R4 due to atypical browsing activity. Specifically, their visits to job-search sites have increased to 7, which is significantly above their usual range and even higher than what is typical among their peers in the same role. This suggests that CMP2946 may be searching for job opportunities outside of their usual norms, which warrants further investigation.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    8
+  ],
+  "text": "This week, CDE1846 (Carlos Dieter Ewing) had a significant increase in file operations, with 8 events, which is far outside their usual range and also above the peer distribution. This anomaly is the primary evidence that triggered the detection rules.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "c649b67f9bdc"
+  }
+}

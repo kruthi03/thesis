@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for Jason Amery Franco, Director of ResearchAndEngineering_Government_Foreign, triggered two detection rules. The most concerning evidence is the unusual volume of logons outside their working hours (8), which far exceeds their typical range and even the highest recorded in the prior 12 weeks. Additionally, their overall activity volume was significantly higher than both their own recent typical behavior and the peer distribution for same-role users.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

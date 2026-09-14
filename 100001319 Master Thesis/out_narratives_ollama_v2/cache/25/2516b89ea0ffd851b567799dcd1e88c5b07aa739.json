@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    4
+  ],
+  "text": "Pamela Julie Case, a software developer from Team 7-WebSoftware's Functional unit 3, has triggered two anomaly detection rules for her activities during Week 2010-W12. The first trigger is due to an elevated number of files being copied to removable media, with 15 files copied (own recent typical: 1, max: 12), indicating a significant increase from her normal behavior. This is the most concerning evidence, as it suggests that Pamela may be preparing to leave the organization or sharing sensitive information.\n\nThe second trigger is due to atypical browsing activities, specifically visiting job-search sites with 12 visits (own recent typical: 0, max: 52), which is unusual for her role.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "06ffa8b234ef"
+  }
+}

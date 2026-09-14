@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a0a7dc154e87",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Felix Dustin Fletcher's (User FDF2135) activity for review due to evidence from triggered rules. Specifically, there were 34 visits to job-search sites, which is an atypical behavior for his role as an Electrical Engineer in the Test and Evaluation team, far outside the peer distribution. Additionally, there was a significant increase in file operations, with 129 actions, exceeding the typical volume for this role by a wide margin.\n\nWhile Felix's activity appears otherwise normal, with no unusual visits to leak-publication or cloud-storage sites, it is worth investigating further due to these two anomalous behaviors.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "a0a7dc154e87"
+  }
+}

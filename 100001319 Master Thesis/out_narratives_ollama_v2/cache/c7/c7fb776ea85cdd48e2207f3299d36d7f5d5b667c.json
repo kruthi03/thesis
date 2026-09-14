@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    2
+  ],
+  "text": "This week was flagged due to evidence from two triggered rules. The most significant finding is that AGW1590, a salesperson, had an elevated number of files copied to removable media (12), which is well above their typical range (3) and even higher than their highest volume in the prior 12 weeks (13). Additionally, their overall activity volume was far outside the same-role peer distribution, with 34 file operations exceeding their usual range by a significant margin.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "d0dc80a513b1"
+  }
+}

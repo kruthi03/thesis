@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing (CDE1846) has been flagged due to evidence from triggered rules. The most significant indicator is the unusually high volume of attachment data sent to external recipients, with a total of 50.06 MB being transmitted - more than six times his recent typical range and far beyond what same-role peers have observed this week. Additionally, there was an unusual volume of file operations, with 16 events occurring, which is also significantly higher than both his recent typical and the average seen in same-role peer activity this week.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "ea3d0678f325"
+  }
+}

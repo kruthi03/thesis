@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    3
+  ],
+  "text": "This week's activity for user CDE1846 (Carlos Dieter Ewing) has been flagged due to an unusual increase in file operations. Typically, Carlos performs around 1.5 file operations per week, but this week he performed 8, which is significantly higher than the norm. This is also supported by the overall peer distribution, where only one other user in the same role and team has a similar volume of file operations (z=4.72).",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "c649b67f9bdc"
+  }
+}

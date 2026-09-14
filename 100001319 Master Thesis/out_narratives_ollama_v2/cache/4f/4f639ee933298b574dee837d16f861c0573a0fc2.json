@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "The UEBA system flagged a high overall activity volume for user CDE1846, exceeding the same-role peer distribution. This is primarily driven by file operations, which reached 8 this week, significantly above their typical range of 1.50 and even higher than their highest in the prior 12 weeks at 13. Meanwhile, other activity metrics such as logon events, web requests, removable device connections, distinct workstations used, and days with recorded activity are within Carlos Dieter Ewing's usual range or similar to that among same-role peers. This suggests that the anomalous file operations might be the primary cause of the triggered detection rules.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "c649b67f9bdc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    0
+  ],
+  "text": "Vice President Zenaida Carol Snow's week, 2010-W32, was flagged due to an unusual volume of attachment data sent to external recipients. Specifically, 54.57 MB of attachment data was sent, which is above their usual range of 23.37 MB and even higher than their highest previous 12-week total of 45.10 MB. While this is the highest volume of attachment data sent by Snow in the past year, it's still within the range of their peers in the same role, who sent an average of 15.75 MB of attachment data this week.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "e0daedcec5e8"
+  }
+}

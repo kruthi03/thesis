@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d0dc80a513b1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activities for AGW1590 were flagged due to evidence from two triggered rules. The first rule, \"Elevated number of files copied to removable media\", was triggered because AGW1590 copied 12 files to removable media, which is significantly above their recent typical of 3 and the maximum of 13 (z=5.2). This suggests that they may have been preparing for a sales presentation or meeting.\n\nThe second rule, \"Overall activity volume far outside the same-role peer distribution\", was also triggered due to AGW1590's high file operations count of 34, which is well above their recent typical of 14 and the maximum of 28 (z=5.35). This suggests that they may have been working on a large sales proposal or presentation.\n\nIt's worth noting that AGW1590's removable device connections were not unusual this week, with only 10 connections, and none outside working hours.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "d0dc80a513b1"
+  }
+}

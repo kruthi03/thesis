@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Jason Amery Franco's activity was flagged due to unusual volume of logons outside his typical working hours and overall activity volume far outside the peer distribution. Specifically, he had 8 logons outside his usual working hours, which is significantly above his typical range of 2.50. Additionally, his overall activity volume was 1330 web requests, which is far above his usual range of 950 and also far above the peer range of 760. This suggests that Jason's activity was not only unusual but also significant, warranting further investigation.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

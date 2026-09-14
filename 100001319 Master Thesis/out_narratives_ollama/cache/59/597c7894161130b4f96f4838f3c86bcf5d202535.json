@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    8
+  ],
+  "text": "The UEBA system flagged CMP2946's activity for review due to evidence suggesting atypical browsing behavior, specifically visiting job-search sites. According to the data, CMP2946 visited job-search sites 21 times this week, which is significantly higher than their typical and maximum values (0 and 13, respectively). This anomaly stands out even more when compared to same-role peers who only visited job-search sites 3 times this week.",
+  "meta": {
+    "seed": 20260824,
+    "signal_id": "67ba247283ed"
+  }
+}

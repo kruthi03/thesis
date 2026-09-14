@@ -1,0 +1,14 @@
+{
+  "key": [
+    "b1e9fc4b7ae7",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    7
+  ],
+  "text": "Allen Cruz McCoy, a salesman in the Regional Sales team, has been flagged for an anomaly in his browsing behavior. The most significant evidence is the unusually high number of visits to leak-publication sites, with 3 visits this week, which is clearly above his typical range of 0. This suggests that he may be searching for job opportunities or looking at sensitive information, which is atypical for his role.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "b1e9fc4b7ae7"
+  }
+}

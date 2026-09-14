@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's activity for CMP2946, a salesman in the RegionalSales team, was flagged due to evidence from triggered rule R4. The evidence suggests that CMP2946 visited job-search sites atypically, with 7 visits observed, which is well above their typical range of 0 and significantly higher than their peers' average of 1 (z=7.0). This unusual behavior is the primary reason for the flag.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

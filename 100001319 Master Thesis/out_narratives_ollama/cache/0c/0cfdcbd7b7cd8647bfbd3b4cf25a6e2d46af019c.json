@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for user CDE1846 (Carlos Dieter Ewing) was flagged due to an unusual volume of file operations, with a total of 13 events. This is significantly higher than his typical range of 1-6 events and far outside the peer distribution for users in the same role within the Electrical Engineering team.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "d7021ac17ab1"
+  }
+}

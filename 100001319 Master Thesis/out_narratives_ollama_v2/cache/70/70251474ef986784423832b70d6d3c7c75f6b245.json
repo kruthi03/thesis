@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "This week's activity for user PJC1252, Pamela Julie Case, has triggered two detection rules. The most significant evidence is the elevated number of files copied to removable media, with 15 files copied, which is clearly above their usual range and the highest in the prior 12 weeks. Additionally, the user visited job-search sites 12 times, which is far above their typical activity and even exceeds the peer range among same-role peers this week.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "06ffa8b234ef"
+  }
+}

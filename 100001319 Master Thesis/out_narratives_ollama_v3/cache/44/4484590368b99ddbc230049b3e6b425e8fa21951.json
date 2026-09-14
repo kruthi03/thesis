@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "This week, user PJC1252 (Pamela Julie Case) triggered two rules, indicating elevated activity. The first anomaly is an elevated number of files copied to removable media, with 15 files copied, which is well above their typical range of 1. This suggests that PJC1252 may be transferring data to an external device, which is unusual for their role as a Software Developer. The second anomaly is an atypical number of visits to job-search or leak-publication sites, with 12 visits, which is far above their typical range of 0 and above the peer range of 1 across 85 peers in the same role. This could indicate that PJC1252 is searching for a new job or considering sharing sensitive information.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "06ffa8b234ef"
+  }
+}

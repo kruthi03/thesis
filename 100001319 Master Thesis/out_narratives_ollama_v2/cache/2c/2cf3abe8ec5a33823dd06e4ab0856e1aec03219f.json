@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e4f5ca67cebc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for user JAF0209 (Jason Amery Franco) triggered two detection rules due to unusual volume of logons outside his working hours and overall activity volume far exceeding that of same-role peers. The evidence suggests that JAF0209 had an unusually high number of logons, with 8 instances outside his typical working hours, which is significantly higher than the maximum recorded (z=3.48). Additionally, his total web request count was 1330, which is a staggering 380 requests above the peer average and maximum (z=12.33).",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "e4f5ca67cebc"
+  }
+}

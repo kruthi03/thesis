@@ -1,0 +1,14 @@
+{
+  "key": [
+    "6c2facc73bac",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "The UEBA system flagged Hall Aladdin Gardner's (HAG3196) activity for review due to evidence from triggered rules. The most notable evidence is the elevated number of files copied to removable media, with 68 files copied, which is clearly above their usual range and the highest in the prior 12 weeks. Additionally, the overall activity volume was far outside the same-role peer distribution, with 167 file operations and 665 web requests, both significantly higher than their typical activity.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "6c2facc73bac"
+  }
+}

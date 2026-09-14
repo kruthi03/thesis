@@ -1,0 +1,14 @@
+{
+  "source": "out_narratives_ollama\\narratives.jsonl",
+  "pooling": {
+    "method": "semantic",
+    "threshold": 0.85,
+    "embed_model": "nomic-embed-text:latest"
+  },
+  "model": "llama3:latest",
+  "prompt_version": "v1",
+  "temperature": 0.7,
+  "k": 10,
+  "signals": 20,
+  "unique_sentences": 202
+}

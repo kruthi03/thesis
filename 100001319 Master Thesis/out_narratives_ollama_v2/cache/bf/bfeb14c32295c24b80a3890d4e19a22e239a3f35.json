@@ -1,0 +1,14 @@
+{
+  "key": [
+    "06ffa8b234ef",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    4
+  ],
+  "text": "This week was flagged due to evidence from two triggered rules. The first rule, [R2], detected an elevated number of files copied to removable media. According to the data, Pamela Julie Case (PJC1252) copied 15 files to removable media, which is significantly above their typical range of 1 file and even higher than their highest level in the prior 12 weeks of 12 files.\n\nThe second rule, [R4], flagged PJC1252's browsing activity. They visited job-search sites atypical for their role 12 times this week, which is far above their usual range of 0 visits and even exceeds the peer average of 1 visit among 85 peers in the same role.\n\nWhile additional context suggests that PJC1252's removable device connections (6) and file operations (32) are also higher than normal, these values are not as striking as the flagged rules.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "06ffa8b234ef"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "CMP2946's browsing behavior during Week 2011-W07 is anomalous due to an unusual number of visits to job-search sites. This week, they visited job-search sites 21 times, which is far above their typical range and significantly higher than what peers with the same role typically see (3 visits). This spike in activity suggests that CMP2946 may be exploring job opportunities outside of their usual activities, warranting further investigation.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "67ba247283ed"
+  }
+}

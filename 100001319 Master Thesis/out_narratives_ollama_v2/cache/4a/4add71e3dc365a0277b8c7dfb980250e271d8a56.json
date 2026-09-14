@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    7
+  ],
+  "text": "Sebastian Cooper Hoffman's browsing behavior this week is flagged due to his unusually high number of visits to job-search sites, which is 45 and clearly above his typical range of 27.50. This is also far above the range of his peers in the same role, with only 1 peer visiting job-search sites this week.",
+  "meta": {
+    "seed": 20260823,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

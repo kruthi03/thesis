@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for Carlos Dieter Ewing (CDE1846) has been flagged due to his overall activity volume being significantly higher than that of same-role peers. The evidence lies in the file operations, which reached 8 instances this week, compared to a typical range of 1.50 to 13 instances for him and an average of 1 instance among same-role peers (z-score of 4.38).",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "c649b67f9bdc"
+  }
+}

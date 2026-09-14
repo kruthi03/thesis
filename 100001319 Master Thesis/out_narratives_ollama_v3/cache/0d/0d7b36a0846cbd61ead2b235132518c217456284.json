@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    3
+  ],
+  "text": "Carlos Dieter Ewing, an Electrical Engineer, had a week with significantly higher file operations compared to his peers. His 13 file operations far exceed the typical 1 operations seen in previous weeks, and are also above the 1 operations seen among same-role peers this week. This anomaly is the primary evidence for the triggered detection rule.",
+  "meta": {
+    "seed": 20260819,
+    "signal_id": "d7021ac17ab1"
+  }
+}

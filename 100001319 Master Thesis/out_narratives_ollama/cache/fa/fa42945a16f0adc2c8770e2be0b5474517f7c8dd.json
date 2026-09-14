@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "Carlos Dieter Ewing's (CDE1846) week of April 11-17 was flagged due to unusual activity volumes. The most significant evidence is the overall activity volume, which far exceeds that of his same-role peers, with 16 file operations detected, compared to an average of just one for his peers. This is a strong indication of anomalous behavior.\n\nAdditionally, the attachment data sent to external recipients was unusually high, at 50.06 MB, more than six standard deviations above Carlos' typical volume and exceeding even his recent maximum. The number of external email recipients, 36, is also significantly higher than usual, with most peers averaging around 14 such recipients this week.\n\nWhile the overall email volume is not abnormally high, it's worth noting that a significant proportion of emails sent were to external recipients, which may be related to the unusual attachment data.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "ea3d0678f325"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "c649b67f9bdc",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to evidence that CDE1846's (Carlos Dieter Ewing) overall activity volume is far outside the same-role peer distribution. Specifically, the number of file operations for Carlos stands out at 8, which is above their typical range and significantly higher than what peers in the Electrical Engineering team typically see during a normal week.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "c649b67f9bdc"
+  }
+}

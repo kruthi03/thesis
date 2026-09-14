@@ -1,0 +1,14 @@
+{
+  "key": [
+    "1f003e84ecfb",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    6
+  ],
+  "text": "This week's activity for User ILK3668, StockroomClerk, was flagged due to unusual evidence. The most notable anomalies are the unusually high number of files copied to removable media (39) and the significant increase in logons outside working hours (3). While the overall volume of logon events is within normal limits, the frequency of logins during non-work hours suggests a departure from ILK3668's typical behavior. The elevated file operations may also be related to these unusual logons.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "1f003e84ecfb"
+  }
+}

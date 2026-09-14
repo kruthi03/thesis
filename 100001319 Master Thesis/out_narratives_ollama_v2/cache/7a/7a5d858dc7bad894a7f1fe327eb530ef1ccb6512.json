@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    2
+  ],
+  "text": "This week's anomaly was triggered due to CMP2946's unusual browsing behavior, specifically visiting job-search sites at an atypical rate for his role. The evidence suggests that CMP2946 visited job-search sites 21 times this week, which is significantly above his typical range of 0-13 visits and even higher than the average number of visits by same-role peers (3 out of 70).",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "67ba247283ed"
+  }
+}

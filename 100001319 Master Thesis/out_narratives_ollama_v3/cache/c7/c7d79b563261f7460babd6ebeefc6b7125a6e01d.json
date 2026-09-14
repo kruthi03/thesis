@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    6
+  ],
+  "text": "This week, CMP2946's browsing behavior is unusual for their role as a Salesman. Specifically, they visited job-search sites 21 times, which is far above their typical range and significantly higher than what their peers in the same role were doing this week. While this is the primary reason for the flag, it's worth noting that their visits to leak-publication sites were normal, suggesting that this anomaly is not related to a desire to leak confidential information.",
+  "meta": {
+    "seed": 20260822,
+    "signal_id": "67ba247283ed"
+  }
+}

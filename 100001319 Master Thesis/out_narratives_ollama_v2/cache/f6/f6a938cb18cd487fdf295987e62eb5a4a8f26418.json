@@ -1,0 +1,14 @@
+{
+  "key": [
+    "67ba247283ed",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    1
+  ],
+  "text": "The UEBA system flagged this week for CMP2946 due to evidence that he visited job-search sites atypical for his role. Specifically, he visited job-search sites 21 times during this week, which is significantly higher than his typical frequency and maximum threshold (0-13 visits). This unusual behavior is further emphasized by the fact that same-role peers only visited such sites a total of 3 times this week.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "67ba247283ed"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "d7021ac17ab1",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    9
+  ],
+  "text": "This week, user CDE1846 (Carlos Dieter Ewing), an Electrical Engineer from Team 13, was flagged due to their overall activity volume being significantly higher than that of same-role peers. The evidence for this detection rule is primarily based on [F001], which shows a file operation count of 13, well above the user's typical range and peer distribution.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "d7021ac17ab1"
+  }
+}

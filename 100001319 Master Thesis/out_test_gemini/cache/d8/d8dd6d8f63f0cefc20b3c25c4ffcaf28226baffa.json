@@ -1,0 +1,13 @@
+{
+  "key": [
+    "107dcedee69e",
+    "gemini-3.6-flash",
+    "v4",
+    "0.7000"
+  ],
+  "text": "The alert was triggered primarily because Allen Cruz Mccoy visited leak-publication sites 4 times during week 2010-W33, an activity not observed for this user in the prior 12 weeks. The most likely explanation is benign web navigation, such as following news links or reading public reports out of curiosity. The user's overall web behavior remained baseline",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}

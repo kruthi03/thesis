@@ -1,0 +1,14 @@
+{
+  "key": [
+    "0ec64e3f86ed",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    9
+  ],
+  "text": "This week, Sebastian Cooper Hoffman's browsing behavior is anomalous for his role as a Security Guard. He visited job-search sites 45 times, which is significantly above his typical range of 27.5 and far above the average for peers in the same role (1 across 91 peers). The evidence suggests that he may be looking for new job opportunities, which is unusual for someone in his role.",
+  "meta": {
+    "seed": 20260825,
+    "signal_id": "0ec64e3f86ed"
+  }
+}

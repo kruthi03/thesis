@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ad1fbe8ed862",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    2
+  ],
+  "text": "This week, CMP2946's browsing activity was flagged due to a spike in visits to job-search sites, with 7 instances, which is significantly above their typical range of 0. This is also above the range of their peers in the same role, with 1 instance among 65 peers this week.",
+  "meta": {
+    "seed": 20260818,
+    "signal_id": "ad1fbe8ed862"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": [
+    "a5957fc70bf9",
+    "llama3:latest",
+    "v1",
+    "0.7000",
+    5
+  ],
+  "text": "This week was flagged due to unusual volume of attachment data sent to external recipients. Specifically, Carlos Dieter Ewing (CDE1846) sent 57.08 MB of email attachments to 33 external recipients, which is significantly above his recent typical of 9.49 MB and max of 50.06 MB. This surge in attachment data is also notable compared to same-role peers who averaged only 6.96 MB this week.",
+  "meta": {
+    "seed": 20260821,
+    "signal_id": "a5957fc70bf9"
+  }
+}

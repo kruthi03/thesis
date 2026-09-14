@@ -1,0 +1,14 @@
+{
+  "key": [
+    "9cf542cc9e79",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, Chief Engineer Mercedes Josephine Ayala's (MJA2380) activity volume far exceeded that of her peers in the Materials Engineering team. Specifically, she performed 51 file operations, which is 3.88 times the average of her peers (1). Additionally, she sent 60.10 MB of email attachments to external recipients, a significant increase from her typical 23.15 MB and well above the 8.63 MB average of her peers. These unusual activity patterns triggered the detection rules for unusual attachment data and overall activity volume.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "9cf542cc9e79"
+  }
+}

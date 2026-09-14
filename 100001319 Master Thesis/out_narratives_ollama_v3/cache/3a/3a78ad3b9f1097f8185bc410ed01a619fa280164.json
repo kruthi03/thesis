@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "The user ACM2278, a salesman in the Regional Sales team, had a flagged week due to triggered detection rules. Specifically, they visited leak-publication sites four times, which is a significant departure from their typical behavior in the prior 12 weeks. This anomaly is likely the most concerning aspect, as it suggests that the user may be searching for job opportunities or sharing sensitive information. While they also visited job-search sites 25 times, this is actually within their usual range, and their activity in other areas, such as cloud-storage sites and web domains, was unremarkable.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "107dcedee69e"
+  }
+}

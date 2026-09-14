@@ -1,0 +1,14 @@
+{
+  "key": [
+    "ea3d0678f325",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    4
+  ],
+  "text": "This week, user CDE1846 (Carlos Dieter Ewing) triggered two rules, indicating unusual behavior. The most significant finding is the unusually high volume of attachment data sent to external recipients, with 50.06 MB of attachments sent, which is far above their typical range of 9.49 MB and even above the average of 9.00 MB among same-role peers. Additionally, the overall activity volume is extremely high, with 16 file operations, which is far above their typical range of 2 and the average of 1 among same-role peers.",
+  "meta": {
+    "seed": 20260820,
+    "signal_id": "ea3d0678f325"
+  }
+}

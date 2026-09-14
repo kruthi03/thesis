@@ -1,0 +1,14 @@
+{
+  "key": [
+    "e0daedcec5e8",
+    "llama3:latest",
+    "v2",
+    "0.7000",
+    1
+  ],
+  "text": "This week's activity for Zenaida Carol Snow, Vice President of PurchasingAndContracts, triggered rule R3 due to an unusual volume of attachment data sent to external recipients. The evidence for this detection is primarily driven by the significant increase in attachment data sent, with 54.57 MB of attachments sent this week, which is clearly above their usual range of 23.37 MB. While this is the highest volume sent in the past 12 weeks, it is still within the range typical for peers in the same role.",
+  "meta": {
+    "seed": 20260817,
+    "signal_id": "e0daedcec5e8"
+  }
+}

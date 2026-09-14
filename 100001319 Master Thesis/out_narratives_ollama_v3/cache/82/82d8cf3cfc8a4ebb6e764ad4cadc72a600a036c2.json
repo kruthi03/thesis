@@ -1,0 +1,14 @@
+{
+  "key": [
+    "107dcedee69e",
+    "llama3:latest",
+    "v3",
+    "0.7000",
+    0
+  ],
+  "text": "ACM2278's week 2010-W33 activity is flagged due to evidence of atypical browsing to leak-publication sites, with 4 visits, which is a significant departure from their usual behavior over the past 12 weeks. Notably, this user's browsing to job-search sites is unusually high, with 25 visits, significantly above their peers' average of 1 visit.",
+  "meta": {
+    "seed": 20260816,
+    "signal_id": "107dcedee69e"
+  }
+}
